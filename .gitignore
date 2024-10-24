@@ -11,6 +11,7 @@ Datasets/Hotels.jsonl
 Datasets/Hotels_Reviews.jsonl
 Datasets/Attractions.jsonl
 Datasets/Attractions_Reviews.jsonl
+Datasets/Hotels_Google_Candidates.jsonl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
