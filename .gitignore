@@ -5,6 +5,12 @@ Datasets/Philadelphia_Hotels_Reviews.jsonl
 Datasets/Philadelphia_Hotels.jsonl
 Datasets/Philadelphia_Restaurants_Reviews.jsonl
 Datasets/Philadelphia_Restaurants.jsonl
+Datasets/Restaurants.jsonl
+Datasets/Restaurants_Reviews.jsonl
+Datasets/Hotels.jsonl
+Datasets/Hotels_Reviews.jsonl
+Datasets/Attractions.jsonl
+Datasets/Attractions_Reviews.jsonl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
