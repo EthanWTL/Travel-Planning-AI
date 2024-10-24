@@ -1,3 +1,11 @@
+#Large Dataset
+Datasets/Philadelphia_Attractions_Reviews.jsonl
+Datasets/Philadelphia_Attractions.jsonl
+Datasets/Philadelphia_Hotels_Reviews.jsonl
+Datasets/Philadelphia_Hotels.jsonl
+Datasets/Philadelphia_Restaurants_Reviews.jsonl
+Datasets/Philadelphia_Restaurants.jsonl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
