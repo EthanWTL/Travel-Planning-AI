@@ -1,0 +1,66 @@
+Please assist me in carefully extracting and documenting valid information from a given natural language text and reconstructing it in JSON format , as demonstrated in the following example . There are two sets of attractions before and after lunch. Except for accommodation, each category will contain 'business', and 'time slot', which is the name of the business and the time slot that plan assigned. Each item should include ['day ', 'breakfast ', 'attraction 1 ', ' lunch ', 'attraction 2 ', 'dinner ', 'accommodation ']. Calculate the time slot carefully and as detailed as possible. Replace non - specific or missing information like 'eat at home / on the road ' with '-' . Only output the json information, nothing else.
+----- EXAMPLE - - - - -
+[
+    {
+        "days": 1 ,
+        "breakfast":
+            {
+                "business": "Spread Bagelry",
+                "time slot": "-"
+            } ,
+        "attraction daytime": 
+            [
+                {
+                    "business": "Independence Hall",
+                    "time": "9:00 AM - 10:30 AM"
+                },
+                {
+                    "business": "Philadelphia's Magic Gardens",
+                    "time": "10:30 AM - 12:30 AM"
+                }
+            ],
+        "lunch": 
+            {
+                "business": "Pat's King of Steaks",
+                "time": "12:30 AM - 1:30 PM"
+            },
+        "attraction afternoon": 
+            {
+                "business": "the Betsy Ross House",
+                "time": "2:00 PM - 7:00 PM"
+            },
+        "dinner": 
+            {
+                "business": "El Fuego",
+                "time": "7:00 PM - 9:30 PM"
+            }, 
+        "accommodation": "Hyatt Centric Center City Philadelphia"
+    } ,
+    {
+        "days": 2 ,
+        "breakfast":
+            {
+                "business": "Tandoor Ka Zaika",
+                "time": "8:00 AM - 9:30 AM"
+            },
+        "attraction daytime": 
+            {
+                "business": "Philadelphia Zoo",
+                "time": "9:30 AM - 12:00 AM "
+            },
+        "lunch": 
+            {
+                "business": "Abe Fisher",
+                "time": " 12:30 AM - 1:30 PM "
+            },
+        "attraction afternoon": 
+            {
+                "business": "Reading Terminal Market",
+                "time": " 2:30 PM - 8:00 PM "
+            }, 
+        "dinner": "-",
+        "accommodation": "-"
+    }
+]
+----- EXAMPLE ENDS - - - - -
+Text :
