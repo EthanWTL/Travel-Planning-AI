@@ -1,47 +1,19 @@
-Reconstrcut the plan into a valid json format as the example below. Json format requirement: Each item should include ['day ', 'breakfast ', 'attraction daytime ', ' lunch ', 'attraction afternoon ', 'dinner ', 'accommodation ']. Each value has a json data listed as: 'name', 'time slot'. Attractions can have multiple entries in an array. Replace non - specific like 'wander/ exploring the street' or missing information like no recommendation for dinner with '-'. Parse the output into valid json format.
+Extract and resonstruct the natural language travel plan into JSON format. 
+
+Json format requirement: Each object indicates one day in the trip. Each object includes the fields ['day', 'breakfast','attraction morning', 'lunch','attraction afternoon', 'dinner','accommodation']. Add ['attraction morning 2', 'attraction afternoon 2'] if needed. Replace non - specific or missing information with '-'. Output the valid json only.
 
 ----- EXAMPLE - - - - -
 [
     {
-        "day": X ,
-        "breakfast":
-            {
-                "name": "A",
-                "time slot": "XX:XX AM - XX:XX AM"
-            } ,
-        "attraction daytime": 
-            [
-                {
-                    "name": "B",
-                    "time": "XX:XX AM - XX:XX AM"
-                },
-                {
-                    "name": "C",
-                    "time": "XX:XX AM - XX:XX AM"
-                }
-            ],
-        "lunch": 
-            {
-                "name": "D",
-                "time": "XX:XX PM - XX:XX PM"
-            },
-        "attraction afternoon": 
-            [
-                {
-                    "name": "E",
-                    "time": "XX:XX PM - XX:XX PM"
-                }
-            ],
-        "dinner": 
-            {
-                "name": "F",
-                "time": "XX:XX PM - XX:XX PM"
-            }, 
-        "accommodation": 
-            {
-                "name": "G",
-                "time": "-"
-            }
-    } 
+        "day1":"A",
+        "breakfast":"B",
+        "attraction morning": "C"
+        "attraction morning 2": "D"
+        "lunch": "E",
+        "attraction afternoon":"F"
+        "attraction afternoon 2": "G"
+        "dinner": "H",
+        "accommodation": "I"
+    }
 ]
 ----- EXAMPLE ENDS - - - - -

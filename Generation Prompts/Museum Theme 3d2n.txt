@@ -1,3 +1,0 @@
-. Based on the above information, provide a travel plan in Philadelphia. Specifically, provide name and time slots for each attraction, restaurant, and accomodation on a daily basis.
-
-Travel plan requirements: 3 day 2 night. Preference: Museum Theme.

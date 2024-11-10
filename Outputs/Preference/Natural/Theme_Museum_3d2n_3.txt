@@ -1,0 +1,67 @@
+**Day 1**
+
+* **Accommodation:** The Rittenhouse Hotel (4-star)
+	+ Address: 210 W Rittenhouse Sq, Philadelphia, PA 19103
+* **Breakfast:** Breakfast Boutique Chestnut Hill (4-star)
+	+ Address: 8630 Germantown Ave, Philadelphia, PA 19118
+	+ Menu: American breakfast favorites with a twist
+* **Attraction 1:** The Franklin Institute Science Museum (4.5/5)
+	+ Address: 222 N 20th St, Philadelphia, PA 19103
+	+ Opening Hours: 9:30 AM - 5 PM
+	+ Tickets: $19-$24 per adult
+	+ Description: Explore science and technology through interactive exhibits.
+* **Lunch:** Reading Terminal Market (4.5/5)
+	+ Address: 51 N 12th St, Philadelphia, PA 19107
+	+ Menu: A variety of cuisines including American, Italian, and Asian options
+* **Attraction 2:** The Barnes Foundation (4/5)
+	+ Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130
+	+ Opening Hours: 10 AM - 4 PM
+	+ Tickets: $20 per adult
+	+ Description: Discover an impressive collection of impressionist and post-impressionist art.
+* **Dinner:** Vetri Cucina (4.5/5)
+	+ Address: 1312 Spruce St, Philadelphia, PA 19107
+	+ Menu: Italian cuisine with a focus on seasonal ingredients
+
+**Day 2**
+
+* **Breakfast:** Spread Bagelry (3.5/5)
+	+ Address: 3602 Chestnut St, Philadelphia, PA 19104
+	+ Menu: French-inspired breakfast options
+* **Attraction 1:** The Museum of the American Revolution (4/5)
+	+ Address: 101 S 3rd St, Philadelphia, PA 19106
+	+ Opening Hours: 9 AM - 5 PM
+	+ Tickets: $20 per adult
+	+ Description: Explore America's revolutionary history through immersive exhibits.
+* **Lunch:** Liberty Bell Diner (4/5)
+	+ Address: 8445 Frankford Ave, Philadelphia, PA 19124
+	+ Menu: American diner favorites with a twist
+* **Attraction 2:** The National Constitution Center (4/5)
+	+ Address: 525 Arch St, Philadelphia, PA 19106
+	+ Opening Hours: 9 AM - 5 PM
+	+ Tickets: $14 per adult
+	+ Description: Learn about the United States' founding principles and history.
+* **Dinner:** Independence Beer Garden (3.5/5)
+	+ Address: 100 S Independence Mall W, Philadelphia, PA 19106
+	+ Menu: American cuisine with a focus on craft beer
+
+**Day 3**
+
+* **Breakfast:** The Bakeshop on 20th (4.5/5)
+	+ Address: 269 S 20th St, Philadelphia, PA 19103
+	+ Menu: French-inspired pastries and sandwiches
+* **Attraction 1:** The Magic Gardens (4.5/5)
+	+ Address: 1020 S St, Philadelphia, PA 19147
+	+ Opening Hours: 10 AM - 6 PM
+	+ Tickets: $20 per adult
+	+ Description: Explore an incredible collection of mosaics and sculptures.
+* **Lunch:** The Old City Pizza (3/5)
+	+ Address: 100 N 3rd St, Philadelphia, PA 19106
+	+ Menu: Classic New York-style pizza
+* **Attraction 2:** Eastern State Penitentiary Historic Site (4.5/5)
+	+ Address: 2027 Fairmount Ave, Philadelphia, PA 19130
+	+ Opening Hours: 10 AM - 5 PM
+	+ Tickets: $14 per adult
+	+ Description: Learn about America's oldest prison and its historical significance.
+* **Dinner:** El Merkury (4/5)
+	+ Address: 2104 Chestnut St, Philadelphia, PA 19103
+	+ Menu: Salvadoran cuisine with a twist
