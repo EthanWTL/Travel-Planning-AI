@@ -1,8 +1,8 @@
-. Limited in the above information, provide a trip plan in Philadelphia in natural language. Specifically, provide name and time arrangments for attractions, restaurants, and accomodations on a daily basis. This is the first part of the output.
+. Limited in the above information, provide a trip plan in Philadelphia in natural language. Specifically, provide name, time arrangments, and price for attractions, restaurants, and accomodations on a daily basis. This is the first part of the output.
 
 Travel plan requirements: 3 day 2 night. Preference: Museum Theme.
 
-Then, reconstrcut the plan into a valid json format as the example below. Json format requirement: Each item should include ['day ', 'breakfast ', 'attraction daytime ', ' lunch ', 'attraction afternoon ', 'dinner ', 'accommodation ']. Each value has a json data listed as: 'name' and 'time slot'. Attractions can have multiple entries in an array. Replace non - specific like 'wander/ exploring the street' or missing information like no recommendation for dinner with '-'. Parse the output into valid json format.
+Then, reconstrcut the plan into a valid json format as the example below. Json format requirement: Each item should include ['day ', 'breakfast ', 'attraction daytime ', ' lunch ', 'attraction afternoon ', 'dinner ', 'accommodation ']. Each value has a json data listed as: 'name', 'time slot', and 'price level'. Attractions can have multiple entries in an array. Replace non - specific like 'wander/ exploring the street' or missing information like no recommendation for dinner with '-'. Parse the output into valid json format.
 
 ----- EXAMPLE - - - - -
 [
@@ -11,40 +11,47 @@ Then, reconstrcut the plan into a valid json format as the example below. Json f
         "breakfast":
             {
                 "name": "A",
-                "time slot": "XX:XX AM - XX:XX AM"
+                "time slot": "XX:XX AM - XX:XX AM",
+                "price level": "$"
             } ,
         "attraction daytime": 
             [
                 {
                     "name": "B",
-                    "time": "XX:XX AM - XX:XX AM"
+                    "time": "XX:XX AM - XX:XX AM".
+                    "price level": "-"
                 },
                 {
                     "name": "C",
-                    "time": "XX:XX AM - XX:XX AM"
+                    "time": "XX:XX AM - XX:XX AM",
+                    "price level": "$"
                 }
             ],
         "lunch": 
             {
                 "name": "D",
-                "time": "XX:XX PM - XX:XX PM"
+                "time": "XX:XX PM - XX:XX PM",
+                "price level": "$$"
             },
         "attraction afternoon": 
             [
                 {
                     "name": "E",
-                    "time": "XX:XX PM - XX:XX PM"
+                    "time": "XX:XX PM - XX:XX PM",
+                    "price level": "-"
                 }
             ],
         "dinner": 
             {
                 "name": "F",
-                "time": "XX:XX PM - XX:XX PM"
+                "time": "XX:XX PM - XX:XX PM",
+                "price level": "$$$$"
             }, 
         "accommodation": 
             {
                 "name": "G",
-                "time": "-"
+                "time": "-",
+                "price level": "$$"
             }
     } 
 ]
