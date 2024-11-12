@@ -1,0 +1,3 @@
+Output instructions: Basing on the above information and the following query, provide a detailed travel itinerary in Philadelphia that user can follow step-by-step. Specifically, choose breakfast, one or more attraction(s) before lunch, lunch, one or more attraction(s) after lunch, dinner, and accommodation for each day in a chronological order. Be concise.
+
+Query: 3 days, diverse themes

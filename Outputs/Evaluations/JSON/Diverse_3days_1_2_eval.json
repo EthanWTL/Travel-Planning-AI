@@ -1,0 +1,86 @@
+[
+    {
+        "day": "Day 1",
+        "breakfast": {
+            "business name": "McMenamin's Tavern"
+        },
+        "attraction before lunch": [
+            {
+                "business name": "Liberty Bell Center"
+            }
+        ],
+        "lunch": {
+            "business name": "Pat's King of Steaks"
+        },
+        "attraction after lunch": [
+            {
+                "business name": "Independence Hall"
+            },
+            {
+                "business name": "Liberty Bell"
+            }
+        ],
+        "dinner": {
+            "business name": "El Merkury"
+        },
+        "accommodation": {
+            "business name": "The Franklin Hotel"
+        }
+    },
+    {
+        "day": "Day 2",
+        "breakfast": {
+            "business name": "Federal Donuts"
+        },
+        "attraction before lunch": [
+            {
+                "business name": "Philadelphia Museum of Art"
+            }
+        ],
+        "lunch": {
+            "business name": "Square Pizza"
+        },
+        "attraction after lunch": [
+            {
+                "business name": "Fairmount Water Works"
+            },
+            {
+                "business name": "Wissahickon Valley Trail"
+            }
+        ],
+        "dinner": {
+            "business name": "Han Dynasty"
+        },
+        "accommodation": {
+            "business name": "Hyatt Regency Philadelphia"
+        }
+    },
+    {
+        "day": "Day 3",
+        "breakfast": {
+            "business name": "The Good King Tavern"
+        },
+        "attraction before lunch": [
+            {
+                "business name": "Reading Terminal Market"
+            }
+        ],
+        "lunch": {
+            "business name": "Kefia Cafe"
+        },
+        "attraction after lunch": [
+            {
+                "business name": "Elfreth's Alley"
+            },
+            {
+                "business name": "Christ Church Burial Ground"
+            }
+        ],
+        "dinner": {
+            "business name": "Tria Cafe Rittenhouse"
+        },
+        "accommodation": {
+            "business name": "Loews Philadelphia Hotel"
+        }
+    }
+]
