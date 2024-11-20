@@ -1,0 +1,22 @@
+{
+    "family_oriented": {
+        "level": 2,
+        "reason": "Independence Hall offers educational tours that can engage children, but the historical content may not fully captivate younger audiences."
+    },
+    "history_oriented": {
+        "level": 3,
+        "reason": "The site is pivotal in American history, being where the Declaration of Independence and the Constitution were signed, making it a must-visit for history enthusiasts."
+    },
+    "activity_oriented": {
+        "level": 1,
+        "reason": "The attraction involves a guided tour with minimal physical activity, primarily consisting of sitting and listening to historical narratives."
+    },
+    "nature_oriented": {
+        "level": 1,
+        "reason": "Independence Hall is primarily an indoor historical site with limited access to natural scenery, although it is located in a park-like setting."
+    },
+    "food_oriented": {
+        "level": 0,
+        "reason": "There are no food-related activities or offerings directly associated with Independence Hall."
+    }
+}

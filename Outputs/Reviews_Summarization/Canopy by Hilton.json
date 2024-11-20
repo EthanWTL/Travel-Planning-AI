@@ -1,0 +1,18 @@
+{
+    "quality": {
+        "rating": 4,
+        "reason": "Rooms are stylish and well-designed, featuring comfortable beds and modern amenities like Nespresso machines. However, some guests noted that rooms were small and had issues like slow drains."
+    },
+    "location": {
+        "rating": 5,
+        "reason": "The hotel is centrally located in Center City, within walking distance to major attractions like Reading Terminal Market and Independence Hall, making it very convenient for travelers."
+    },
+    "service": {
+        "rating": 4,
+        "reason": "Staff received consistent praise for being friendly and accommodating. However, there were occasional mentions of slow check-in and valet service issues."
+    },
+    "safety": {
+        "rating": 4,
+        "reason": "Guests felt safe during their stay, with good COVID-19 safety measures in place, although some noted that not all staff consistently wore masks."
+    }
+}
