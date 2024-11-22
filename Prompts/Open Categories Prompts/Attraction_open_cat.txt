@@ -1,0 +1,23 @@
+You are provided with a JSON dataset of attractions. Each attraction includes a "categories" attribute. Your task is to summarize the "categories" into two concise attributes: "Attraction type" and "Perks".
+
+Attraction Type: Summarize the main purpose or theme of the attraction using predefined categories following these rules:
+* Such as Museums, Parks, Local Flavor, Landmarks & Historical Buildings, or other words mentioned in the dataset itself.
+* Do not create new categories that is not presented in the data.
+* Choose the most accurate and comprehensive word as the attraction type.
+
+Perks: Highlight unique specialties or features of the attraction:
+* "Jazz & Blues" for a specific vibe or musical setting.
+* "Caribbean" for unique cuisine offerings.
+* "Nightlife" for activities involving evening entertainment.
+* Ensure the selected "perk" reflects the most representative specialty of the attraction.
+* If the information is insufficient or cannot be summarized, output "Not Applicable" for the respective attribute.
+
+Provide the output in the following JSON format:
+----- Example starts -----
+{
+    "attraction_type":"xxxx",
+    "perks":"xxx"
+}
+----- Example ends -----
+
+Be objective and faithful to the provided data.
