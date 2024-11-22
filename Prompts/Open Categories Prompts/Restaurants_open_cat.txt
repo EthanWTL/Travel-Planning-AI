@@ -1,0 +1,22 @@
+You are provided with a JSON dataset of restaurants. Each restaurants includes a "categories" attribute. Your task is to process the "categories" into 5 concise attributes: "restaurant_type_1", "restaurant_type_2", "cuisine_1", "cuisine_2", and "perks".
+
+restaurant_type_1: Summarize the type of the restaurants, this should all be "Restaurants" in this dataset.
+restaurant_type_2: Summarize if additional type is application. Options includes but not limited to "Bars", "Cafes", "Bakeries", and "Breweries". Use the words presented in the dataset. Use "Not Applicable" if there is no additional type.
+
+cuisine_1: Summarize the main cuisine they provide. Options includes but not limited to "Vietnamese", "Mexican", "Italian", or "Asian Fusion". Choose the most comprehensive cuisine. Use the words presented in the dataset. Use "Not Applicable" if there is no additional type.
+cuisine_2: Summarize the additional cuisine they provide other than the main cuisine. This should avoid the cuisine covered by cuisine 1 if cuisine 1 is a comprehensive type. Use the words presented in the dataset. Use "Not Applicable" if there is no additional type.
+
+Perks: Highlight unique specialties or features of the restaurant. Options includes but not limited to "Pizza", "Cheesesteaks", "Comfort Food", and "Vegan". Use the words presented in the dataset. Use "Not Applicable" if there is no additional type.
+
+Provide the output in the following JSON format:
+----- Example starts -----
+{
+    "restaurant_type_1":"xxxx",
+    "restaurant_type_2":"xxxx",
+    "cuisine_1":"xxxx",
+    "cuisine_2":"xxx",
+    "perks":"xxx"
+}
+----- Example ends -----
+
+Be objective and faithful to the provided data.

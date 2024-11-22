@@ -6,11 +6,9 @@ Attraction Type: Summarize the main purpose or theme of the attraction using pre
 * Choose the most accurate and comprehensive word as the attraction type.
 
 Perks: Highlight unique specialties or features of the attraction:
-* "Jazz & Blues" for a specific vibe or musical setting.
-* "Caribbean" for unique cuisine offerings.
-* "Nightlife" for activities involving evening entertainment.
+* For example, "Jazz & Blues" for a specific vibe or musical setting, "Caribbean" for unique cuisine offerings, "Nightlife" for activities involving evening entertainment.
 * Ensure the selected "perk" reflects the most representative specialty of the attraction.
-* If the information is insufficient or cannot be summarized, output "Not Applicable" for the respective attribute.
+* As long as the information is insufficient or cannot be summarized, output "Not Applicable" for the respective attribute, 
 
 Provide the output in the following JSON format:
 ----- Example starts -----
