@@ -3,6 +3,8 @@ Datasets/
 
 Llama-3.1-8B/
 
+#too many files
+Outputs/Reviews_Summarization/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
