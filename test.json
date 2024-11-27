@@ -1,0 +1,102 @@
+{
+    "itinerary":[
+        {   
+            "days": "x",
+            "breakfast": {
+                "name": "xxx",
+                "address": "xxx"
+            },
+            "morning_attractions": [
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                },
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                }
+            ],
+            "lunch": {
+                "name": "xxx",
+                "address": "xxx"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                },
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                }
+            ],
+            "dinner": {
+                "name": "xxx",
+                "address": "xxx"
+            },
+            "night_attractions": [
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                },
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                }
+            ],
+            "accommodation": {
+                "name": "xxx",
+                "address": "xxx"
+            }
+        },
+        {
+            "days": "x",
+            "breakfast": {
+                "name": "xxx",
+                "address": "xxx"
+            },
+            "morning_attractions": [
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                },
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                }
+            ],
+            "lunch": {
+                "name": "xxx",
+                "address": "xxx"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                },
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                }
+            ],
+            "dinner": {
+                "name": "xxx",
+                "address": "xxx"
+            },
+            "night_attractions": [
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                },
+                {
+                    "name": "xxx",
+                    "address": "xxx"
+                }
+            ],
+            "accommodation": {
+                "name": "xxx",
+                "address": "xxx"
+            }
+        }
+    ]
+}

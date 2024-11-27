@@ -19,7 +19,9 @@ All the evaluation is on a scale of 0 to 3, 0 means not applicable, 1 means low 
 
 5. Measure how food-oriented is the attraction. Level 3 would be food oriented attraction. 0 indicates this attraction has no relation to food.
 
-6. Measure if attraction focus on shopping. A market would be level 3, a historical landmark could be 0 since it's for visiting only. 
+6. Measure if attraction focus on shopping. A market would be level 3, a historical landmark could be 0 since it's for visiting only.
+
+7. Estimate the price level for this attraction on a scale from 1 to 4. 1 means free, 2 means cheap, 3 means moderate, and 4 means expensive. Mark as not applicable if can not determine the price at all. 
 
 Output in JSON format as the example below
 
@@ -46,6 +48,10 @@ Output in JSON format as the example below
         "reasoning": "xxx xxx xx xxxx."
     },
     "Shopping-Oriented":{
+        "level":x,
+        "reasoning": "xxx xxx xx xxxx."
+    },
+    "Price-Level":{
         "level":x,
         "reasoning": "xxx xxx xx xxxx."
     }

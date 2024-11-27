@@ -1,0 +1,86 @@
+{
+    "itinerary": [
+        {
+            "days": "1",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Campo's Philly Cheesesteaks",
+                "address": "214 Market St, Philadelphia, PA 19106"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Barbuzzo",
+                "address": "110 S 13th St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "Explore Rittenhouse Square",
+                    "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia's Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
+                }
+            ],
+            "lunch": {
+                "name": "PrimoHoagies",
+                "address": "2043 Chestnut St, Philadelphia, PA 19103"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                },
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
+                }
+            ],
+            "dinner": {
+                "name": "Osteria",
+                "address": "640 N Broad St, Philadelphia, PA 19130"
+            },
+            "night_attractions": [
+                {
+                    "name": "Enjoy a night walk along the Schuylkill River Trail",
+                    "address": "2501 Walnut St, Philadelphia, PA 19103"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}
