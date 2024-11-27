@@ -2,18 +2,6 @@
 
 #### Day 1: Exploring Historic Philadelphia
 
-**Morning:**
-- **Check-in at Hotel:**
-  - **Hotel:** Alexander Inn
-  - **Address:** 301 S 12th St, Philadelphia, PA 19107
-  - **Price:** $$ (Moderate)
-  
-- **Breakfast:**
-  - **Restaurant:** Cafe Lift
-  - **Address:** 428 N 13th St, Philadelphia, PA 19123
-  - **Time:** 9:00 AM
-  - **Cuisine:** American (New), Breakfast & Brunch
-
 **Mid-Morning:**
 - **Attraction:** Independence Hall
   - **Address:** 520 Chestnut St, Philadelphia, PA 19106
@@ -26,16 +14,6 @@
   - **Time:** 12:30 PM
   - **Cuisine:** Cheesesteaks
 
-**Afternoon:**
-- **Attraction:** Liberty Bell Center
-  - **Address:** 6th St & Chestnut St, Philadelphia, PA 19106
-  - **Time:** 1:30 PM
-  - **Type:** Historical Landmark
-
-- **Attraction:** National Constitution Center
-  - **Address:** 525 Arch St, Philadelphia, PA 19106
-  - **Time:** 3:00 PM
-  - **Type:** Museum
 
 **Dinner:**
 - **Restaurant:** Amada
@@ -89,16 +67,10 @@
   - **Time:** 6:30 PM
   - **Cuisine:** Italian
 
-**Evening:**
-- **Attraction:** The Franklin Institute
-  - **Address:** 222 N 20th St, Philadelphia, PA 19103
-  - **Time:** 8:00 PM
-  - **Type:** Science Museum
 
 ---
 
 ### Summary
-- **Accommodations:** Alexander Inn
 - **Day 1 Highlights:** Independence Hall, Liberty Bell, National Constitution Center
 - **Day 2 Highlights:** Philadelphia Museum of Art, Philadelphia's Magic Gardens, Reading Terminal Market
 - **Dining:** A mix of local favorites and Italian cuisine throughout the trip. 

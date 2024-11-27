@@ -3,8 +3,8 @@
         {
             "days": "1",
             "breakfast": {
-                "name": "Cafe Lift",
-                "address": "428 N 13th St, Philadelphia, PA 19123"
+                "name": "-",
+                "address": "-"
             },
             "morning_attractions": [
                 {
@@ -13,19 +13,10 @@
                 }
             ],
             "lunch": {
-                "name": "Campo's Philly Cheesesteaks",
-                "address": "214 Market St, Philadelphia, PA 19106"
+                "name": "Some Restaurant",
+                "address": "123 Road, Philadelphia, PA 19106"
             },
-            "afternoon_attractions": [
-                {
-                    "name": "Liberty Bell Center",
-                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
-                },
-                {
-                    "name": "National Constitution Center",
-                    "address": "525 Arch St, Philadelphia, PA 19106"
-                }
-            ],
+            "afternoon_attractions": [],
             "dinner": {
                 "name": "Amada",
                 "address": "217 Chestnut St, Philadelphia, PA 19106"
@@ -37,8 +28,8 @@
                 }
             ],
             "accommodation": {
-                "name": "Alexander Inn",
-                "address": "301 S 12th St, Philadelphia, PA 19107"
+                "name": "-",
+                "address": "-"
             }
         },
         {
@@ -59,8 +50,8 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Philadelphia's Magic Gardens",
-                    "address": "1020 S St, Philadelphia, PA 19147"
+                    "name": "Ethan's shop",
+                    "address": "777 blvd N St, Philadelphia, PA 19147"
                 },
                 {
                     "name": "Reading Terminal Market",
@@ -71,15 +62,10 @@
                 "name": "Osteria",
                 "address": "640 N Broad St, Philadelphia, PA 19130"
             },
-            "night_attractions": [
-                {
-                    "name": "The Franklin Institute",
-                    "address": "222 N 20th St, Philadelphia, PA 19103"
-                }
-            ],
+            "night_attractions": [],
             "accommodation": {
-                "name": "Alexander Inn",
-                "address": "301 S 12th St, Philadelphia, PA 19107"
+                "name": "-",
+                "address": "-"
             }
         }
     ]

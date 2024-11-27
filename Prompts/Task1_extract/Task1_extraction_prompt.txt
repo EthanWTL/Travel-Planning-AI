@@ -1,4 +1,4 @@
-Extract the travel itinerary and parse the businesses' information into the JSON format as below. Be faithful and concise. Correctly document the right number of the attractions. Only write down the name and address of the businesses.
+Extract the travel itinerary and parse the businesses' information into the JSON format as below. Be faithful and concise. Correctly document the right number of the attractions. Only write down the name and address of the businesses. If certain recommendations (like meals or accommodations) are not provided, replace the information with "-" for name and address. If recommendations for a session of attraction is not provided, replace the information as an empty array. 
 
 ----- Example Starts -----
 {
