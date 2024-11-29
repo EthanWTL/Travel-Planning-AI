@@ -1,0 +1,26 @@
+{
+    "day": [
+        "2 day"
+    ],
+    "price": [
+        "expensive budget"
+    ],
+    "attraction": [
+        "activity oriented"
+    ],
+    "cuisine": [
+        "Asian Fusion"
+    ],
+    "restaurants": [
+        "good flavor",
+        "good freshness"
+    ],
+    "hotel": [
+        "good service",
+        "good safety",
+        "good location"
+    ],
+    "preference_count": [
+        9
+    ]
+}
