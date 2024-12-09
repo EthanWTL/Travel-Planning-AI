@@ -1,0 +1,80 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Bill's Breakfast & Lunch",
+                "address": "1312 Sansom St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St"
+                }
+            ],
+            "lunch": {
+                "name": "Campo's Philly Cheesesteaks",
+                "address": "214 Market St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St"
+                },
+                {
+                    "name": "Independence National Historical Park",
+                    "address": "143 S 3rd St"
+                },
+                {
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St"
+                }
+            ],
+            "dinner": {
+                "name": "Devil's Alley Bar & Grille",
+                "address": "1907 Chestnut St"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy"
+                }
+            ],
+            "lunch": {
+                "name": "Reading Terminal Market",
+                "address": "51 N 12th St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Franklin Institute",
+                    "address": "222 N 20th St"
+                },
+                {
+                    "name": "Eastern State Penitentiary",
+                    "address": "2027 Fairmount Ave"
+                }
+            ],
+            "dinner": {
+                "name": "The Dandelion",
+                "address": "124 S 18th St"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St"
+            }
+        }
+    ]
+}

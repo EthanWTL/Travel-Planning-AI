@@ -1,0 +1,68 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
+                }
+            ],
+            "lunch": {
+                "name": "Double Knot",
+                "address": "120 S 13th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Morimoto",
+                "address": "723 Chestnut St, Philadelphia, PA 19106"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Italian Market",
+                    "address": "919 S 9th St, Philadelphia, PA 19147"
+                }
+            ],
+            "lunch": {
+                "name": "Terakawa Ramen",
+                "address": "204 N 9th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                }
+            ],
+            "dinner": {
+                "name": "Yakitori Boy",
+                "address": "211 N 11th St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Canopy by Hilton Philadelphia Center City",
+                "address": "1180 Ludlow St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}

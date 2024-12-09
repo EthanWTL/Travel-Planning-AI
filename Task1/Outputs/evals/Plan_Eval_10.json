@@ -1,0 +1,82 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Campo's Philly Cheesesteaks",
+                "address": "214 Market St, Philadelphia, PA 19106"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Betsy Ross House",
+                    "address": "239 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Bistrot La Minette",
+                "address": "623 S 6th St, Philadelphia, PA 19147"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Artisan Boulanger Patissier",
+                "address": "1218 Mifflin St, Philadelphia, PA 19148"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Bistro Romano",
+                "address": "120 Lombard St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Eastern State Penitentiary",
+                    "address": "2027 Fairmount Ave, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Le Virtu",
+                "address": "1927 E Passyunk Ave, Philadelphia, PA 19148"
+            },
+            "night_attractions": [
+                {
+                    "name": "Visit Spruce Street Harbor Park",
+                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}

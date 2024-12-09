@@ -1,0 +1,115 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
+                }
+            ],
+            "lunch": {
+                "name": "Campo's Philly Cheesesteaks",
+                "address": "214 Market St, Philadelphia, PA 19106"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Italian Market",
+                    "address": "919 S 9th St, Philadelphia, PA 19147"
+                }
+            ],
+            "dinner": {
+                "name": "El Vez",
+                "address": "121 S 13th St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "Standard Tap",
+                    "address": "901 N 2nd St, Philadelphia, PA 19123"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "212 S 13th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Los Gallos Mexican Taqueria",
+                "address": "951 Wolf St, Philadelphia, PA 19115"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "South Street",
+                    "address": "-"
+                }
+            ],
+            "dinner": {
+                "name": "La Calaca Feliz",
+                "address": "2321 Fairmount Ave, Philadelphia, PA 19130"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Dandelion",
+                    "address": "124 S 18th St, Philadelphia, PA 19103"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "The Dutch",
+                "address": "1713 South St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Tacos Don Memo",
+                "address": "270 S 38th St, Philadelphia, PA 19104"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Franklin Square",
+                    "address": "-"
+                }
+            ],
+            "dinner": {
+                "name": "Zahav",
+                "address": "237 St James Pl, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "Termini Bros Bakery",
+                    "address": "12th St & Filbert St, Philadelphia, PA 19107"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}

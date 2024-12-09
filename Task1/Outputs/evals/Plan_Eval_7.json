@@ -1,0 +1,76 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "El Vez",
+                "address": "121 S 13th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Cantina Dos Segundos",
+                "address": "931 N 2nd St, Philadelphia, PA 19123"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Distrito",
+                "address": "3945 Chestnut St, Philadelphia, PA 19104"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                },
+                {
+                    "name": "Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                }
+            ],
+            "dinner": {
+                "name": "La Calaca Feliz",
+                "address": "2321 Fairmount Ave, Philadelphia, PA 19130"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}

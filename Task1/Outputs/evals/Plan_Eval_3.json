@@ -1,0 +1,147 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St"
+                }
+            ],
+            "lunch": {
+                "name": "Banh Mi Cali",
+                "address": "900 Arch St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St"
+                }
+            ],
+            "dinner": {
+                "name": "Jim's South St",
+                "address": "400 S St"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy"
+                }
+            ],
+            "lunch": {
+                "name": "Cafe Saigon",
+                "address": "827 Adams Ave"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia's Magic Gardens",
+                    "address": "1020 S St"
+                }
+            ],
+            "dinner": {
+                "name": "Terakawa Ramen",
+                "address": "204 N 9th St"
+            },
+            "night_attractions": [
+                {
+                    "name": "Live Music at World Cafe Live",
+                    "address": "3025 Walnut St"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Dottie\u2019s Donuts",
+                "address": "4529 Springfield Ave"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr"
+                }
+            ],
+            "lunch": {
+                "name": "Thang Long Pho Restaurant",
+                "address": "2534-36 Kensington Ave"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Schuylkill River Trail",
+                    "address": "2501 Walnut St"
+                }
+            ],
+            "dinner": {
+                "name": "Sabrina's Cafe",
+                "address": "227 N 34th St"
+            },
+            "night_attractions": [
+                {
+                    "name": "Visit Spruce Street Harbor Park",
+                    "address": "121 N Columbus Blvd"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "The Breakfast Boutique",
+                "address": "8630 Germantown Ave"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St"
+                }
+            ],
+            "lunch": {
+                "name": "Federal Donuts",
+                "address": "701 N Seventh St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave"
+                }
+            ],
+            "dinner": {
+                "name": "Banh Mi and Bottles",
+                "address": "712-14 S St"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St"
+            }
+        }
+    ]
+}

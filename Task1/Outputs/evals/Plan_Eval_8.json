@@ -1,0 +1,78 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Caf\u00e9 La Maude",
+                "address": "816 N 4th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
+                }
+            ],
+            "lunch": {
+                "name": "Zahav",
+                "address": "237 St James Pl, Philadelphia, PA 19106"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Suraya",
+                "address": "1528 Frankford Ave, Philadelphia, PA 19125"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Franklin Bar",
+                    "address": "112 S 18th St, Philadelphia, PA 19103"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Caf\u00e9",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia's 9th Street Italian Market",
+                    "address": "919 S 9th St, Philadelphia, PA 19147"
+                }
+            ],
+            "lunch": {
+                "name": "Al Zaytouna",
+                "address": "906 Christian St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Al-Sham Restaurant",
+                "address": "6738 Bustleton Ave, Philadelphia, PA 19149"
+            },
+            "night_attractions": [
+                {
+                    "name": "Termini Bros Bakery",
+                    "address": "12th St & Filbert St, Philadelphia, PA 19107"
+                }
+            ],
+            "accommodation": {
+                "name": "Four Seasons Hotel Philadelphia at Comcast Center",
+                "address": "1 N 19th St, Philadelphia, PA 19103"
+            }
+        }
+    ]
+}

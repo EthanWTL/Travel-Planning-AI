@@ -1,0 +1,110 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "-",
+                "address": "-"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St"
+                }
+            ],
+            "lunch": {
+                "name": "El Jarocho",
+                "address": "1138 S 13th St"
+            },
+            "afternoon_attractions": [],
+            "dinner": {
+                "name": "Las Bugambilias",
+                "address": "15 S 3rd St"
+            },
+            "night_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy"
+                }
+            ],
+            "lunch": {
+                "name": "Blue Corn",
+                "address": "940 S 9th St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Franklin Square",
+                    "address": "200 N 6th St"
+                }
+            ],
+            "dinner": {
+                "name": "Cantina Los Caballitos",
+                "address": "1651 E Passyunk Ave"
+            },
+            "night_attractions": [
+                {
+                    "name": "Spruce Street Harbor Park",
+                    "address": "121 N Columbus Blvd"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "D'Angelo's Ristorante Italiano",
+                "address": "256 S 20th St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Bartram's Garden",
+                    "address": "5400 Lindbergh Blvd"
+                }
+            ],
+            "lunch": {
+                "name": "Tacos Don Memo",
+                "address": "270 S 38th St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave"
+                }
+            ],
+            "dinner": {
+                "name": "Mission Taqueria",
+                "address": "1516 Sansom St"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St"
+            }
+        }
+    ]
+}

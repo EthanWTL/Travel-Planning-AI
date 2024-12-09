@@ -1,0 +1,95 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "-",
+                "address": "-"
+            },
+            "morning_attractions": [],
+            "lunch": {
+                "name": "Baan Thai",
+                "address": "1030 N American St, Philadelphia, PA 19123"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Rittenhouse Row",
+                    "address": "-"
+                }
+            ],
+            "dinner": {
+                "name": "Kalaya",
+                "address": "764 S 9th St, Philadelphia, PA 19147"
+            },
+            "night_attractions": [
+                {
+                    "name": "Rittenhouse Square Park",
+                    "address": "-"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe La Maude",
+                "address": "816 N 4th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [],
+            "lunch": {
+                "name": "Reading Terminal Market",
+                "address": "51 N 12th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia's Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
+                }
+            ],
+            "dinner": {
+                "name": "Erawan Thai Cuisine",
+                "address": "123 S 23rd St, Philadelphia, PA 19103"
+            },
+            "night_attractions": [
+                {
+                    "name": "South Street",
+                    "address": "-"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [],
+            "lunch": {
+                "name": "Chatayee Thai",
+                "address": "1227 Walnut St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                }
+            ],
+            "dinner": {
+                "name": "The Capital Grille",
+                "address": "1338-46 Chestnut St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        }
+    ]
+}
