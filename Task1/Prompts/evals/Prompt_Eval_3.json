@@ -1,25 +1,21 @@
 {
     "day": [
-        "4 days"
+        "2 day"
     ],
     "price": [
-        "cheap budget"
+        "expensive budget"
     ],
     "attraction": [
-        "activity oriented"
+        "nature oriented"
     ],
     "cuisine": [
-        "Vietnamese"
+        "Irish"
     ],
-    "restaurants": [
-        "good healthy",
-        "good enviornment"
-    ],
+    "restaurants": [],
     "hotel": [
-        "good quality",
-        "good service"
+        "good safety"
     ],
     "preference_count": [
-        8
+        5
     ]
 }

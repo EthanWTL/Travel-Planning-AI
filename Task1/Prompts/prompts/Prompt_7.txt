@@ -1,1 +1,33 @@
-Please generate a detailed travel itinerary for a 2-day trip with a moderate budget. The plan should suggest some history-oriented attractions, include recommendations for restaurants that serve Mexican cuisine and are known for good service, and suggest accommodations that are of good quality and in a good location. All relevant business information will be provided following. Please ensure that all recommendations are organized in chronological order for each day and include their addresses. Be concise and well-structured.
+Please generate a detailed travel itinerary for a 2-day trip with a moderate budget. The plan should focus on activity-oriented attractions, include recommendations for Greek restaurants, and suggest accommodations that prioritize good safety. All relevant business information will be provided following. Ensure that all recommendations are organized in chronological order for each day, and present the information in a concise and well-structured manner.
+----- Example Starts -----
+Day X:
+- Accommodation: 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Breakfast: 
+  - Name: XXXX 
+    Address: XXXX, XXXX
+
+- Morning Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Lunch: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Afternoon Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Dinner: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Night Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+----- Example Ends -----

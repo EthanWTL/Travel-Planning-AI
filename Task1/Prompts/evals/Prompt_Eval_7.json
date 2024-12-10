@@ -6,19 +6,16 @@
         "moderate budget"
     ],
     "attraction": [
-        "history oriented"
+        "activity oriented"
     ],
     "cuisine": [
-        "Mexican"
+        "Greek"
     ],
-    "restaurants": [
-        "good service"
-    ],
+    "restaurants": [],
     "hotel": [
-        "good quality",
-        "good location"
+        "good safety"
     ],
     "preference_count": [
-        7
+        5
     ]
 }

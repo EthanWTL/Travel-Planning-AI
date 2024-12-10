@@ -1,97 +1,84 @@
-### 4-Day Budget Travel Itinerary in Philadelphia
-
-#### Day 1: Arrival and Exploring the Historic District
-- **Morning:**
-  - **Accommodation Check-in:** 
-    - **Alexander Inn** (301 S 12th St, $$, average quality, excellent location)
-  - **Breakfast:** 
-    - **Cafe Lift** (428 N 13th St, $$, excellent flavor, good freshness)
-
-- **Afternoon:**
-  - **Attraction:** 
-    - **Independence Hall** (520 Chestnut St, Free, historical site)
-  - **Lunch:** 
-    - **Banh Mi Cali** (900 Arch St, $$, Vietnamese, good freshness)
-
-- **Evening:**
-  - **Attraction:** 
-    - **Liberty Bell Center** (6th St & Chestnut St, Free, historical site)
-  - **Dinner:** 
-    - **Jim's South St** (400 S St, $$, famous for cheesesteaks)
-  - **Night Activity:** 
-    - **Ghost Tour of Philadelphia** (5TH And Chestnut, $$, family-friendly)
+### 2-Day Nature-Oriented Travel Itinerary in Philadelphia
 
 ---
 
-#### Day 2: Art and Culture
-- **Morning:**
-  - **Breakfast:** 
-    - **Green Eggs Cafe** (1306 Dickinson St, $$, good freshness)
-  - **Attraction:** 
-    - **Philadelphia Museum of Art** (2600 Benjamin Franklin Pkwy, $$, art museum)
+#### Day 1:
+- **Accommodation:**  
+  - **Name:** The Rittenhouse Hotel  
+    **Address:** 210 W Rittenhouse Sq, Philadelphia, PA 19103  
+    **Stars:** 4.0  
+    **Price:** $$$  
+    **Safety:** Good  
 
-- **Afternoon:**
-  - **Lunch:** 
-    - **Cafe Saigon** (827 Adams Ave, $, Vietnamese, good freshness)
-  - **Attraction:** 
-    - **Philadelphia's Magic Gardens** (1020 S St, $$, art installation)
+- **Breakfast:**  
+  - **Name:** Café La Maude  
+    **Address:** 816 N 4th St, Philadelphia, PA 19123  
+    **Cuisine:** Mediterranean/American  
 
-- **Evening:**
-  - **Dinner:** 
-    - **Terakawa Ramen** (204 N 9th St, $$, good flavor, good freshness)
-  - **Night Activity:** 
-    - **Live Music at World Cafe Live** (3025 Walnut St, $$, music venue)
+- **Morning Attraction:**  
+  - **Name:** Morris Arboretum  
+    **Address:** 100 E Northwestern Ave, Philadelphia, PA 19118  
+    **Stars:** 4.5  
+    **Type:** Botanical Gardens  
 
----
+- **Lunch:**  
+  - **Name:** The Dining Car & Market  
+    **Address:** 8826 Frankford Ave, Philadelphia, PA 19136  
+    **Cuisine:** American (Traditional)  
 
-#### Day 3: Outdoor Activities and Local Flavors
-- **Morning:**
-  - **Breakfast:** 
-    - **Dottie’s Donuts** (4529 Springfield Ave, $, excellent freshness)
-  - **Attraction:** 
-    - **Fairmount Park** (4231 N Concourse Dr, Free, nature park)
+- **Afternoon Attraction:**  
+  - **Name:** Fairmount Park  
+    **Address:** 4231 N Concourse Dr, Philadelphia, PA 19131  
+    **Stars:** 4.5  
+    **Type:** Parks  
 
-- **Afternoon:**
-  - **Lunch:** 
-    - **Thang Long Pho Restaurant** (2534-36 Kensington Ave, $, Vietnamese, good freshness)
-  - **Attraction:** 
-    - **Schuylkill River Trail** (2501 Walnut St, Free, biking/walking trail)
+- **Dinner:**  
+  - **Name:** The Capital Grille  
+    **Address:** 1338-46 Chestnut St, Philadelphia, PA 19107  
+    **Cuisine:** American (Traditional)  
 
-- **Evening:**
-  - **Dinner:** 
-    - **Sabrina's Cafe** (227 N 34th St, $$, good flavor, good freshness)
-  - **Night Activity:** 
-    - **Visit Spruce Street Harbor Park** (121 N Columbus Blvd, Free, outdoor games and hammocks)
-
----
-
-#### Day 4: Shopping and Departure
-- **Morning:**
-  - **Breakfast:** 
-    - **The Breakfast Boutique** (8630 Germantown Ave, $$, good freshness)
-  - **Attraction:** 
-    - **Reading Terminal Market** (51 N 12th St, Free, local food market)
-
-- **Afternoon:**
-  - **Lunch:** 
-    - **Federal Donuts** (701 N Seventh St, $, good flavor, excellent freshness)
-  - **Attraction:** 
-    - **Philadelphia Zoo** (3400 W Girard Ave, $$, family-friendly)
-
-- **Evening:**
-  - **Dinner:** 
-    - **Banh Mi and Bottles** (712-14 S St, $$, Vietnamese, good freshness)
-  - **Departure:** 
-    - Check out from **Alexander Inn** and head to the airport.
+- **Night Attraction:**  
+  - **Name:** Schuylkill River Park  
+    **Address:** 300 S 25th St, Philadelphia, PA 19146  
+    **Stars:** 4.5  
+    **Type:** Parks  
 
 ---
 
-### Summary of Recommendations
-- **Accommodations:** 
-  - **Alexander Inn** (301 S 12th St, $$)
-- **Restaurants:** 
-  - **Cafe Lift**, **Banh Mi Cali**, **Green Eggs Cafe**, **Terakawa Ramen**, **Sabrina's Cafe**, **Federal Donuts**, **Banh Mi and Bottles**
-- **Attractions:** 
-  - **Independence Hall**, **Liberty Bell Center**, **Philadelphia Museum of Art**, **Philadelphia's Magic Gardens**, **Fairmount Park**, **Schuylkill River Trail**, **Reading Terminal Market**, **Philadelphia Zoo**
+#### Day 2:
+- **Breakfast:**  
+  - **Name:** Green Eggs Café  
+    **Address:** 1306 Dickinson St, Philadelphia, PA 19146  
+    **Cuisine:** American (New)  
 
-This itinerary balances cultural experiences, outdoor activities, and local cuisine while keeping a budget-friendly approach. Enjoy your trip to Philadelphia!
+- **Morning Attraction:**  
+  - **Name:** John Heinz National Wildlife Refuge at Tinicum  
+    **Address:** 8601 Lindbergh Blvd, Philadelphia, PA 19153  
+    **Stars:** 4.5  
+    **Type:** Parks  
+
+- **Lunch:**  
+  - **Name:** Café Ynez  
+    **Address:** 2025 Washington Ave, Philadelphia, PA 19146  
+    **Cuisine:** Mexican  
+
+- **Afternoon Attraction:**  
+  - **Name:** Wissahickon Valley Trail  
+    **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA 19128  
+    **Stars:** 4.5  
+    **Type:** Parks  
+
+- **Dinner:**  
+  - **Name:** The Dandelion  
+    **Address:** 124 S 18th St, Philadelphia, PA 19103  
+    **Cuisine:** British/American  
+
+- **Night Attraction:**  
+  - **Name:** Spruce Street Harbor Park  
+    **Address:** 121 N Columbus Blvd, Philadelphia, PA 19106  
+    **Stars:** 4.0  
+    **Type:** Parks  
+
+---
+
+This itinerary provides a luxurious experience focused on nature-oriented attractions, with high-quality dining options and safe accommodations. Enjoy your trip!

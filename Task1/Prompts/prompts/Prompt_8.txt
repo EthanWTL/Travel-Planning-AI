@@ -1,1 +1,33 @@
-Please generate a detailed travel itinerary for a 2-day trip with an expensive budget. The plan should focus on food-oriented attractions, include recommendations for Middle Eastern restaurants, and suggest accommodations known for their good service. All relevant business information will be provided following. Ensure that all recommendations are organized in chronological order for each day, and include addresses for each location. Be concise and well-structured.
+Please generate a detailed travel itinerary for a 3-day trip with a cheap budget. The plan should focus on activity-oriented attractions, include recommendations for Chinese restaurants, and suggest accommodations that prioritize good safety. All relevant business information will be provided following. Ensure that the itinerary is structured chronologically and includes addresses for each recommendation. Be concise and well-organized.
+----- Example Starts -----
+Day X:
+- Accommodation: 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Breakfast: 
+  - Name: XXXX 
+    Address: XXXX, XXXX
+
+- Morning Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Lunch: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Afternoon Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Dinner: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Night Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+----- Example Ends -----

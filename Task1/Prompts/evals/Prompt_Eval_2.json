@@ -1,21 +1,21 @@
 {
     "day": [
-        "3 days"
+        "4 days"
     ],
     "price": [
-        "cheap budget"
+        "moderate budget"
     ],
     "attraction": [
-        "food oriented"
+        "family oriented"
     ],
     "cuisine": [
-        "Mexican"
+        "Greek"
     ],
     "restaurants": [
-        "good enviornment",
-        "good flavor"
+        "good enviornment"
     ],
     "hotel": [
+        "good quality",
         "good location"
     ],
     "preference_count": [

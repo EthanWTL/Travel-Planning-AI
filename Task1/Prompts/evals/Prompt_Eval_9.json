@@ -1,24 +1,21 @@
 {
     "day": [
-        "2 day"
+        "4 days"
     ],
     "price": [
-        "moderate budget"
+        "cheap budget"
     ],
     "attraction": [
-        "history oriented"
+        "family oriented"
     ],
     "cuisine": [
-        "US"
+        "Middle Eastern"
     ],
-    "restaurants": [
-        "good value"
-    ],
+    "restaurants": [],
     "hotel": [
-        "good location",
-        "good safety"
+        "good quality"
     ],
     "preference_count": [
-        7
+        5
     ]
 }

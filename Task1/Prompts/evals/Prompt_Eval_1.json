@@ -1,23 +1,24 @@
 {
     "day": [
-        "4 days"
+        "3 days"
     ],
     "price": [
-        "expensive budget"
+        "cheap budget"
     ],
     "attraction": [
         "activity oriented"
     ],
     "cuisine": [
-        "Vietnamese"
+        "Indian"
     ],
     "restaurants": [
-        "good enviornment"
+        "good flavor",
+        "good value"
     ],
     "hotel": [
-        "good quality"
+        "good location"
     ],
     "preference_count": [
-        6
+        7
     ]
 }

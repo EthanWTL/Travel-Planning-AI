@@ -1,23 +1,21 @@
 {
     "day": [
-        "3 days"
+        "4 days"
     ],
     "price": [
-        "cheap budget"
+        "moderate budget"
     ],
     "attraction": [
-        "family oriented"
+        "history oriented"
     ],
     "cuisine": [
-        "Mexican"
+        "Vietnamese"
     ],
-    "restaurants": [
-        "good service"
-    ],
+    "restaurants": [],
     "hotel": [
         "good quality"
     ],
     "preference_count": [
-        6
+        5
     ]
 }

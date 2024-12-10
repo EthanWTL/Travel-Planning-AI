@@ -1,21 +1,20 @@
 {
     "day": [
-        "2 day"
+        "4 days"
     ],
     "price": [
-        "cheap budget"
+        "expensive budget"
     ],
     "attraction": [
-        "history oriented"
+        "shopping oriented"
     ],
     "cuisine": [
-        "French"
+        "Korean"
     ],
-    "restaurants": [
-        "good value"
-    ],
+    "restaurants": [],
     "hotel": [
-        "good service"
+        "good location",
+        "good quality"
     ],
     "preference_count": [
         6

@@ -1,113 +1,137 @@
-### 3-Day Family-Oriented Travel Itinerary in Philadelphia
-
-#### Day 1: Arrival and Exploring Historical Philadelphia
-- **Morning:**
-  - **Check-in at Alexander Inn**  
-    Address: 301 S 12th St  
-    Price: $$  
-    Stars: 4.5  
-    Location: Excellent location, good service.  
-- **Lunch:**
-  - **Restaurant:** **El Jarocho**  
-    Address: 1138 S 13th St  
-    Cuisine: Mexican  
-    Rating: 4.0  
-    Notes: Good flavor and freshness, average service.  
-- **Afternoon:**
-  - **Attraction:** **Independence Hall**  
-    Address: 520 Chestnut St  
-    Family-oriented: Yes  
-    History-oriented: Yes  
-    Notes: Explore the birthplace of America.  
-- **Evening:**
-  - **Dinner:** **Las Bugambilias**  
-    Address: 15 S 3rd St  
-    Cuisine: Mexican  
-    Rating: 4.0  
-    Notes: Good flavor and freshness, average service.  
-- **Night:**
-  - **Attraction:** **Liberty Bell Center**  
-    Address: 6th St & Chestnut St  
-    Family-oriented: Yes  
-    History-oriented: Yes  
-    Notes: Iconic symbol of American independence.
+### 4-Day History-Oriented Itinerary in Philadelphia
 
 ---
 
-#### Day 2: Museums and Parks
-- **Morning:**
-  - **Breakfast:** **Cafe Lift**  
-    Address: 428 N 13th St  
-    Cuisine: American (New)  
-    Rating: 4.0  
-    Notes: Excellent flavor and freshness.  
-- **Mid-Morning:**
-  - **Attraction:** **Philadelphia Museum of Art**  
-    Address: 2600 Benjamin Franklin Pkwy  
-    Family-oriented: Yes  
-    Notes: Explore art collections and the famous "Rocky Steps."  
-- **Lunch:**
-  - **Restaurant:** **Blue Corn**  
-    Address: 940 S 9th St  
-    Cuisine: Mexican  
-    Rating: 4.5  
-    Notes: Excellent flavor and freshness, good service.  
-- **Afternoon:**
-  - **Attraction:** **Franklin Square**  
-    Address: 200 N 6th St  
-    Family-oriented: Yes  
-    Notes: Enjoy mini-golf and a playground.  
-- **Evening:**
-  - **Dinner:** **Cantina Los Caballitos**  
-    Address: 1651 E Passyunk Ave  
-    Cuisine: Mexican  
-    Rating: 3.5  
-    Notes: Average flavor and freshness, good environment.  
-- **Night:**
-  - **Attraction:** **Spruce Street Harbor Park**  
-    Address: 121 N Columbus Blvd  
-    Family-oriented: Yes  
-    Notes: Relax by the waterfront with games and hammocks.
+#### Day 1:
+- **Accommodation:**  
+  - **Name:** Alexander Inn  
+  - **Address:** 301 S 12th St, Philadelphia, PA 19107  
+
+- **Breakfast:**  
+  - **Name:** Cafe Lift  
+  - **Address:** 428 N 13th St, Philadelphia, PA 19123  
+
+- **Morning Attraction:**  
+  - **Name:** Independence Hall  
+  - **Address:** 520 Chestnut St, Philadelphia, PA 19106  
+
+- **Lunch:**  
+  - **Name:** Banh Mi Cali  
+  - **Address:** 900 Arch St, Philadelphia, PA 19107  
+
+- **Afternoon Attraction:**  
+  - **Name:** Liberty Bell Center  
+  - **Address:** 6th St & Chestnut St, Philadelphia, PA 19106  
+  - **Name:** Independence National Historical Park  
+  - **Address:** 143 S 3rd St, Philadelphia, PA 19106  
+
+- **Dinner:**  
+  - **Name:** Vietnam Cafe  
+  - **Address:** 816 S 47th St, Philadelphia, PA 19143  
+
+- **Night Attraction:**  
+  - **Name:** Ghost Tour of Philadelphia  
+  - **Address:** 5TH And Chestnut, Philadelphia, PA 19106  
 
 ---
 
-#### Day 3: Nature and Local Culture
-- **Morning:**
-  - **Breakfast:** **D'Angelo's Ristorante Italiano**  
-    Address: 256 S 20th St  
-    Cuisine: Italian  
-    Rating: 3.5  
-    Notes: Average flavor, good environment.  
-- **Mid-Morning:**
-  - **Attraction:** **Bartram's Garden**  
-    Address: 5400 Lindbergh Blvd  
-    Family-oriented: Yes  
-    Nature-oriented: Yes  
-    Notes: Explore beautiful gardens and nature trails.  
-- **Lunch:**
-  - **Restaurant:** **Tacos Don Memo**  
-    Address: 270 S 38th St  
-    Cuisine: Mexican  
-    Rating: 4.5  
-    Notes: Excellent flavor and freshness, good service.  
-- **Afternoon:**
-  - **Attraction:** **Philadelphia Zoo**  
-    Address: 3400 W Girard Ave  
-    Family-oriented: Yes  
-    Notes: A fun day for the family with various animal exhibits.  
-- **Evening:**
-  - **Dinner:** **Mission Taqueria**  
-    Address: 1516 Sansom St  
-    Cuisine: Mexican  
-    Rating: 4.0  
-    Notes: Good flavor and freshness, average service.  
-- **Night:**
-  - **Attraction:** **The Franklin Institute**  
-    Address: 222 N 20th St  
-    Family-oriented: Yes  
-    Notes: Interactive science museum with exhibits for all ages.
+#### Day 2:
+- **Accommodation:**  
+  - **Name:** Alexander Inn  
+  - **Address:** 301 S 12th St, Philadelphia, PA 19107  
+
+- **Breakfast:**  
+  - **Name:** Green Eggs Cafe  
+  - **Address:** 1306 Dickinson St, Philadelphia, PA 19146  
+
+- **Morning Attraction:**  
+  - **Name:** The Betsy Ross House  
+  - **Address:** 239 Arch St, Philadelphia, PA 19106  
+
+- **Lunch:**  
+  - **Name:** Pho 75  
+  - **Address:** 1122 Washington Ave, Philadelphia, PA 19147  
+
+- **Afternoon Attraction:**  
+  - **Name:** National Constitution Center  
+  - **Address:** 525 Arch St, Philadelphia, PA 19106  
+  - **Name:** Museum of the American Revolution  
+  - **Address:** 101 S 3rd St, Philadelphia, PA 19106  
+
+- **Dinner:**  
+  - **Name:** Hardena/Waroeng Surabaya Restaurant  
+  - **Address:** 1754 S Hicks St, Philadelphia, PA 19145  
+
+- **Night Attraction:**  
+  - **Name:** Independence After Hours  
+  - **Address:** 600 Chestnut St, Philadelphia, PA 19106  
 
 ---
 
-### Summary
-This itinerary provides a balanced mix of historical, cultural, and family-oriented activities while keeping a budget-friendly approach. Enjoy your trip to Philadelphia!
+#### Day 3:
+- **Accommodation:**  
+  - **Name:** Alexander Inn  
+  - **Address:** 301 S 12th St, Philadelphia, PA 19107  
+
+- **Breakfast:**  
+  - **Name:** Cafe Diem  
+  - **Address:** 1031 S 8th St, Philadelphia, PA 19147  
+
+- **Morning Attraction:**  
+  - **Name:** Eastern State Penitentiary  
+  - **Address:** 2027 Fairmount Ave, Philadelphia, PA 19130  
+
+- **Lunch:**  
+  - **Name:** Pho & Cafe Saigon  
+  - **Address:** 4248 Spruce St, Philadelphia, PA 19104  
+
+- **Afternoon Attraction:**  
+  - **Name:** Franklin Institute  
+  - **Address:** 222 N 20th St, Philadelphia, PA 19103  
+  - **Name:** Philadelphia Museum of Art  
+  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130  
+
+- **Dinner:**  
+  - **Name:** Dim Sum Garden  
+  - **Address:** 1020 Race St, Philadelphia, PA 19107  
+
+- **Night Attraction:**  
+  - **Name:** Philadelphia Urban Adventures  
+  - **Address:** 229 Arch St, Philadelphia, PA 19106  
+
+---
+
+#### Day 4:
+- **Accommodation:**  
+  - **Name:** Alexander Inn  
+  - **Address:** 301 S 12th St, Philadelphia, PA 19107  
+
+- **Breakfast:**  
+  - **Name:** The Dutch  
+  - **Address:** 1527 S 4th St, Philadelphia, PA 19147  
+
+- **Morning Attraction:**  
+  - **Name:** Christ Church Burial Ground  
+  - **Address:** 20 N American St, Philadelphia, PA 19106  
+
+- **Lunch:**  
+  - **Name:** Cafe Nhan  
+  - **Address:** 1606 W Passyunk Ave, Philadelphia, PA 19145  
+
+- **Afternoon Attraction:**  
+  - **Name:** National Liberty Museum  
+  - **Address:** 321 Chestnut St, Philadelphia, PA 19106  
+  - **Name:** Edgar Allan Poe House  
+  - **Address:** 532 N 7th St, Philadelphia, PA 19123  
+
+- **Dinner:**  
+  - **Name:** Le Viet Restaurant  
+  - **Address:** 1019 S 11th St, Philadelphia, PA 19147  
+
+- **Night Attraction:**  
+  - **Name:** Philadelphia Trolley Works  
+  - **Address:** 1350 Schuylkill Ave, Philadelphia, PA 19146  
+
+---
+
+This itinerary provides a balanced mix of historical attractions, delicious Vietnamese cuisine, and comfortable accommodations, all while keeping a moderate budget in mind. Enjoy your trip to Philadelphia!
