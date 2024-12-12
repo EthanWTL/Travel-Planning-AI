@@ -1,0 +1,82 @@
+Here is a detailed travel itinerary for a 3-day trip with a cheap budget:
+
+Day 1:
+- Accommodation: 
+  - Name: Hostel Philly
+    Address: 2200 Market St, Philadelphia, PA 19103
+
+- Breakfast: 
+  - Name: Green Eggs Cafe
+    Address: 212 S 22nd St, Philadelphia, PA 19103
+
+- Morning Attraction: 
+  - Name: Independence Hall
+    Address: 520 Chestnut St, Philadelphia, PA 19106
+
+- Lunch: 
+  - Name: Pat's King of Steaks
+    Address: 1237 E Passyunk Ave, Philadelphia, PA 19147
+
+- Afternoon Attraction: 
+  - Name: Reading Terminal Market
+    Address: 51 N 12th St, Philadelphia, PA 19107
+  - Name: Liberty Bell
+    Address: 526 Market St, Philadelphia, PA 19106
+
+- Dinner: 
+  - Name: India Palace
+    Address: 2313 Frankford Ave, Philadelphia, PA 19124 (offers good flavor and good value)
+
+- Night Attraction: 
+  - Name: South Street Philly Bagels
+    Address: 613 S 3rd St, Philadelphia, PA 19147
+
+Day 2:
+- Breakfast: 
+  - Name: Cafe Land
+    Address: 1231 Pine St, Philadelphia, PA 19107
+
+- Morning Attraction: 
+  - Name: The Franklin Institute
+    Address: 2229 Arch St, Philadelphia, PA 19103
+
+- Lunch: 
+  - Name: Jim's South Philly Pizza
+    Address: 400 S St, Philadelphia, PA 19147 (offers good flavor and good value)
+
+- Afternoon Attraction: 
+  - Name: Barnes Foundation
+    Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130
+
+- Dinner: 
+  - Name: Maharaja Indian Cuisine
+    Address: 2201 Cottman Ave, Philadelphia, PA 19124 (offers good flavor and good value)
+
+- Night Attraction: 
+  - Name: McGillin's Olde Ale House
+    Address: 1310 Drury St, Philadelphia, PA 19107
+
+Day 3:
+- Breakfast: 
+  - Name: The Bakeshop on 20th
+    Address: 269 S 20th St, Philadelphia, PA 19103
+
+- Morning Attraction: 
+  - Name: One Liberty Observation Deck
+    Address: 1650 Market St, Philadelphia, PA 19103
+
+- Lunch: 
+  - Name: Korma House Indian Restaurant
+    Address: 2315 Frankford Ave, Philadelphia, PA 19124 (offers good flavor and good value)
+
+- Afternoon Attraction: 
+  - Name: Eastern State Penitentiary
+    Address: 2027 Fairmount St, Philadelphia, PA 19130
+
+- Dinner: 
+  - Name: Zorba's Taverna
+    Address: 2230 Fairmount Ave, Philadelphia, PA 19131 (offers good flavor and good value)
+
+- Night Attraction: 
+  - Name: Reading Terminal Market (again for shopping)
+    Address: 51 N 12th St, Philadelphia, PA 19107

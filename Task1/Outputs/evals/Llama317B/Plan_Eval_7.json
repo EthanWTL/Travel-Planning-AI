@@ -1,0 +1,73 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "212 S 13th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19102"
+                }
+            ],
+            "lunch": {
+                "name": "Distrito",
+                "address": "33 S 22nd St, Philadelphia, PA 19103"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Pizzeria Beddia",
+                "address": "1313 North Lee St, Philadelphia, PA 19124"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Hotel Monaco Philadelphia",
+                "address": "433 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Sabrina's Cafe",
+                "address": "227 N 34th St, Philadelphia, PA 19104"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1029 S Street Rd, Philadelphia, PA 19148"
+                }
+            ],
+            "lunch": {
+                "name": "Jim's South St",
+                "address": "400 S St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "One Liberty Observation Deck",
+                    "address": "1650 Market St, Philadelphia, PA 19103"
+                }
+            ],
+            "dinner": {
+                "name": "Khyber Pass Pub",
+                "address": "56 S 2nd St, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "South Street nightlife",
+                    "address": "-"
+                }
+            ],
+            "accommodation": {
+                "name": "Hotel Monaco Philadelphia",
+                "address": "433 Chestnut St, Philadelphia, PA 19106"
+            }
+        }
+    ]
+}

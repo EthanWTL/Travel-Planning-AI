@@ -1,0 +1,147 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Pat's King of Steaks",
+                "address": "1237 E Passyunk Ave, Philadelphia, PA 19147"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Franklin Square Park",
+                    "address": "6th St & Arch St, Philadelphia, PA 19123"
+                }
+            ],
+            "lunch": {
+                "name": "Falafel's Place",
+                "address": "121 S 13th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Steve's Prince of Steaks",
+                "address": "1136 Arch St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "Liberty Bell",
+                    "address": "Market St & 5th St, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Philly Budget Inn",
+                "address": "2200 S Broad St, Philadelphia, PA 19148"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Dunkin' Donuts",
+                "address": "-"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 Girard Ave, Philadelphia, PA 19104"
+                }
+            ],
+            "lunch": {
+                "name": "Khyber Pass Pub",
+                "address": "56 S 2nd St, Philadelphia, PA 19106"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Magic Gardens",
+                    "address": "1029 S St, Philadelphia, PA 19147"
+                }
+            ],
+            "dinner": {
+                "name": "Ishkabibble's",
+                "address": "517 S St, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
+                }
+            ],
+            "accommodation": {
+                "name": "Philly Budget Inn",
+                "address": "2200 S Broad St, Philadelphia, PA 19148"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Egg Harbor Cafe",
+                "address": "2300 Fairmount Ave, Philadelphia, PA 19130"
+            },
+            "morning_attractions": [
+                {
+                    "name": "One Liberty Observation Deck",
+                    "address": "1650 Market St, Philadelphia, PA 19103"
+                }
+            ],
+            "lunch": {
+                "name": "Mama's Pizzeria",
+                "address": "1701 Spruce St, Philadelphia, PA 19103"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Al Aseer Restaurant",
+                "address": "121 N 10th St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "El Vez",
+                    "address": "121 S 13th St, Philadelphia, PA 19107"
+                }
+            ],
+            "accommodation": {
+                "name": "Philly Budget Inn",
+                "address": "2200 S Broad St, Philadelphia, PA 19148"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "Bagel Oasis",
+                "address": "2150 Fairmount Ave, Philadelphia, PA 19130"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Bartram's Garden",
+                    "address": "5400 Lindbergh Blvd, Philadelphia, PA 19143"
+                }
+            ],
+            "lunch": {
+                "name": "Pizzeria Vetri",
+                "address": "1615 Chancellor St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Please Touch Museum",
+                    "address": "4231 Avenue of the Republic, Philadelphia, PA 19131"
+                }
+            ],
+            "dinner": {
+                "name": "Dandelion Restaurant",
+                "address": "124 S 18th St, Philadelphia, PA 19103"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Philly Budget Inn",
+                "address": "2200 S Broad St, Philadelphia, PA 19148"
+            }
+        }
+    ]
+}

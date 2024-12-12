@@ -1,0 +1,163 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "212 S 13th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Liberty Bell",
+                    "address": "526 Market St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "El Vez",
+                "address": "120 S 13th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "One Liberty Observation Deck",
+                    "address": "1650 Market St, Philadelphia, PA 19103"
+                },
+                {
+                    "name": "Eastern State Penitentiary",
+                    "address": "2027 Fairmount St, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Pizzeria Vetri",
+                "address": "1939 Callowhill St, Philadelphia, PA 19130"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                }
+            ],
+            "accommodation": {
+                "name": "The Logan Philadelphia",
+                "address": "1 Logan Square, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Square Peg Cafe",
+                "address": "130 S 18th St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Pat's King of Steaks",
+                "address": "900 Passyunk Ave, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Magic Gardens",
+                    "address": "1029 S St, Philadelphia, PA 19148"
+                },
+                {
+                    "name": "Franklin Square",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Barbuzzo",
+                "address": "1008 Spruce St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "South Street Night Market",
+                    "address": "600 S St, Philadelphia, PA 19147"
+                }
+            ],
+            "accommodation": {
+                "name": "The Logan Philadelphia",
+                "address": "1 Logan Square, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "The Bakeshop on 20th",
+                "address": "269 S 20th St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Distrito",
+                "address": "33 S 15th St, Philadelphia, PA 19102"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Please Touch Museum",
+                    "address": "4231 Parkside Ave, Philadelphia, PA 19131"
+                },
+                {
+                    "name": "Franklin Square Par 3 Mini Golf",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Il Gatto Cucina Italiana",
+                "address": "110 S 13th St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "Spruce Street Harbor Park",
+                    "address": "300 N Marina Dr, Philadelphia, PA 19123"
+                }
+            ],
+            "accommodation": {
+                "name": "The Logan Philadelphia",
+                "address": "1 Logan Square, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "212 S 13th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "One Liberty Observation Deck",
+                    "address": "1650 Market St, Philadelphia, PA 19103"
+                }
+            ],
+            "lunch": {
+                "name": "Distrito",
+                "address": "33 S 15th St, Philadelphia, PA 19102"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Magic Gardens",
+                    "address": "1029 S St, Philadelphia, PA 19148"
+                },
+                {
+                    "name": "Franklin Square Par 3 Mini Golf",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Pizzeria Vetri",
+                "address": "1939 Callowhill St, Philadelphia, PA 19130"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "The Logan Philadelphia",
+                "address": "1 Logan Square, Philadelphia, PA 19103"
+            }
+        }
+    ]
+}

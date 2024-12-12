@@ -1,0 +1,132 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "212 S 13th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Pat's King of Steaks",
+                "address": "900 Passyunk Ave E, Philadelphia, PA 19148"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell",
+                    "address": "526 Market St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Hiro Ramen House",
+                "address": "1102 Chestnut St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Hotel Monaco Philadelphia",
+                "address": "433 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "The Bakeshop on 20th",
+                "address": "269 S 20th St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Square Pizza",
+                "address": "801 E Passyunk Ave, Philadelphia, PA 19148"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Elfreth's Alley",
+                    "address": "124 S 3rd St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Pizzeria Vetri",
+                "address": "1939 Callowhill St, Philadelphia, PA 19130"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Hotel Monaco Philadelphia",
+                "address": "433 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Dottie's Coffee",
+                "address": "2001 S 13th St, Philadelphia, PA 19148"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1020 South St, Philadelphia, PA 19147"
+                }
+            ],
+            "lunch": {
+                "name": "Talula's Daily",
+                "address": "208 W Washington Sq, Philadelphia, PA 19106"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Abe Fisher",
+                "address": "120 S 13th St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Hotel Monaco Philadelphia",
+                "address": "433 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "212 S 13th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "One South 12th St, Philadelphia, PA 19107"
+                }
+            ],
+            "lunch": {
+                "name": "Pat's King of Steaks",
+                "address": "900 Passyunk Ave E, Philadelphia, PA 19148"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell",
+                    "address": "526 Market St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Hiro Ramen House",
+                "address": "1102 Chestnut St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Hotel Monaco Philadelphia",
+                "address": "433 Chestnut St, Philadelphia, PA 19106"
+            }
+        }
+    ]
+}

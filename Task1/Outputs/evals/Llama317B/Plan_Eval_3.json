@@ -1,0 +1,82 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "212 S 13th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Fairmount Park",
+                    "address": "5800 Parkside Pl, Philadelphia, PA 19131"
+                }
+            ],
+            "lunch": {
+                "name": "McGillin's Olde Ale House",
+                "address": "1310 Drury St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art (PMoA)",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                },
+                {
+                    "name": "Schuylkill River Trail",
+                    "address": "2900 Walnut St, Philadelphia, PA 19104"
+                }
+            ],
+            "dinner": {
+                "name": "Fad\u00f3 Irish Pub & Restaurant",
+                "address": "1101 Pine St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Four Seasons Hotel Philadelphia",
+                "address": "1 N. Park Place, Philadelphia, PA 19102"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "212 S 13th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Valley Green Inn",
+                    "address": "7 Valley Green Rd, Philadelphia, PA 19128"
+                }
+            ],
+            "lunch": {
+                "name": "The Bourse",
+                "address": "100 E Penn Square, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "One Liberty Observation Deck",
+                    "address": "1650 Market St #2201, Philadelphia, PA 19103"
+                }
+            ],
+            "dinner": {
+                "name": "The Irish House Pub & Restaurant",
+                "address": "144 N 15th St, Philadelphia, PA 19102"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Franklin Square Fountain Show",
+                    "address": "6th St between Race and Vine, Philadelphia, PA 19107"
+                }
+            ],
+            "accommodation": {
+                "name": "Four Seasons Hotel Philadelphia",
+                "address": "1 N. Park Place, Philadelphia, PA 19102"
+            }
+        }
+    ]
+}

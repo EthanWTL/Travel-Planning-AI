@@ -1,0 +1,73 @@
+Day 1:
+
+* Accommodation:
+	+ Name: Four Seasons Hotel Philadelphia
+	+ Address: 1 N. Park Place, Philadelphia, PA 19102 (Located in the heart of the city and prioritizing safety)
+* Breakfast:
+	+ Name: Green Eggs Cafe
+	+ Address: 212 S 13th St, Philadelphia, PA 19107 (Serving breakfast and brunch options with a focus on local ingredients)
+
+Morning Attraction:
+
+* Name: Fairmount Park
+* Address: 5800 Parkside Pl, Philadelphia, PA 19131 (A large urban park featuring lakes, walking trails, and scenic views)
+* Time: 9:00 AM - 12:00 PM
+
+Lunch:
+
+* Name: McGillin's Olde Ale House
+* Address: 1310 Drury St, Philadelphia, PA 19107 (Serving Irish-American cuisine in a historic pub setting)
+
+Afternoon Attraction:
+
+* Name: Philadelphia Museum of Art (PMoA)
+* Address: 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130 (Housing an extensive collection of art and artifacts from around the world)
+* Time: 1:00 PM - 4:00 PM
+
+Afternoon Attraction:
+
+* Name: Schuylkill River Trail
+* Address: 2900 Walnut St, Philadelphia, PA 19104 (A scenic trail running along the Schuylkill River with opportunities for walking and biking)
+
+Dinner:
+
+* Name: Fadó Irish Pub & Restaurant
+* Address: 1101 Pine St, Philadelphia, PA 19107 (Serving traditional Irish cuisine in a cozy atmosphere)
+* Time: 6:00 PM - 9:00 PM
+
+Night Attraction:
+
+* Name: Independence Hall
+* Address: 520 Chestnut St, Philadelphia, PA 19106 (A historic landmark and birthplace of American democracy)
+
+Day 2:
+
+* Accommodation:
+	+ Same as Day 1
+* Breakfast:
+	+ Same as Day 1
+* Morning Attraction:
+	+ Name: Valley Green Inn
+	+ Address: 7 Valley Green Rd, Philadelphia, PA 19128 (A historic inn and restaurant offering scenic views of the Wissahickon Creek)
+	+ Time: 9:00 AM - 12:00 PM
+
+Lunch:
+
+* Name: The Bourse
+* Address: 100 E Penn Square, Philadelphia, PA 19107 (An upscale food hall featuring a variety of international cuisine options)
+
+Afternoon Attraction:
+
+* Name: One Liberty Observation Deck
+* Address: 1650 Market St #2201, Philadelphia, PA 19103 (Offering panoramic views of the city from the 57th floor)
+* Time: 2:00 PM - 5:00 PM
+
+Dinner:
+
+* Name: The Irish House Pub & Restaurant
+* Address: 144 N 15th St, Philadelphia, PA 19102 (Serving traditional Irish cuisine and live music in a cozy atmosphere)
+
+Night Attraction:
+
+* Name: The Franklin Square Fountain Show
+* Address: 6th St between Race and Vine, Philadelphia, PA 19107 (A historic square featuring a beautiful fountain show with lights and water effects)

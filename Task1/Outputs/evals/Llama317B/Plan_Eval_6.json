@@ -1,0 +1,164 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Green Street Coffee Company",
+                "address": "130 S 18th St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "-"
+                },
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "-"
+                }
+            ],
+            "lunch": {
+                "name": "Pat's King of Steaks",
+                "address": "900 Passyunk Ave, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "-"
+                },
+                {
+                    "name": "Benjamin Franklin Parkway",
+                    "address": "-"
+                }
+            ],
+            "dinner": {
+                "name": "Pho 75",
+                "address": "1122 Washington Ave, Philadelphia, PA 19147"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Pod Hotel",
+                "address": "1225 Walnut St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "The Dandelion",
+                "address": "124 S 18th St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Eastern State Penitentiary",
+                    "address": "-"
+                },
+                {
+                    "name": "Fairmount Park",
+                    "address": "-"
+                }
+            ],
+            "lunch": {
+                "name": "5th Street Deli",
+                "address": "1500 Market St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Barnes Foundation",
+                    "address": "-"
+                },
+                {
+                    "name": "The Franklin Institute",
+                    "address": "-"
+                }
+            ],
+            "dinner": {
+                "name": "Szechuan Four Rivers",
+                "address": "936 Race St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Pod Hotel",
+                "address": "1225 Walnut St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Green Street Coffee Company",
+                "address": "130 S 18th St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "One Liberty Observation Deck",
+                    "address": "-"
+                },
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "-"
+                }
+            ],
+            "lunch": {
+                "name": "El Vez",
+                "address": "120 S 13th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Magic Gardens",
+                    "address": "-"
+                },
+                {
+                    "name": "South Street",
+                    "address": "-"
+                }
+            ],
+            "dinner": {
+                "name": "Tiffin",
+                "address": "1100 Federal St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Pod Hotel",
+                "address": "1225 Walnut St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "The Dandelion",
+                "address": "124 S 18th St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Betsy Ross House",
+                    "address": "-"
+                },
+                {
+                    "name": "Independence Seaport Museum",
+                    "address": "-"
+                }
+            ],
+            "lunch": {
+                "name": "Distrito",
+                "address": "215 S 13th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "One Liberty Observation Deck",
+                    "address": "-"
+                },
+                {
+                    "name": "The Franklin Institute",
+                    "address": "-"
+                }
+            ],
+            "dinner": {
+                "name": "Sabrina's Caf\u00e9",
+                "address": "1804 Callowhill St, Philadelphia, PA 19130"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Pod Hotel",
+                "address": "1225 Walnut St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}
