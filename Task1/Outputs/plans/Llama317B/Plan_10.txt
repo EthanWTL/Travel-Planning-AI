@@ -3,150 +3,181 @@ Here is a detailed travel itinerary for a 4-day trip with an expensive budget:
 **Day 1**
 
 * Accommodation:
-	+ Hotel Monaco Philadelphia (5-star)
-		- Address: 433 Chestnut St, Philadelphia, PA 19106
-		- Phone Number: +1 215-963-1500
-		- Email: [monaco@kimpton.com](mailto:monaco@kimpton.com)
+	+ Name: The Rittenhouse Hotel
+	+ Address: 210 W Rittenhouse Square, Philadelphia, PA 19103
+	+ Phone Number: (215) 751-1730
+	+ Price Range: $$$$ (Expensive)
 * Breakfast:
-	+ Sabrina's Cafe (4.5/5 stars)
-		- Address: 227 N 34th St, Philadelphia, PA 19104
-		- Phone Number: +1 215-222-2200
-		- Email: [sabrinascafe@gmail.com](mailto:sabrinascafe@gmail.com)
+	+ Name: Le Pain Quotidien
+	+ Address: 1425 Walnut St, Philadelphia, PA 19102
+	+ Phone Number: (215) 751-1111
+	+ Price Range: $$$$
 * Morning Attraction:
-	+ Reading Terminal Market (4.5/5 stars)
-		- Address: 51 N 12th St, Philadelphia, PA 19107
-		- Phone Number: +1 215-922-1500
-		- Email: [rtm@readingterminalmarket.com](mailto:rtm@readingterminalmarket.com)
+	+ Name: The Shops at Liberty Place
+	+ Address: 1650 Market St, Philadelphia, PA 19103
+	+ Phone Number: (215) 790-3600
+	+ Price Range: Free Admission
 * Lunch:
-	+ Distrito (4.5/5 stars)
-		- Address: 33 S 15th St, Philadelphia, PA 19102
-		- Phone Number: +1 215-496-9000
-		- Email: [distritorestaurant@gmail.com](mailto:distritorestaurant@gmail.com)
+	+ Name: Kim's Restaurant
+	+ Address: 5955 N 5th St, Philadelphia, PA 19141
+	+ Phone Number: (215) 324-1111
+	+ Price Range: $$$$
 * Afternoon Attraction:
-	+ The Barnes Foundation (4.5/5 stars)
-		- Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130
-		- Phone Number: +1 215-278-7069
-		- Email: [info@barnesfoundation.org](mailto:info@barnesfoundation.org)
+	+ Name: The Barnes Foundation
+	+ Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130
+	+ Phone Number: (215) 278-7020
+	+ Price Range: $20-$50 per person
+	+ Name: Rittenhouse Square Park
+	+ Address: 210 W Rittenhouse Square, Philadelphia, PA 19103
+	+ Phone Number: (215) 751-1730
+	+ Price Range: Free Admission
 * Dinner:
-	+ Distrito (4.5/5 stars)
-		- Address: 33 S 15th St, Philadelphia, PA 19102
-		- Phone Number: +1 215-496-9000
-		- Email: [distritorestaurant@gmail.com](mailto:distritorestaurant@gmail.com)
+	+ Name: Khyber Pass Pub
+	+ Address: 56 S 2nd St, Philadelphia, PA 19106
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
 * Night Attraction:
-	+ The Franklin Institute (4.5/5 stars)
-		- Address: 222 N 20th St, Philadelphia, PA 19103
-		- Phone Number: +1 215-448-1233
-		- Email: [info@fi.edu](mailto:info@fi.edu)
+	+ Name: The Franklin Institute
+	+ Address: 222 N 20th St, Philadelphia, PA 19103
+	+ Phone Number: (215) 448-1200
+	+ Price Range: $15-$30 per person
 
 **Day 2**
 
+* Accommodation:
+	+ Same as Day 1
 * Breakfast:
-	+ Sabrina's Cafe (4.5/5 stars)
-		- Address: 227 N 34th St, Philadelphia, PA 19104
-		- Phone Number: +1 215-222-2200
-		- Email: [sabrinascafe@gmail.com](mailto:sabrinascafe@gmail.com)
+	+ Name: Green Eggs Cafe
+	+ Address: 212 S 13th St, Philadelphia, PA 19107
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
 * Morning Attraction:
-	+ The Magic Gardens (4.5/5 stars)
-		- Address: 1029 S St, Philadelphia, PA 19147
-		- Phone Number: +1 215-737-2468
-		- Email: [info@magicgardens.org](mailto:info@magicgardens.org)
+	+ Name: The Magic Gardens
+	+ Address: 1029 S 22nd St, Philadelphia, PA 19148
+	+ Phone Number: (215) 463-1478
+	+ Price Range: $10-$20 per person
 * Lunch:
-	+ Tinto (4.5/5 stars)
-		- Address: 114 S 20th St, Philadelphia, PA 19103
-		- Phone Number: +1 215-222-2200
-		- Email: [tintorestaurant@gmail.com](mailto:tintorestaurant@gmail.com)
+	+ Name: Distrito
+	+ Address: 33 S 23rd St, Philadelphia, PA 19103
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
 * Afternoon Attraction:
-	+ The Museum of the American Revolution (4.5/5 stars)
-		- Address: 101 S 3rd St, Philadelphia, PA 19106
-		- Phone Number: +1 215-253-6731
-		- Email: [info@revolutionmuseum.org](mailto:info@revolutionmuseum.org)
+	+ Name: The Franklin Square Fountain Show
+	+ Address: 6th and Race Streets, Philadelphia, PA 19107
+	+ Phone Number: (215) 448-1200
+	+ Price Range: Free Admission
+	+ Name: Reading Terminal Market
+	+ Address: 51 N 12th St, Philadelphia, PA 19107
+	+ Phone Number: (215) 463-1478
+	+ Price Range: Free Admission
 * Dinner:
-	+ Vetri Cucina (4.5/5 stars)
-		- Address: 1312 Spruce St, Philadelphia, PA 19107
-		- Phone Number: +1 215-635-1100
-		- Email: [vetricucina@gmail.com](mailto:vetricucina@gmail.com)
+	+ Name: Parc
+	+ Address: 227 S 18th St, Philadelphia, PA 19103
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
 * Night Attraction:
-	+ The Franklin Institute (4.5/5 stars)
-		- Address: 222 N 20th St, Philadelphia, PA 19103
-		- Phone Number: +1 215-448-1233
-		- Email: [info@fi.edu](mailto:info@fi.edu)
+	+ Same as Day 1
 
 **Day 3**
 
+* Accommodation:
+	+ Name: The Logan Philadelphia, Curio Collection by Hilton
+	+ Address: 1 Logan Square, Philadelphia, PA 19103
+	+ Phone Number: (215) 963-1500
+	+ Price Range: $$$$
 * Breakfast:
-	+ Sabrina's Cafe (4.5/5 stars)
-		- Address: 227 N 34th St, Philadelphia, PA 19104
-		- Phone Number: +1 215-222-2200
-		- Email: [sabrinascafe@gmail.com](mailto:sabrinascafe@gmail.com)
+	+ Name: Sabrina's Cafe
+	+ Address: 227 N 34th St, Philadelphia, PA 19104
+	+ Phone Number: (215) 463-1478
+	+ Price Range: $$$$
 * Morning Attraction:
-	+ The Barnes Foundation (4.5/5 stars)
-		- Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130
-		- Phone Number: +1 215-278-7069
-		- Email: [info@barnesfoundation.org](mailto:info@barnesfoundation.org)
+	+ Name: The Barnes Foundation
+	+ Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130
+	+ Phone Number: (215) 278-7020
+	+ Price Range: $20-$50 per person
 * Lunch:
-	+ Distrito (4.5/5 stars)
-		- Address: 33 S 15th St, Philadelphia, PA 19102
-		- Phone Number: +1 215-496-9000
-		- Email: [distritorestaurant@gmail.com](mailto:distritorestaurant@gmail.com)
+	+ Name: Distrito
+	+ Address: 33 S 23rd St, Philadelphia, PA 19103
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
 * Afternoon Attraction:
-	+ The Franklin Institute (4.5/5 stars)
-		- Address: 222 N 20th St, Philadelphia, PA 19103
-		- Phone Number: +1 215-448-1233
-		- Email: [info@fi.edu](mailto:info@fi.edu)
+	+ Name: The Franklin Square Fountain Show
+	+ Address: 6th and Race Streets, Philadelphia, PA 19107
+	+ Phone Number: (215) 448-1200
+	+ Price Range: Free Admission
+	+ Name: Reading Terminal Market
+	+ Address: 51 N 12th St, Philadelphia, PA 19107
+	+ Phone Number: (215) 463-1478
+	+ Price Range: Free Admission
 * Dinner:
-	+ Vetri Cucina (4.5/5 stars)
-		- Address: 1312 Spruce St, Philadelphia, PA 19107
-		- Phone Number: +1 215-635-1100
-		- Email: [vetricucina@gmail.com](mailto:vetricucina@gmail.com)
+	+ Name: Khyber Pass Pub
+	+ Address: 56 S 2nd St, Philadelphia, PA 19106
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
+* Night Attraction:
+	+ Same as Day 1
 
 **Day 4**
 
+* Accommodation:
+	+ Same as Day 3
 * Breakfast:
-	+ Sabrina's Cafe (4.5/5 stars)
-		- Address: 227 N 34th St, Philadelphia, PA 19104
-		- Phone Number: +1 215-222-2200
-		- Email: [sabrinascafe@gmail.com](mailto:sabrinascafe@gmail.com)
+	+ Name: Green Eggs Cafe
+	+ Address: 212 S 13th St, Philadelphia, PA 19107
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
 * Morning Attraction:
-	+ The Museum of the American Revolution (4.5/5 stars)
-		- Address: 101 S 3rd St, Philadelphia, PA 19106
-		- Phone Number: +1 215-253-6731
-		- Email: [info@revolutionmuseum.org](mailto:info@revolutionmuseum.org)
+	+ Name: The Magic Gardens
+	+ Address: 1029 S 22nd St, Philadelphia, PA 19148
+	+ Phone Number: (215) 463-1478
+	+ Price Range: $10-$20 per person
 * Lunch:
-	+ Tinto (4.5/5 stars)
-		- Address: 114 S 20th St, Philadelphia, PA 19103
-		- Phone Number: +1 215-222-2200
-		- Email: [tintorestaurant@gmail.com](mailto:tintorestaurant@gmail.com)
+	+ Name: Distrito
+	+ Address: 33 S 23rd St, Philadelphia, PA 19103
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
 * Afternoon Attraction:
-	+ The Magic Gardens (4.5/5 stars)
-		- Address: 1029 S St, Philadelphia, PA 19147
-		- Phone Number: +1 215-737-2468
-		- Email: [info@magicgardens.org](mailto:info@magicgardens.org)
+	+ Name: The Franklin Square Fountain Show
+	+ Address: 6th and Race Streets, Philadelphia, PA 19107
+	+ Phone Number: (215) 448-1200
+	+ Price Range: Free Admission
+	+ Name: Reading Terminal Market
+	+ Address: 51 N 12th St, Philadelphia, PA 19107
+	+ Phone Number: (215) 463-1478
+	+ Price Range: Free Admission
 * Dinner:
-	+ Vetri Cucina (4.5/5 stars)
-		- Address: 1312 Spruce St, Philadelphia, PA 19107
-		- Phone Number: +1 215-635-1100
-		- Email: [vetricucina@gmail.com](mailto:vetricucina@gmail.com)
+	+ Name: Parc
+	+ Address: 227 S 18th St, Philadelphia, PA 19103
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
+* Night Attraction:
+	+ Same as Day 1
 
 **Korean Restaurant Recommendations**
 
-* Han Dynasty (4.5/5 stars)
-	+ Address: 121 N 17th St, Philadelphia, PA 19103
-	+ Phone Number: +1 215-563-1000
-	+ Email: [handynastyrestaurant@gmail.com](mailto:handynastyrestaurant@gmail.com)
-* Kim's Restaurant (4/5 stars)
+* Name: Kim's Restaurant
 	+ Address: 5955 N 5th St, Philadelphia, PA 19141
-	+ Phone Number: +1 215-324-1100
-	+ Email: [kimsrestaurantphilly@gmail.com](mailto:kimsrestaurantphilly@gmail.com)
+	+ Phone Number: (215) 324-1111
+	+ Price Range: $$$$
+* Name: Seoul Garden
+	+ Address: 1234 S 11th St, Philadelphia, PA 19147
+	+ Phone Number: (215) 463-1478
+	+ Price Range: $$$$
+* Name: Kung Fu Tea
+	+ Address: 1006 Arch St, Philadelphia, PA 19107
+	+ Phone Number: (215) 790-3600
+	+ Price Range: $$$$
 
-**Additional Recommendations**
+**Business Information**
 
-* Visit the Liberty Bell (free admission)
-	+ Address: 526 Market St, Philadelphia, PA 19106
-	+ Phone Number: +1 215-965-2305
-	+ Email: [libertybell@libertbellcenter.org](mailto:libertybell@libertbellcenter.org)
-* Explore the historic district (free admission)
-	+ Address: Various locations in Philadelphia, PA
-	+ Phone Number: +1 215-922-1500
-	+ Email: [rtm@readingterminalmarket.com](mailto:rtm@readingterminalmarket.com)
+* The Rittenhouse Hotel:
+	+ Phone Number: (215) 751-1730
+	+ Email: [reservations@rittenhousehotel.com](mailto:reservations@rittenhousehotel.com)
+* Le Pain Quotidien:
+	+ Phone Number: (215) 751-1111
+	+ Email: [info@lepainquotidiendelawarevalley.com](mailto:info@lepainquotidiendelawarevalley.com)
+* The Barnes Foundation:
+	+ Phone Number: (215) 278-7020
+	+ Email: [info@barnesfoundation.org](mailto:info@barnesfoundation.org)
 
-Note that all addresses and phone numbers are provided for informational purposes only. It's always a good idea to check the attraction or restaurant's website or call ahead to confirm hours and availability.
+Note that the itinerary is just a suggestion and can be customized to fit your specific needs and preferences. Additionally, prices may vary depending on the time of year and availability.

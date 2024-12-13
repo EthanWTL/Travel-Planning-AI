@@ -1,82 +1,85 @@
 Here is a detailed travel itinerary for a 3-day trip with a cheap budget:
 
-Day 1:
-- Accommodation: 
-  - Name: Hostel Philly
-    Address: 2200 Market St, Philadelphia, PA 19103
+**Day 1**
 
-- Breakfast: 
-  - Name: Green Eggs Cafe
-    Address: 212 S 22nd St, Philadelphia, PA 19103
+* **Accommodation:** 
+  * Name: Budget Inn Philadelphia
+    Address: 1234 Chestnut St, Philadelphia, PA 19107 ( approx. $60/night)
+* **Breakfast:** 
+  * Name: Dunkin' Donuts
+    Address: 5678 Market St, Philadelphia, PA 19139 (approx. $5/breakfast sandwich)
+* **Morning Attraction:** 
+  * Name: Reading Terminal Market
+    Address: 51 N 12th St, Philadelphia, PA 19107 (free admission)
+* **Lunch:** 
+  * Name: Pat's King of Steaks
+    Address: 1237 E Passyunk Ave, Philadelphia, PA 19148 (approx. $10/steak sandwich)
+* **Afternoon Attraction:** 
+  * Name: Independence Hall
+    Address: 520 Chestnut St, Philadelphia, PA 19106 (free admission)
+  * Name: Liberty Bell Center
+    Address: 526 Market St, Philadelphia, PA 19106 (free admission)
+* **Dinner:** 
+  * Name: Tiffin - South Philadelphia
+    Address: 1100 Federal St, Philadelphia, PA 19147 (approx. $15/Indian meal)
+* **Night Attraction:** 
+  * Name: The Franklin Fountain
+    Address: 116 Market St, Philadelphia, PA 19106 (free admission)
 
-- Morning Attraction: 
-  - Name: Independence Hall
-    Address: 520 Chestnut St, Philadelphia, PA 19106
+**Day 2**
 
-- Lunch: 
-  - Name: Pat's King of Steaks
-    Address: 1237 E Passyunk Ave, Philadelphia, PA 19147
+* **Breakfast:** 
+  * Name: La Colombe Coffee Roasters
+    Address: 130 S 19th St, Philadelphia, PA 19103 (approx. $5/coffee)
+* **Morning Attraction:** 
+  * Name: The Barnes Foundation
+    Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130 (free admission)
+* **Lunch:** 
+  * Name: Distrito
+    Address: 33 S 23rd St, Philadelphia, PA 19103 (approx. $15/Mexican meal)
+* **Afternoon Attraction:** 
+  * Name: The Magic Gardens
+    Address: 1029 S 22nd St, Philadelphia, PA 19148 (free admission)
+  * Name: Eastern State Penitentiary
+    Address: 2027 Fairmount St, Philadelphia, PA 19130 (approx. $14/admission)
+* **Dinner:** 
+  * Name: Saffron Indian Restaurant
+    Address: 1234 Chestnut St, Philadelphia, PA 19107 (approx. $15/Indian meal)
+* **Night Attraction:** 
+  * Name: The Fillmore Philly
+    Address: 1100 Market St, Philadelphia, PA 19107 (free admission)
 
-- Afternoon Attraction: 
-  - Name: Reading Terminal Market
-    Address: 51 N 12th St, Philadelphia, PA 19107
-  - Name: Liberty Bell
-    Address: 526 Market St, Philadelphia, PA 19106
+**Day 3**
 
-- Dinner: 
-  - Name: India Palace
-    Address: 2313 Frankford Ave, Philadelphia, PA 19124 (offers good flavor and good value)
+* **Breakfast:** 
+  * Name: Green Eggs Cafe
+    Address: 212 S 13th St, Philadelphia, PA 19107 (approx. $10/breakfast)
+* **Morning Attraction:** 
+  * Name: The Mutter Museum
+    Address: 19 S 22nd St, Philadelphia, PA 19103 (free admission)
+* **Lunch:** 
+  * Name: Square Peg Cafe
+    Address: 1234 Chestnut St, Philadelphia, PA 19107 (approx. $15/meal)
+* **Afternoon Attraction:** 
+  * Name: The Please Touch Museum
+    Address: 4231 Avenue of the Republic, Philadelphia, PA 19131 (free admission for children under 18; approx. $20/adult)
+  * Name: Schuylkill River Trail
+    Address: Various locations along the river (free admission)
+* **Dinner:** 
+  * Name: Zorba's Taverna
+    Address: 2230 Fairmount Ave, Philadelphia, PA 19130 (approx. $15/Greek meal)
+* **Night Attraction:** 
+  * Name: The Trocadero Theatre
+    Address: 1003 Arch St, Philadelphia, PA 19107 (free admission)
 
-- Night Attraction: 
-  - Name: South Street Philly Bagels
-    Address: 613 S 3rd St, Philadelphia, PA 19147
+**Recommendations for Indian restaurants with good flavor and value:**
 
-Day 2:
-- Breakfast: 
-  - Name: Cafe Land
-    Address: 1231 Pine St, Philadelphia, PA 19107
+1. Tiffin - South Philadelphia (approx. $15/meal)
+2. Saffron Indian Restaurant (approx. $15/Indian meal)
+3. Zorba's Taverna (approx. $15/Greek meal, but also serves Indian dishes)
 
-- Morning Attraction: 
-  - Name: The Franklin Institute
-    Address: 2229 Arch St, Philadelphia, PA 19103
+**Accommodations in a good location:**
 
-- Lunch: 
-  - Name: Jim's South Philly Pizza
-    Address: 400 S St, Philadelphia, PA 19147 (offers good flavor and good value)
-
-- Afternoon Attraction: 
-  - Name: Barnes Foundation
-    Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130
-
-- Dinner: 
-  - Name: Maharaja Indian Cuisine
-    Address: 2201 Cottman Ave, Philadelphia, PA 19124 (offers good flavor and good value)
-
-- Night Attraction: 
-  - Name: McGillin's Olde Ale House
-    Address: 1310 Drury St, Philadelphia, PA 19107
-
-Day 3:
-- Breakfast: 
-  - Name: The Bakeshop on 20th
-    Address: 269 S 20th St, Philadelphia, PA 19103
-
-- Morning Attraction: 
-  - Name: One Liberty Observation Deck
-    Address: 1650 Market St, Philadelphia, PA 19103
-
-- Lunch: 
-  - Name: Korma House Indian Restaurant
-    Address: 2315 Frankford Ave, Philadelphia, PA 19124 (offers good flavor and good value)
-
-- Afternoon Attraction: 
-  - Name: Eastern State Penitentiary
-    Address: 2027 Fairmount St, Philadelphia, PA 19130
-
-- Dinner: 
-  - Name: Zorba's Taverna
-    Address: 2230 Fairmount Ave, Philadelphia, PA 19131 (offers good flavor and good value)
-
-- Night Attraction: 
-  - Name: Reading Terminal Market (again for shopping)
-    Address: 51 N 12th St, Philadelphia, PA 19107
+1. Budget Inn Philadelphia (approx. $60/night)
+2. The Franklin Hotel (approx. $100/night)
+3. The Logan Philadelphia Curio Collection by Hilton (approx. $150/night)
