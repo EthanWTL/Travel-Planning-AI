@@ -3,116 +3,112 @@
         {
             "days": "Day 1",
             "breakfast": {
-                "name": "Green Eggs Cafe",
-                "address": "212 S 22nd St, Philadelphia, PA 19103"
+                "name": "Green Street Coffee Co.",
+                "address": "1101 Spruce St"
             },
             "morning_attractions": [
                 {
                     "name": "Independence Hall",
-                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                    "address": "520 Chestnut St"
                 }
             ],
             "lunch": {
                 "name": "Pat's King of Steaks",
-                "address": "1237 E Passyunk Ave, Philadelphia, PA 19147"
+                "address": "1237 E Passyunk Ave"
             },
             "afternoon_attractions": [
                 {
                     "name": "Reading Terminal Market",
-                    "address": "51 N 12th St, Philadelphia, PA 19107"
-                },
-                {
-                    "name": "Liberty Bell",
-                    "address": "526 Market St, Philadelphia, PA 19106"
+                    "address": "51 N 12th St"
                 }
             ],
             "dinner": {
-                "name": "India Palace",
-                "address": "2313 Frankford Ave, Philadelphia, PA 19124"
+                "name": "Distrito",
+                "address": "3945 Chestnut St"
             },
             "night_attractions": [
                 {
-                    "name": "South Street Philly Bagels",
-                    "address": "613 S 3rd St, Philadelphia, PA 19147"
+                    "name": "McGillin's Olde Ale House",
+                    "address": "1310 Drury St"
                 }
             ],
             "accommodation": {
-                "name": "Hostel Philly",
-                "address": "2200 Market St, Philadelphia, PA 19103"
+                "name": "AKA Rittenhouse Square",
+                "address": "135 S 18th St"
             }
         },
         {
             "days": "Day 2",
             "breakfast": {
-                "name": "Cafe Land",
-                "address": "1231 Pine St, Philadelphia, PA 19107"
+                "name": "Cafe Square One",
+                "address": "50 S 3rd St"
             },
             "morning_attractions": [
                 {
-                    "name": "The Franklin Institute",
-                    "address": "2229 Arch St, Philadelphia, PA 19103"
+                    "name": "Eastern State Penitentiary",
+                    "address": "2027 Fairmount Ave"
                 }
             ],
             "lunch": {
-                "name": "Jim's South Philly Pizza",
-                "address": "400 S St, Philadelphia, PA 19147"
+                "name": "El Camino Real",
+                "address": "1040 N 2nd St"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Barnes Foundation",
-                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "One Liberty Observation Deck",
+                    "address": "1650 Market St"
                 }
             ],
             "dinner": {
-                "name": "Maharaja Indian Cuisine",
-                "address": "2201 Cottman Ave, Philadelphia, PA 19124"
+                "name": "Barbuzzo",
+                "address": "110 S 13th St"
             },
             "night_attractions": [
                 {
-                    "name": "McGillin's Olde Ale House",
-                    "address": "1310 Drury St, Philadelphia, PA 19107"
+                    "name": "The Franklin Institute Science Museum",
+                    "address": "222 N 20th St"
                 }
             ],
             "accommodation": {
-                "name": "Hostel Philly",
-                "address": "2200 Market St, Philadelphia, PA 19103"
+                "name": "Aloft Philadelphia Downtown",
+                "address": "101 North Broad St"
             }
         },
         {
             "days": "Day 3",
             "breakfast": {
-                "name": "The Bakeshop on 20th",
-                "address": "269 S 20th St, Philadelphia, PA 19103"
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St"
             },
             "morning_attractions": [
                 {
-                    "name": "One Liberty Observation Deck",
-                    "address": "1650 Market St, Philadelphia, PA 19103"
+                    "name": "The Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy"
                 }
             ],
             "lunch": {
-                "name": "Korma House Indian Restaurant",
-                "address": "2315 Frankford Ave, Philadelphia, PA 19124"
+                "name": "Pizzeria Vetri",
+                "address": "1939 Callowhill St"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Eastern State Penitentiary",
-                    "address": "2027 Fairmount St, Philadelphia, PA 19130"
+                    "name": "The Magic Gardens",
+                    "address": "1020 South St"
                 }
             ],
             "dinner": {
-                "name": "Zorba's Taverna",
-                "address": "2230 Fairmount Ave, Philadelphia, PA 19131"
+                "name": "El Merkury",
+                "address": "2104 Chestnut St"
             },
             "night_attractions": [
                 {
-                    "name": "Reading Terminal Market",
-                    "address": "51 N 12th St, Philadelphia, PA 19107"
+                    "name": "The Franklin Square Mini Golf",
+                    "address": "200 N 6th St"
                 }
             ],
             "accommodation": {
-                "name": "Hostel Philly",
-                "address": "2200 Market St, Philadelphia, PA 19103"
+                "name": "The Study at University City",
+                "address": "20 S 33rd St"
             }
         }
     ]

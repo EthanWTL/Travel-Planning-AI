@@ -3,82 +3,45 @@
         {
             "days": "Day 1",
             "breakfast": {
-                "name": "Sabrina's Cafe",
-                "address": "227 N 34th St, Philadelphia, PA 19104"
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
             },
             "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Pat's King of Steaks",
+                "address": "1237 E Passyunk Ave, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
                 {
                     "name": "Reading Terminal Market",
                     "address": "51 N 12th St, Philadelphia, PA 19107"
                 }
             ],
-            "lunch": {
-                "name": "Distrito",
-                "address": "33 S 15th St, Philadelphia, PA 19102"
-            },
-            "afternoon_attractions": [
-                {
-                    "name": "The Barnes Foundation",
-                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
-                }
-            ],
             "dinner": {
-                "name": "Distrito",
-                "address": "33 S 15th St, Philadelphia, PA 19102"
+                "name": "Aqimero",
+                "address": "10 Avenue Of The Arts, Philadelphia, PA 19102"
             },
             "night_attractions": [
                 {
-                    "name": "The Franklin Institute",
+                    "name": "The Franklin Institute Science Museum",
                     "address": "222 N 20th St, Philadelphia, PA 19103"
                 }
             ],
             "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             }
         },
         {
             "days": "Day 2",
             "breakfast": {
-                "name": "Sabrina's Cafe",
-                "address": "227 N 34th St, Philadelphia, PA 19104"
-            },
-            "morning_attractions": [
-                {
-                    "name": "The Magic Gardens",
-                    "address": "1029 S St, Philadelphia, PA 19147"
-                }
-            ],
-            "lunch": {
-                "name": "Tinto",
-                "address": "114 S 20th St, Philadelphia, PA 19103"
-            },
-            "afternoon_attractions": [
-                {
-                    "name": "The Museum of the American Revolution",
-                    "address": "101 S 3rd St, Philadelphia, PA 19106"
-                }
-            ],
-            "dinner": {
-                "name": "Vetri Cucina",
-                "address": "1312 Spruce St, Philadelphia, PA 19107"
-            },
-            "night_attractions": [
-                {
-                    "name": "The Franklin Institute",
-                    "address": "222 N 20th St, Philadelphia, PA 19103"
-                }
-            ],
-            "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
-            }
-        },
-        {
-            "days": "Day 3",
-            "breakfast": {
-                "name": "Sabrina's Cafe",
-                "address": "227 N 34th St, Philadelphia, PA 19104"
+                "name": "The Bakeshop on 20th",
+                "address": "269 S 20th St, Philadelphia, PA 19103"
             },
             "morning_attractions": [
                 {
@@ -88,54 +51,101 @@
             ],
             "lunch": {
                 "name": "Distrito",
-                "address": "33 S 15th St, Philadelphia, PA 19102"
+                "address": "3945 Chestnut St, Philadelphia, PA 19104"
             },
             "afternoon_attractions": [
                 {
-                    "name": "The Franklin Institute",
-                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                    "name": "The Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 }
             ],
             "dinner": {
                 "name": "Vetri Cucina",
                 "address": "1312 Spruce St, Philadelphia, PA 19107"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The Kimmel Center for the Performing Arts",
+                    "address": "300 S Broad St, Philadelphia, PA 19102"
+                }
+            ],
             "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
+                "name": "The Logan Philadelphia, Curio Collection by Hilton",
+                "address": "1 Logan Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "The Good King Tavern",
+                "address": "614 S 7th St, Philadelphia, PA 19147"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Liberty Bell",
+                    "address": "526 Market St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "El Vez",
+                "address": "121 S 13th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1020 South St, Philadelphia, PA 19147"
+                }
+            ],
+            "dinner": {
+                "name": "Barbuzzo",
+                "address": "110 S 13th St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Blue Cross RiverRink Winterfest",
+                    "address": "101 S Columbus Blvd, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "The Four Seasons Hotel Philadelphia",
+                "address": "1 N 19th St, Philadelphia, PA 19103"
             }
         },
         {
             "days": "Day 4",
             "breakfast": {
-                "name": "Sabrina's Cafe",
-                "address": "227 N 34th St, Philadelphia, PA 19104"
+                "name": "The Green Line Cafe",
+                "address": "4239 Baltimore Ave, Philadelphia, PA 19104"
             },
             "morning_attractions": [
                 {
-                    "name": "The Museum of the American Revolution",
-                    "address": "101 S 3rd St, Philadelphia, PA 19106"
+                    "name": "The Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA 19104"
                 }
             ],
             "lunch": {
-                "name": "Tinto",
-                "address": "114 S 20th St, Philadelphia, PA 19103"
+                "name": "The Tasty",
+                "address": "1401 S 12th St, Philadelphia, PA 19147"
             },
             "afternoon_attractions": [
                 {
-                    "name": "The Magic Gardens",
-                    "address": "1029 S St, Philadelphia, PA 19147"
+                    "name": "The Franklin Square Mini Golf",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
                 }
             ],
             "dinner": {
-                "name": "Vetri Cucina",
-                "address": "1312 Spruce St, Philadelphia, PA 19107"
+                "name": "The Dandelion",
+                "address": "124 S 18th St, Philadelphia, PA 19103"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The One Liberty Observation Deck",
+                    "address": "1650 Market St, Philadelphia, PA 19103"
+                }
+            ],
             "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
+                "name": "The Four Seasons Hotel Philadelphia",
+                "address": "1 N 19th St, Philadelphia, PA 19103"
             }
         }
     ]

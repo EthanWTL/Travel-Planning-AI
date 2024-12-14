@@ -3,129 +3,149 @@
         {
             "days": "Day 1",
             "breakfast": {
-                "name": "Green Eggs Cafe",
-                "address": "212 S 13th St, Philadelphia, PA 19107"
+                "name": "Bindi",
+                "address": "1628 Walnut St"
             },
             "morning_attractions": [
                 {
                     "name": "Independence Hall",
-                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                    "address": "520 Chestnut St"
                 }
             ],
             "lunch": {
-                "name": "Pat's King of Steaks",
-                "address": "900 Passyunk Ave E, Philadelphia, PA 19148"
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Liberty Bell",
-                    "address": "526 Market St, Philadelphia, PA 19106"
+                    "name": "Elfreth's Alley",
+                    "address": "126 Elfreths Aly"
                 }
             ],
             "dinner": {
-                "name": "Hiro Ramen House",
-                "address": "1102 Chestnut St, Philadelphia, PA 19107"
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The Franklin Square Mini Golf",
+                    "address": "200 N 6th St"
+                }
+            ],
             "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
+                "name": "AKA Rittenhouse Square",
+                "address": "135 S 18th St"
             }
         },
         {
             "days": "Day 2",
             "breakfast": {
-                "name": "The Bakeshop on 20th",
-                "address": "269 S 20th St, Philadelphia, PA 19103"
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St"
             },
             "morning_attractions": [
                 {
-                    "name": "Philadelphia Museum of Art",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "The Liberty Bell Center",
+                    "address": "6th St & Chestnut St"
                 }
             ],
             "lunch": {
-                "name": "Square Pizza",
-                "address": "801 E Passyunk Ave, Philadelphia, PA 19148"
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Elfreth's Alley",
-                    "address": "124 S 3rd St, Philadelphia, PA 19106"
+                    "name": "The Reading Terminal Market",
+                    "address": "51 N 12th St"
                 }
             ],
             "dinner": {
-                "name": "Pizzeria Vetri",
-                "address": "1939 Callowhill St, Philadelphia, PA 19130"
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The One Liberty Observation Deck",
+                    "address": "1650 Market St"
+                }
+            ],
             "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
+                "name": "AKA University City",
+                "address": "2929 Walnut St"
             }
         },
         {
             "days": "Day 3",
             "breakfast": {
-                "name": "Dottie's Coffee",
-                "address": "2001 S 13th St, Philadelphia, PA 19148"
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St"
             },
             "morning_attractions": [
                 {
-                    "name": "The Magic Gardens",
-                    "address": "1020 South St, Philadelphia, PA 19147"
+                    "name": "The Eastern State Penitentiary",
+                    "address": "2027 Fairmount Ave"
                 }
             ],
             "lunch": {
-                "name": "Talula's Daily",
-                "address": "208 W Washington Sq, Philadelphia, PA 19106"
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
             },
             "afternoon_attractions": [
                 {
-                    "name": "The Barnes Foundation",
-                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "The Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy"
                 }
             ],
             "dinner": {
-                "name": "Abe Fisher",
-                "address": "120 S 13th St, Philadelphia, PA 19107"
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1020 South St"
+                }
+            ],
             "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
+                "name": "AKA Philadelphia Historic District",
+                "address": "400 Arch St"
             }
         },
         {
             "days": "Day 4",
             "breakfast": {
                 "name": "Green Eggs Cafe",
-                "address": "212 S 13th St, Philadelphia, PA 19107"
+                "address": "1306 Dickinson St"
             },
             "morning_attractions": [
                 {
-                    "name": "Reading Terminal Market",
-                    "address": "One South 12th St, Philadelphia, PA 19107"
+                    "name": "The Independence Seaport Museum",
+                    "address": "211 S Columbus Blvd"
                 }
             ],
             "lunch": {
-                "name": "Pat's King of Steaks",
-                "address": "900 Passyunk Ave E, Philadelphia, PA 19148"
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Liberty Bell",
-                    "address": "526 Market St, Philadelphia, PA 19106"
+                    "name": "The Philadelphia Zoo",
+                    "address": "3400 W Girard Ave"
                 }
             ],
             "dinner": {
-                "name": "Hiro Ramen House",
-                "address": "1102 Chestnut St, Philadelphia, PA 19107"
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The One Liberty Observation Deck",
+                    "address": "1650 Market St"
+                }
+            ],
             "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
+                "name": "AKA Rittenhouse Square",
+                "address": "135 S 18th St"
             }
         }
     ]

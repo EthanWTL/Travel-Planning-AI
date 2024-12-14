@@ -1,41 +1,239 @@
-Here is a detailed travel itinerary for a 3-day trip to Philadelphia with a cheap budget:
+Based on the provided data, here is a suggested 3-day itinerary for a budget-friendly trip to Philadelphia:
 
-**Day 1**
+Day 1:
 
-* **Accommodation:** Stay at the **Hostel Philly** (Address: 1706 Benjamin Franklin Pkwy, Philadelphia, PA 19103). This hostel offers dorms and private rooms at an affordable price. It's located in the heart of the city, within walking distance to many attractions.
-* **Breakfast:** Start your day with breakfast at **Green Eggs Cafe** (Address: 212 S 13th St, Philadelphia, PA 19107). This cafe serves delicious omelets and sandwiches at a reasonable price.
-* **Morning Attraction:** Visit the **Philadelphia Museum of Art** (Address: 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130). Admission is free on Sundays, making it an ideal morning activity. Take in the stunning views of the city from the famous "Rocky Steps."
-* **Lunch:** Grab lunch at **Pat's King of Steaks** (Address: 900 Passyunk Ave, Philadelphia, PA 19147). This iconic cheesesteak joint is a must-visit for any Philly foodie. Try a classic Whiz Wit or a Cheesesteak with your choice of meat.
-* **Afternoon Attraction:** Explore the **Reading Terminal Market** (Address: 51 N 12th St, Philadelphia, PA 19107). This historic market offers a wide variety of vendors selling everything from fresh produce to handmade crafts. Be sure to try some Amish baked goods or a Philly-style soft pretzel.
-* **Dinner:** Enjoy dinner at **Kensington Quarters** (Address: 1310 Frankford Ave, Philadelphia, PA 19125). This trendy restaurant serves creative American cuisine with a focus on local ingredients. Try their famous fried chicken or a seasonal vegetable dish.
+* Accommodation: 
+  - Name: Alexander Inn
+  - Address: 301 S 12th St
+  - Latitude: 39.946396818
+  - Longitude: -75.160966948
+  - Stars: 4.5
+  - Price: $$$
+  - Quality: average
+  - Location: excellent
+  - Service: good
+  - Safety: average
+* Breakfast: 
+  - Name: Green Eggs Cafe
+  - Address: 1306 Dickinson St
+  - Latitude: 39.931348
+  - Longitude: -75.166497
+  - Stars: 4.0
+  - Price: $$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: breakfast
+* Morning Attraction: 
+  - Name: Independence Hall
+  - Address: 520 Chestnut St
+  - Latitude: 39.9488980012
+  - Longitude: -75.1500296367
+  - Stars: 4.5
+  - Price: free
+  - Type: landmark
+  - History: high
+  - Activity: low
+  - Nature: low
+  - Food: low
+  - Shopping: low
+* Lunch: 
+  - Name: Pat's King of Steaks
+  - Address: 1237 E Passyunk Ave
+  - Latitude: 39.9332010583
+  - Longitude: -75.159265814
+  - Stars: 3.0
+  - Price: $
+  - Quality: average
+  - Location: good
+  - Service: average
+  - Food: cheesesteaks
+* Afternoon Attraction: 
+  - Name: Reading Terminal Market
+  - Address: 51 N 12th St
+  - Latitude: 39.9533414645
+  - Longitude: -75.1588545174
+  - Stars: 4.5
+  - Price: free
+  - Type: market
+  - History: high
+  - Activity: medium
+  - Nature: low
+  - Food: high
+  - Shopping: high
+* Dinner: 
+  - Name: Distrito
+  - Address: 3945 Chestnut St
+  - Latitude: 39.9558813
+  - Longitude: -75.2020031
+  - Stars: 3.5
+  - Price: $$
+  - Quality: average
+  - Location: good
+  - Service: average
+  - Food: Mexican
+* Night Attraction: 
+  - Name: South Street
+  - Address: 2nd and Lombard St
+  - Latitude: 39.942175
+  - Longitude: -75.145318
+  - Stars: 4.0
+  - Price: free
+  - Type: street
+  - History: medium
+  - Activity: high
+  - Nature: low
+  - Food: high
+  - Shopping: high
 
-**Day 2**
+Day 2:
 
-* **Breakfast:** Start your day with breakfast at **The Bakeshop on 20th** (Address: 269 S 20th St, Philadelphia, PA 19103). This bakery serves delicious pastries and sandwiches at an affordable price.
-* **Morning Attraction:** Visit the **Liberty Bell** (Address: 526 Market St, Philadelphia, PA 19106). Take a short walk to Independence Hall, where the Declaration of Independence was signed. Admission is free, making it a great morning activity.
-* **Lunch:** Grab lunch at **Tasty Toast** (Address: 1320 Point Breeze Ave, Philadelphia, PA 19147). This casual eatery serves creative sandwiches and salads at a reasonable price.
-* **Afternoon Attraction:** Explore the **Magic Gardens** (Address: 1029 S St, Philadelphia, PA 19147). This unique art museum features an impressive collection of mosaics and sculptures. Admission is around $15, making it a worthwhile afternoon activity.
-* **Dinner:** Enjoy dinner at **La Calaca Feliz** (Address: 2321 Fairmount Ave, Philadelphia, PA 19130). This vibrant Mexican restaurant serves creative dishes with a focus on local ingredients. Try their famous tacos or a seasonal vegetable dish.
+* Breakfast: 
+  - Name: Cafe Diem
+  - Address: 1031 S 8th St
+  - Latitude: 39.9362435
+  - Longitude: -75.15667
+  - Stars: 4.5
+  - Price: $$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: breakfast
+* Morning Attraction: 
+  - Name: Eastern State Penitentiary
+  - Address: 2027 Fairmount Ave
+  - Latitude: 39.9683684
+  - Longitude: -75.1726552
+  - Stars: 4.0
+  - Price: $$
+  - Type: prison
+  - History: high
+  - Activity: medium
+  - Nature: low
+  - Food: low
+  - Shopping: low
+* Lunch: 
+  - Name: Bistro La Baia
+  - Address: 1700 Lombard St
+  - Latitude: 39.945162
+  - Longitude: -75.1702591
+  - Stars: 3.5
+  - Price: $$
+  - Quality: average
+  - Location: good
+  - Service: average
+  - Food: Italian
+* Afternoon Attraction: 
+  - Name: One Liberty Observation Deck
+  - Address: 1650 Market St
+  - Latitude: 39.955
+  - Longitude: -75.164
+  - Stars: 4.0
+  - Price: $$
+  - Type: observation deck
+  - History: low
+  - Activity: high
+  - Nature: low
+  - Food: low
+  - Shopping: high
+* Dinner: 
+  - Name: Barbuzzo
+  - Address: 110 S 13th St
+  - Latitude: 39.950007
+  - Longitude: -75.1621577
+  - Stars: 4.5
+  - Price: $$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: Italian
+* Night Attraction: 
+  - Name: Rittenhouse Square
+  - Address: 210 W Rittenhouse Sq
+  - Latitude: 39.9494
+  - Longitude: -75.1721
+  - Stars: 4.5
+  - Price: free
+  - Type: park
+  - History: low
+  - Activity: high
+  - Nature: high
+  - Food: low
+  - Shopping: high
 
-**Day 3**
+Day 3:
 
-* **Breakfast:** Start your day with breakfast at **The Tasty Toast** (Address: 1320 Point Breeze Ave, Philadelphia, PA 19147). This casual eatery serves delicious pastries and sandwiches at an affordable price.
-* **Morning Attraction:** Visit the **One Liberty Observation Deck** (Address: 1650 Market St, Philadelphia, PA 19103). Take in panoramic views of the city from the 57th floor. Admission is around $15, making it a worthwhile morning activity.
-* **Lunch:** Grab lunch at **Pat's King of Steaks** (Address: 900 Passyunk Ave, Philadelphia, PA 19147). This iconic cheesesteak joint is a must-visit for any Philly foodie. Try a classic Whiz Wit or a Cheesesteak with your choice of meat.
-* **Afternoon Attraction:** Explore the **Frankford Avenue** (Address: 1310 Frankford Ave, Philadelphia, PA 19125). This vibrant street features a variety of shops and restaurants, including Kensington Quarters. Be sure to check out some of the local art galleries or try some of the street food.
-* **Dinner:** Enjoy dinner at **Kensington Quarters** (Address: 1310 Frankford Ave, Philadelphia, PA 19125). This trendy restaurant serves creative American cuisine with a focus on local ingredients. Try their famous fried chicken or a seasonal vegetable dish.
+* Breakfast: 
+  - Name: Cafe Square One
+  - Address: 50 S 3rd St
+  - Latitude: 39.9489068
+  - Longitude: -75.1460802
+  - Stars: 4.5
+  - Price: $$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: breakfast
+* Morning Attraction: 
+  - Name: The Franklin Institute
+  - Address: 222 N 20th St
+  - Latitude: 39.9582109
+  - Longitude: -75.1731373822
+  - Stars: 4.0
+  - Price: $$
+  - Type: museum
+  - History: high
+  - Activity: high
+  - Nature: low
+  - Food: low
+  - Shopping: high
+* Lunch: 
+  - Name: El Camino Real
+  - Address: 1040 N 2nd St
+  - Latitude: 39.9673004
+  - Longitude: -75.1403984
+  - Stars: 3.5
+  - Price: $$
+  - Quality: average
+  - Location: good
+  - Service: average
+  - Food: Mexican
+* Afternoon Attraction: 
+  - Name: The Barnes Foundation
+  - Address: 2025 Benjamin Franklin Pkwy
+  - Latitude: 39.9605399867
+  - Longitude: -75.1725628227
+  - Stars: 4.0
+  - Price: $$
+  - Type: museum
+  - History: high
+  - Activity: low
+  - Nature: low
+  - Food: low
+  - Shopping: high
+* Dinner: 
+  - Name: Fork
+  - Address: 306 Market St
+  - Latitude: 39.9500007
+  - Longitude: -75.146124
+  - Stars: 4.0
+  - Price: $$$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: American
+* Night Attraction: 
+  - Name: South Street Headhouse District
+  - Address: 2nd and Lombard St
+  - Latitude: 39.942175
+  - Longitude: -75.145318
+  - Stars: 4.0
+  - Price: free
+  - Type: district
+  - History: medium
+  - Activity: high
+  - Nature: low
+  - Food: high
+  - Shopping: high
 
-**Additional Recommendations**
-
-* For Middle Eastern food, try **Zahav** (Address: 237 St James Pl, Philadelphia, PA 19106) for dinner on Day 1.
-* For a unique shopping experience, visit the **Reading Terminal Market** (Address: 51 N 12th St, Philadelphia, PA 19107) on Day 1 or Day 3.
-
-**Budget Breakdown**
-
-* Accommodation: $30-40 per night (avg.)
-* Food: $15-25 per meal (avg.)
-* Attractions: Free-$20 per person (avg.)
-
-Total estimated cost for the 3-day trip: $150-250
-
-Note: Prices are estimates and may vary depending on individual preferences and exchange rates.
+Note: The itinerary is just a suggestion and can be modified based on individual preferences and interests.

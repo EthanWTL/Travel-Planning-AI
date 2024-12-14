@@ -1,85 +1,54 @@
-Here is a detailed travel itinerary for a 3-day trip with a cheap budget:
+Based on the provided data, here is a suggested 3-day itinerary for a budget-friendly trip to Philadelphia:
 
-**Day 1**
+Day 1:
 
-* **Accommodation:** 
-  * Name: Budget Inn Philadelphia
-    Address: 1234 Chestnut St, Philadelphia, PA 19107 ( approx. $60/night)
-* **Breakfast:** 
-  * Name: Dunkin' Donuts
-    Address: 5678 Market St, Philadelphia, PA 19139 (approx. $5/breakfast sandwich)
-* **Morning Attraction:** 
-  * Name: Reading Terminal Market
-    Address: 51 N 12th St, Philadelphia, PA 19107 (free admission)
-* **Lunch:** 
-  * Name: Pat's King of Steaks
-    Address: 1237 E Passyunk Ave, Philadelphia, PA 19148 (approx. $10/steak sandwich)
-* **Afternoon Attraction:** 
-  * Name: Independence Hall
-    Address: 520 Chestnut St, Philadelphia, PA 19106 (free admission)
-  * Name: Liberty Bell Center
-    Address: 526 Market St, Philadelphia, PA 19106 (free admission)
-* **Dinner:** 
-  * Name: Tiffin - South Philadelphia
-    Address: 1100 Federal St, Philadelphia, PA 19147 (approx. $15/Indian meal)
-* **Night Attraction:** 
-  * Name: The Franklin Fountain
-    Address: 116 Market St, Philadelphia, PA 19106 (free admission)
+* Accommodation: 
+  - Name: AKA Rittenhouse Square,135 S 18th St,39.9503652,-75.1704529,4.5,$$$,average quality,excellent location,good service,average safety.
+* Breakfast: 
+  - Name: Green Street Coffee Co.,1101 Spruce St,39.9464884,-75.1595772,4.5,Unknown,$,Restaurants,Cafes,Not Applicable,Not Applicable,Coffee & Tea,good flavor,excellent freshness,good healthy,good service,average enviornment,good value.
+* Morning Attraction: 
+  - Name: Independence Hall,520 Chestnut St,39.9488980012,-75.1500296367,4.5,$$,Landmarks & Historical Buildings,Not Applicable,medium family oriented,high history oriented,low activity oriented,low nature oriented,low food oriented,no shopping oriented.
+* Lunch: 
+  - Name: Pat's King of Steaks,1237 E Passyunk Ave,39.9332010583,-75.159265814,3.0,latenight, lunch, dinner,$$,Restaurants,Not Applicable,Italian,American (Traditional),Cheesesteaks,average flavor,average freshness,below average healthy,average service,below average enviornment,average value.
+* Afternoon Attraction: 
+  - Name: Reading Terminal Market,51 N 12th St,39.9533414645,-75.1588545174,4.5,lunch, brunch, breakfast,$$,Restaurants,Not Applicable,Chinese,Not Applicable,Not Applicable,excellent flavor,excellent freshness,good healthy,good service,good enviornment,good value.
+* Dinner: 
+  - Name: Distrito,3945 Chestnut St,39.9558813,-75.2020031,3.5,dinner,$$,Restaurants,Bars,Mexican,Not Applicable,Not Applicable,good flavor,good freshness,average healthy,average service,good enviornment,average value.
+* Night Attraction: 
+  - Name: McGillin's Olde Ale House,1310 Drury St,39.950168,-75.162607,4.0,Unknown,$$,Restaurants,Bars,American (Traditional),Irish,Karaoke,average flavor,average freshness,below average healthy,below average service,average enviornment,good value.
 
-**Day 2**
+Day 2:
 
-* **Breakfast:** 
-  * Name: La Colombe Coffee Roasters
-    Address: 130 S 19th St, Philadelphia, PA 19103 (approx. $5/coffee)
-* **Morning Attraction:** 
-  * Name: The Barnes Foundation
-    Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130 (free admission)
-* **Lunch:** 
-  * Name: Distrito
-    Address: 33 S 23rd St, Philadelphia, PA 19103 (approx. $15/Mexican meal)
-* **Afternoon Attraction:** 
-  * Name: The Magic Gardens
-    Address: 1029 S 22nd St, Philadelphia, PA 19148 (free admission)
-  * Name: Eastern State Penitentiary
-    Address: 2027 Fairmount St, Philadelphia, PA 19130 (approx. $14/admission)
-* **Dinner:** 
-  * Name: Saffron Indian Restaurant
-    Address: 1234 Chestnut St, Philadelphia, PA 19107 (approx. $15/Indian meal)
-* **Night Attraction:** 
-  * Name: The Fillmore Philly
-    Address: 1100 Market St, Philadelphia, PA 19107 (free admission)
+* Accommodation: 
+  - Name: Aloft Philadelphia Downtown,101 North Broad St,39.9546225,-75.1627921,3.5,$$,below average quality,good location,below average service,below average safety.
+* Breakfast: 
+  - Name: Cafe Square One,50 S 3rd St,39.9489068,-75.1460802,4.5,lunch, brunch, breakfast,$$,Restaurants,Cafes,Not Applicable,Sushi,Breakfast & Brunch,good flavor,good freshness,good healthy,average service,average enviornment,good value.
+* Morning Attraction: 
+  - Name: Eastern State Penitentiary,2027 Fairmount Ave,39.9683684,-75.1726552,4.5,$$,Landmarks & Historical Buildings,Not Applicable,medium family oriented,high history oriented,medium activity oriented,low nature oriented,no food oriented,no shopping oriented.
+* Lunch: 
+  - Name: El Camino Real,1040 N 2nd St,39.9673004,-75.1403984,3.5,dinner,$$,Restaurants,Bars,Mexican,Tex-Mex,Barbeque,good flavor,good freshness,average healthy,average service,good enviornment,good value.
+* Afternoon Attraction: 
+  - Name: One Liberty Observation Deck,1650 Market St,39.953444,-75.164,4.0,Unknown,$$,Landmarks & Historical Buildings,Not Applicable,high family oriented,high history oriented,medium activity oriented,high nature oriented,low food oriented,low shopping oriented.
+* Dinner: 
+  - Name: Barbuzzo,110 S 13th St,39.950007,-75.1621577,4.5,dinner,$$,Restaurants,Not Applicable,Italian,Mediterranean,Pizza,good flavor,good freshness,average healthy,average service,good enviornment,average value.
+* Night Attraction: 
+  - Name: The Franklin Institute Science Museum,222 N 20th St,39.9582109,-75.1731373822,4.0,$$$,Museums,Science,high family oriented,medium history oriented,medium activity oriented,low nature oriented,low food oriented,medium shopping oriented.
 
-**Day 3**
+Day 3:
 
-* **Breakfast:** 
-  * Name: Green Eggs Cafe
-    Address: 212 S 13th St, Philadelphia, PA 19107 (approx. $10/breakfast)
-* **Morning Attraction:** 
-  * Name: The Mutter Museum
-    Address: 19 S 22nd St, Philadelphia, PA 19103 (free admission)
-* **Lunch:** 
-  * Name: Square Peg Cafe
-    Address: 1234 Chestnut St, Philadelphia, PA 19107 (approx. $15/meal)
-* **Afternoon Attraction:** 
-  * Name: The Please Touch Museum
-    Address: 4231 Avenue of the Republic, Philadelphia, PA 19131 (free admission for children under 18; approx. $20/adult)
-  * Name: Schuylkill River Trail
-    Address: Various locations along the river (free admission)
-* **Dinner:** 
-  * Name: Zorba's Taverna
-    Address: 2230 Fairmount Ave, Philadelphia, PA 19130 (approx. $15/Greek meal)
-* **Night Attraction:** 
-  * Name: The Trocadero Theatre
-    Address: 1003 Arch St, Philadelphia, PA 19107 (free admission)
+* Accommodation: 
+  - Name: The Study at University City,20 S 33rd St,39.9544058,-75.1900591,4.0,$$,average quality,excellent location,below average service,good safety.
+* Breakfast: 
+  - Name: Green Eggs Cafe,1306 Dickinson St,39.931348,-75.166497,4.0,brunch, breakfast,$$,Restaurants,Diners,American (New),Not Applicable,Breakfast & Brunch,good flavor,good freshness,average healthy,below average service,good enviornment,average value.
+* Morning Attraction: 
+  - Name: The Barnes Foundation,2025 Benjamin Franklin Pkwy,39.9605399867,-75.1725628227,4.0,$$$,Museums,Art Galleries,low family oriented,high history oriented,low activity oriented,low nature oriented,medium food oriented,low shopping oriented.
+* Lunch: 
+  - Name: Pizzeria Vetri,1939 Callowhill St,39.960888,-75.171213,4.0,lunch, dinner,$$,Restaurants,Not Applicable,Italian,Not Applicable,Pizza,good flavor,good freshness,average healthy,average service,average enviornment,below average value.
+* Afternoon Attraction: 
+  - Name: The Magic Gardens,1020 South St,39.942712,-75.159313,4.5,$$,Arts & Entertainment,Art Galleries,medium family oriented,high history oriented,low activity oriented,low nature oriented,no food oriented,low shopping oriented.
+* Dinner: 
+  - Name: El Merkury,2104 Chestnut St,39.952185,-75.1758693,4.5,,$$,Restaurants,Not Applicable,Latin American,Salvadoran,Gluten-Free,good flavor,excellent freshness,good healthy,good service,good enviornment,good value.
+* Night Attraction: 
+  - Name: The Franklin Square Mini Golf,200 N 6th St,39.9558477204,-75.1504862309,4.0,$$$,Parks,Kids Activities,high family oriented,medium history oriented,medium activity oriented,low nature oriented,medium food oriented,no shopping oriented.
 
-**Recommendations for Indian restaurants with good flavor and value:**
-
-1. Tiffin - South Philadelphia (approx. $15/meal)
-2. Saffron Indian Restaurant (approx. $15/Indian meal)
-3. Zorba's Taverna (approx. $15/Greek meal, but also serves Indian dishes)
-
-**Accommodations in a good location:**
-
-1. Budget Inn Philadelphia (approx. $60/night)
-2. The Franklin Hotel (approx. $100/night)
-3. The Logan Philadelphia Curio Collection by Hilton (approx. $150/night)
+This itinerary includes a mix of historical landmarks, cultural attractions, and budget-friendly dining options. The accommodations are chosen based on their location and quality, and the breakfast options are selected for their good flavor and freshness. The morning attractions are chosen for their historical significance and educational value, while the lunch options are selected for their good flavor and value. The afternoon attractions are chosen for their unique experiences and entertainment value, and the dinner options are selected for their good flavor and value. The night attractions are chosen for their entertainment value and unique experiences.

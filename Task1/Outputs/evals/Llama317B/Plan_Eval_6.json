@@ -3,161 +3,149 @@
         {
             "days": "Day 1",
             "breakfast": {
-                "name": "Green Street Coffee Company",
-                "address": "130 S 18th St, Philadelphia, PA 19103"
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
             },
             "morning_attractions": [
                 {
                     "name": "Independence Hall",
-                    "address": "-"
-                },
-                {
-                    "name": "Liberty Bell Center",
-                    "address": "-"
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
                 }
             ],
             "lunch": {
                 "name": "Pat's King of Steaks",
-                "address": "900 Passyunk Ave, Philadelphia, PA 19147"
+                "address": "1237 E Passyunk Ave, Philadelphia, PA 19147"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Philadelphia Museum of Art",
-                    "address": "-"
-                },
-                {
-                    "name": "Benjamin Franklin Parkway",
-                    "address": "-"
+                    "name": "Liberty Bell Center",
+                    "address": "526 Market St, Philadelphia, PA 19106"
                 }
             ],
             "dinner": {
-                "name": "Pho 75",
-                "address": "1122 Washington Ave, Philadelphia, PA 19147"
+                "name": "A La Mousse",
+                "address": "145 N 11th St, Philadelphia, PA 19107"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "Elfreth's Alley",
+                    "address": "126 Elfreth's Aly, Philadelphia, PA 19106"
+                }
+            ],
             "accommodation": {
-                "name": "Pod Hotel",
-                "address": "1225 Walnut St, Philadelphia, PA 19107"
+                "name": "Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             }
         },
         {
             "days": "Day 2",
             "breakfast": {
-                "name": "The Dandelion",
-                "address": "124 S 18th St, Philadelphia, PA 19103"
+                "name": "Cafe Diem",
+                "address": "1031 S 8th St, Philadelphia, PA 19147"
             },
             "morning_attractions": [
                 {
                     "name": "Eastern State Penitentiary",
-                    "address": "-"
-                },
-                {
-                    "name": "Fairmount Park",
-                    "address": "-"
+                    "address": "2027 Fairmount Ave, Philadelphia, PA 19130"
                 }
             ],
             "lunch": {
-                "name": "5th Street Deli",
-                "address": "1500 Market St, Philadelphia, PA 19107"
+                "name": "Bistro La Baia",
+                "address": "1700 Lombard St, Philadelphia, PA 19146"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Barnes Foundation",
-                    "address": "-"
-                },
-                {
-                    "name": "The Franklin Institute",
-                    "address": "-"
+                    "name": "The Franklin Institute Science Museum",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
                 }
             ],
             "dinner": {
-                "name": "Szechuan Four Rivers",
-                "address": "936 Race St, Philadelphia, PA 19107"
+                "name": "Distrito",
+                "address": "3945 Chestnut St, Philadelphia, PA 19104"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
+                }
+            ],
             "accommodation": {
-                "name": "Pod Hotel",
-                "address": "1225 Walnut St, Philadelphia, PA 19107"
+                "name": "Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             }
         },
         {
             "days": "Day 3",
             "breakfast": {
-                "name": "Green Street Coffee Company",
-                "address": "130 S 18th St, Philadelphia, PA 19103"
+                "name": "Cafe Square One",
+                "address": "50 S 3rd St, Philadelphia, PA 19106"
             },
             "morning_attractions": [
                 {
-                    "name": "One Liberty Observation Deck",
-                    "address": "-"
-                },
-                {
-                    "name": "Reading Terminal Market",
-                    "address": "-"
+                    "name": "The Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 }
             ],
             "lunch": {
-                "name": "El Vez",
-                "address": "120 S 13th St, Philadelphia, PA 19107"
+                "name": "Bar Hygge",
+                "address": "1720 Fairmount Ave, Philadelphia, PA 19130"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Magic Gardens",
-                    "address": "-"
-                },
-                {
-                    "name": "South Street",
-                    "address": "-"
+                    "name": "The Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 }
             ],
             "dinner": {
-                "name": "Tiffin",
-                "address": "1100 Federal St, Philadelphia, PA 19107"
+                "name": "Lacroix Restaurant at The Rittenhouse",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The Kimmel Center for the Performing Arts",
+                    "address": "300 S Broad St, Philadelphia, PA 19102"
+                }
+            ],
             "accommodation": {
-                "name": "Pod Hotel",
-                "address": "1225 Walnut St, Philadelphia, PA 19107"
+                "name": "Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             }
         },
         {
             "days": "Day 4",
             "breakfast": {
-                "name": "The Dandelion",
-                "address": "124 S 18th St, Philadelphia, PA 19103"
+                "name": "Green Street Dog Park",
+                "address": "1819 Green St, Philadelphia, PA 19130"
             },
             "morning_attractions": [
                 {
-                    "name": "Betsy Ross House",
-                    "address": "-"
-                },
-                {
-                    "name": "Independence Seaport Museum",
-                    "address": "-"
+                    "name": "The One Liberty Observation Deck",
+                    "address": "1650 Market St, Philadelphia, PA 19103"
                 }
             ],
             "lunch": {
-                "name": "Distrito",
-                "address": "215 S 13th St, Philadelphia, PA 19107"
+                "name": "The Love",
+                "address": "130 S 18th St, Philadelphia, PA 19103"
             },
             "afternoon_attractions": [
                 {
-                    "name": "One Liberty Observation Deck",
-                    "address": "-"
-                },
-                {
-                    "name": "The Franklin Institute",
-                    "address": "-"
+                    "name": "The Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
                 }
             ],
             "dinner": {
-                "name": "Sabrina's Caf\u00e9",
-                "address": "1804 Callowhill St, Philadelphia, PA 19130"
+                "name": "Vetri Cucina",
+                "address": "1312 Spruce St, Philadelphia, PA 19107"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The Franklin Square Fountain Show",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                }
+            ],
             "accommodation": {
-                "name": "Pod Hotel",
-                "address": "1225 Walnut St, Philadelphia, PA 19107"
+                "name": "Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             }
         }
     ]

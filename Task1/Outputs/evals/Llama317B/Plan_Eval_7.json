@@ -3,70 +3,75 @@
         {
             "days": "Day 1",
             "breakfast": {
-                "name": "Green Eggs Cafe",
-                "address": "212 S 13th St, Philadelphia, PA 19107"
+                "name": "Green Street Coffee Co.",
+                "address": "1101 Spruce St, Philadelphia, PA 19107"
             },
             "morning_attractions": [
                 {
-                    "name": "Reading Terminal Market",
-                    "address": "51 N 12th St, Philadelphia, PA 19102"
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
                 }
             ],
             "lunch": {
-                "name": "Distrito",
-                "address": "33 S 22nd St, Philadelphia, PA 19103"
+                "name": "Pat's King of Steaks",
+                "address": "1237 E Passyunk Ave, Philadelphia, PA 19147"
             },
             "afternoon_attractions": [
                 {
-                    "name": "The Barnes Foundation",
-                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
                 }
             ],
             "dinner": {
-                "name": "Pizzeria Beddia",
-                "address": "1313 North Lee St, Philadelphia, PA 19124"
+                "name": "Distrito",
+                "address": "3945 Chestnut St, Philadelphia, PA 19104"
             },
-            "night_attractions": [],
+            "night_attractions": [
+                {
+                    "name": "The Franklin Institute Science Museum",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                }
+            ],
             "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
+                "name": "Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             }
         },
         {
             "days": "Day 2",
             "breakfast": {
-                "name": "Sabrina's Cafe",
-                "address": "227 N 34th St, Philadelphia, PA 19104"
+                "name": "Cafe Diem",
+                "address": "1031 S 8th St, Philadelphia, PA 19147"
             },
             "morning_attractions": [
                 {
-                    "name": "The Magic Gardens",
-                    "address": "1029 S Street Rd, Philadelphia, PA 19148"
+                    "name": "The Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 }
             ],
             "lunch": {
-                "name": "Jim's South St",
-                "address": "400 S St, Philadelphia, PA 19147"
+                "name": "Bistro La Baia",
+                "address": "1700 Lombard St, Philadelphia, PA 19146"
             },
             "afternoon_attractions": [
                 {
-                    "name": "One Liberty Observation Deck",
-                    "address": "1650 Market St, Philadelphia, PA 19103"
+                    "name": "The Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
                 }
             ],
             "dinner": {
-                "name": "Khyber Pass Pub",
-                "address": "56 S 2nd St, Philadelphia, PA 19106"
+                "name": "Barbuzzo",
+                "address": "110 S 13th St, Philadelphia, PA 19107"
             },
             "night_attractions": [
                 {
-                    "name": "South Street nightlife",
-                    "address": "-"
+                    "name": "The Kimmel Center for the Performing Arts",
+                    "address": "300 S Broad St, Philadelphia, PA 19102"
                 }
             ],
             "accommodation": {
-                "name": "Hotel Monaco Philadelphia",
-                "address": "433 Chestnut St, Philadelphia, PA 19106"
+                "name": "Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             }
         }
     ]

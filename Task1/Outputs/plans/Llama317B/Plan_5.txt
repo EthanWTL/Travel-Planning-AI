@@ -1,114 +1,67 @@
-Here is a detailed travel itinerary for a 4-day trip to Philadelphia with a moderate budget:
+Based on the provided data, here is a suggested 4-day itinerary for a history-oriented trip to Philadelphia, focusing on moderate budget accommodations and Vietnamese restaurants:
 
-**Day 1**
+Day 1:
+- Accommodation: 
+  - Name: AKA Rittenhouse Square,135 S 18th St,39.9503652,-75.1704529,4.5,$$$,average quality,excellent location,good service,average safety.
+- Breakfast: 
+  - Name: Bindi,1628 Walnut St,39.9512939,-75.1684401,3.0,$$,below average quality,good location,below average service,average safety.
+- Morning Attraction: 
+  - Name: Independence Hall,520 Chestnut St,39.9488980012,-75.1500296367,4.5,$,Landmarks & Historical Buildings,Not Applicable,medium family oriented,high history oriented,low activity oriented,low nature oriented,low food oriented,no shopping oriented.
+- Lunch: 
+  - Name: Bánh Mì Cali,900 Arch St,39.9533991057,-75.1546818522,4.5,$$,Local Flavor,Vietnamese,low family oriented,medium history oriented,low activity oriented,no nature oriented,high food oriented,no shopping oriented.
+- Afternoon Attraction: 
+  - Name: Elfreth's Alley,126 Elfreths Aly,39.9527511597,-75.1424942017,4.5,$,Landmarks & Historical Buildings,Tours,low family oriented,high history oriented,low activity oriented,low nature oriented,low food oriented,no shopping oriented.
+- Dinner: 
+  - Name: Bánh Mì Cali,900 Arch St,39.9533991057,-75.1546818522,4.5,$$,Local Flavor,Vietnamese,low family oriented,medium history oriented,low activity oriented,no nature oriented,high food oriented,no shopping oriented.
+- Night Attraction: 
+  - Name: The Franklin Square Mini Golf,200 N 6th St,39.9558477204,-75.1504862309,4.0,$$,Parks,Kids Activities,high family oriented,medium history oriented,medium activity oriented,low nature oriented,medium food oriented,no shopping oriented.
 
-* Accommodation:
-	+ Hotel: **The Logan Philadelphia, Curio Collection by Hilton**
-		- Address: 1 Logan Square, Philadelphia, PA 19103
-		- Price Range: $150-$250 per night (depending on the season)
-* Breakfast:
-	+ Cafe: **Green Eggs Cafe**
-		- Address: 212 S 13th St, Philadelphia, PA 19107
-		- Price Range: $10-$15 per person
-* Morning Attraction:
-	+ Independence Hall
-		- Address: 520 Chestnut St, Philadelphia, PA 19106
-		- Admission Fee: Free (but reservations are required)
-* Lunch:
-	+ Vietnamese Restaurant: **Pho 75**
-		- Address: 1122 Washington Ave, Philadelphia, PA 19147
-		- Price Range: $10-$15 per person
-* Afternoon Attraction:
-	+ Liberty Bell Center
-		- Address: 526 Market St, Philadelphia, PA 19106
-		- Admission Fee: Free (but reservations are required)
-	+ Reading Terminal Market
-		- Address: 51 N 12th St, Philadelphia, PA 19107
-		- Admission Fee: Free
-* Dinner:
-	+ Vietnamese Restaurant: **Pho Xe Lua**
-		- Address: 907 Race St, Philadelphia, PA 19147
-		- Price Range: $15-$25 per person
-* Night Attraction:
-	+ Elfreth's Alley (the oldest continuously inhabited street in the US)
-		- Address: 124-126 Elfreth's Aly, Philadelphia, PA 19106
-		- Admission Fee: Free
+Day 2:
+- Accommodation: 
+  - Name: AKA University City,2929 Walnut St,39.951936,-75.205911,4.0,Unknown price,good quality,good location,average service,good safety.
+- Breakfast: 
+  - Name: Green Eggs Cafe,1306 Dickinson St,39.931348,-75.166497,4.0,brunch, breakfast,$$,Restaurants,Diners,American (New),Not Applicable,Breakfast & Brunch,good flavor,good freshness,average healthy,below average service,good enviornment,average value.
+- Morning Attraction: 
+  - Name: The Liberty Bell Center,6th St & Chestnut St,39.9495774962,-75.1503095688,4.0,$,Landmarks & Historical Buildings,Local Flavor,medium family oriented,high history oriented,low activity oriented,low nature oriented,low food oriented,no shopping oriented.
+- Lunch: 
+  - Name: Bánh Mì Cali,900 Arch St,39.9533991057,-75.1546818522,4.5,$$,Local Flavor,Vietnamese,low family oriented,medium history oriented,low activity oriented,no nature oriented,high food oriented,no shopping oriented.
+- Afternoon Attraction: 
+  - Name: The Reading Terminal Market,51 N 12th St,39.9533414645,-75.1588545174,4.5,lunch, brunch, breakfast,$$,Restaurants,Not Applicable,Chinese,Not Applicable,Not Applicable,excellent flavor,excellent freshness,good healthy,good service,good enviornment,good value.
+- Dinner: 
+  - Name: Bánh Mì Cali,900 Arch St,39.9533991057,-75.1546818522,4.5,$$,Local Flavor,Vietnamese,low family oriented,medium history oriented,low activity oriented,no nature oriented,high food oriented,no shopping oriented.
+- Night Attraction: 
+  - Name: The One Liberty Observation Deck,1650 Market St,39.953444,-75.164,4.0,$$,Landmarks & Historical Buildings,Not Applicable,medium family oriented,high history oriented,medium activity oriented,low nature oriented,low food oriented,no shopping oriented.
 
-**Day 2**
+Day 3:
+- Accommodation: 
+  - Name: AKA Philadelphia Historic District,400 Arch St,39.9520404,-75.147515,2.5,$$,below average quality,good location,below average service,average safety.
+- Breakfast: 
+  - Name: Green Eggs Cafe,1306 Dickinson St,39.931348,-75.166497,4.0,brunch, breakfast,$$,Restaurants,Diners,American (New),Not Applicable,Breakfast & Brunch,good flavor,good freshness,average healthy,below average service,good enviornment,average value.
+- Morning Attraction: 
+  - Name: The Eastern State Penitentiary,2027 Fairmount Ave,39.9683684,-75.1726552,4.5,$$,Landmarks & Historical Buildings,Not Applicable,medium family oriented,high history oriented,medium activity oriented,low nature oriented,low food oriented,no shopping oriented.
+- Lunch: 
+  - Name: Bánh Mì Cali,900 Arch St,39.9533991057,-75.1546818522,4.5,$$,Local Flavor,Vietnamese,low family oriented,medium history oriented,low activity oriented,no nature oriented,high food oriented,no shopping oriented.
+- Afternoon Attraction: 
+  - Name: The Philadelphia Museum of Art,2600 Benjamin Franklin Pkwy,39.965573,-75.180969,4.5,$$,Museums,Jazz & Blues,medium family oriented,high history oriented,low activity oriented,medium nature oriented,medium food oriented,low shopping oriented.
+- Dinner: 
+  - Name: Bánh Mì Cali,900 Arch St,39.9533991057,-75.1546818522,4.5,$$,Local Flavor,Vietnamese,low family oriented,medium history oriented,low activity oriented,no nature oriented,high food oriented,no shopping oriented.
+- Night Attraction: 
+  - Name: The Magic Gardens,1020 South St,39.942712,-75.159313,4.5,$$,Arts & Entertainment,Art Galleries,medium family oriented,high history oriented,low activity oriented,low nature oriented,low food oriented,low shopping oriented.
 
-* Breakfast:
-	+ Cafe: **The Bakeshop on 20th**
-		- Address: 269 S 20th St, Philadelphia, PA 19103
-		- Price Range: $10-$15 per person
-* Morning Attraction:
-	+ Eastern State Penitentiary
-		- Address: 2027 Fairmount St, Philadelphia, PA 19130
-		- Admission Fee: $14 (adults), $12 (seniors and students)
-* Lunch:
-	+ Vietnamese Restaurant: **Pho Ha**
-		- Address: 600 Washington Ave, Philadelphia, PA 19147
-		- Price Range: $10-$15 per person
-* Afternoon Attraction:
-	+ The Franklin Institute
-		- Address: 222 N 20th St, Philadelphia, PA 19103
-		- Admission Fee: $22 (adults), $19 (seniors and students)
-* Dinner:
-	+ Vietnamese Restaurant: **Pho Palace**
-		- Address: 15501 Bustleton Ave, Philadelphia, PA 19111
-		- Price Range: $15-$25 per person
+Day 4:
+- Accommodation: 
+  - Name: AKA Rittenhouse Square,135 S 18th St,39.9503652,-75.1704529,4.5,$$$,average quality,excellent location,good service,average safety.
+- Breakfast: 
+  - Name: Green Eggs Cafe,1306 Dickinson St,39.931348,-75.166497,4.0,brunch, breakfast,$$,Restaurants,Diners,American (New),Not Applicable,Breakfast & Brunch,good flavor,good freshness,average healthy,below average service,good enviornment,average value.
+- Morning Attraction: 
+  - Name: The Independence Seaport Museum,211 S Columbus Blvd,39.9459179924,-75.1404742245,4.0,$$,Museums,Not Applicable,high family oriented,high history oriented,medium activity oriented,low nature oriented,low food oriented,low shopping oriented.
+- Lunch: 
+  - Name: Bánh Mì Cali,900 Arch St,39.9533991057,-75.1546818522,4.5,$$,Local Flavor,Vietnamese,low family oriented,medium history oriented,low activity oriented,no nature oriented,high food oriented,no shopping oriented.
+- Afternoon Attraction: 
+  - Name: The Philadelphia Zoo,3400 W Girard Ave,39.9719921474,-75.1962714728,4.0,$$,Zoos,Active Life,high family oriented,medium history oriented,medium activity oriented,medium nature oriented,low food oriented,medium shopping oriented.
+- Dinner: 
+  - Name: Bánh Mì Cali,900 Arch St,39.9533991057,-75.1546818522,4.5,$$,Local Flavor,Vietnamese,low family oriented,medium history oriented,low activity oriented,no nature oriented,high food oriented,no shopping oriented.
+- Night Attraction: 
+  - Name: The One Liberty Observation Deck,1650 Market St,39.953444,-75.164,4.0,$$,Landmarks & Historical Buildings,Not Applicable,medium family oriented,high history oriented,medium activity oriented,low nature oriented,low food oriented,no shopping oriented.
 
-**Day 3**
-
-* Breakfast:
-	+ Cafe: **The Green Line Cafe**
-		- Address: 4239 Baltimore Ave, Philadelphia, PA 19104
-		- Price Range: $10-$15 per person
-* Morning Attraction:
-	+ The Barnes Foundation
-		- Address: 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130
-		- Admission Fee: Free (but reservations are required)
-* Lunch:
-	+ Vietnamese Restaurant: **Pho Street**
-		- Address: 2104 Market St, Philadelphia, PA 19103
-		- Price Range: $10-$15 per person
-* Afternoon Attraction:
-	+ The Magic Gardens
-		- Address: 1029 S 22nd St, Philadelphia, PA 19148
-		- Admission Fee: $12 (adults), $10 (seniors and students)
-* Dinner:
-	+ Vietnamese Restaurant: **Pho Cali**
-		- Address: 1000 Arch St, Philadelphia, PA 19107
-		- Price Range: $15-$25 per person
-
-**Day 4**
-
-* Breakfast:
-	+ Cafe: **The Foodery at Rittenhouse**
-		- Address: 1710 Sansom St, Philadelphia, PA 19103
-		- Price Range: $10-$15 per person
-* Morning Attraction:
-	+ The Museum of the American Revolution
-		- Address: 101 S 3rd St, Philadelphia, PA 19106
-		- Admission Fee: $20 (adults), $17 (seniors and students)
-* Lunch:
-	+ Vietnamese Restaurant: **Pho Four Rivers**
-		- Address: 936 Race St, Philadelphia, PA 19147
-		- Price Range: $10-$15 per person
-* Afternoon Attraction:
-	+ The National Constitution Center
-		- Address: 525 Arch St, Philadelphia, PA 19106
-		- Admission Fee: Free (but reservations are required)
-* Dinner:
-	+ Vietnamese Restaurant: **Pho Ha Saigon**
-		- Address: 575 Adams Ave, Philadelphia, PA 19147
-		- Price Range: $15-$25 per person
-
-Note that prices may vary depending on the season and availability. It's always a good idea to check for any updates or changes before your trip.
-
-**Additional Recommendations**
-
-* For Vietnamese food enthusiasts, I recommend trying **Pho Xe Lua**, **Pho Palace**, and **Pho Ha Saigon**.
-* If you have time, consider visiting the **Philadelphia Museum of Art**, which is located near the Logan Hotel.
-* Take a stroll through **Elfreth's Alley**, the oldest continuously inhabited street in the US.
-
-I hope this itinerary helps you plan your trip to Philadelphia!
+This itinerary provides a mix of history, culture, and entertainment, with a focus on moderate budget accommodations and Vietnamese restaurants. It includes visits to iconic landmarks such as Independence Hall, the Liberty Bell Center, and the Eastern State Penitentiary, as well as the Philadelphia Museum of Art and the Magic Gardens. The itinerary also includes time for shopping and dining, with recommendations for Vietnamese restaurants and other local eateries.
