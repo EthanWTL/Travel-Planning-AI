@@ -1,5 +1,5 @@
 import datetime
-from langchain.agents import tool
+from langchain.agents import tool # type: ignore
 
 @tool
 def check_system_time(format: str = "%Y-%m-%d %H:%M:%S"):

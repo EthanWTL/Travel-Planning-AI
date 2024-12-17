@@ -1,4 +1,4 @@
-from langchain_core.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate # type: ignore
 
 def get_react_prompt_template():
     # Get the react prompt template
