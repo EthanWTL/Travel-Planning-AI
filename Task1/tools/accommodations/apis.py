@@ -1,5 +1,5 @@
 import pandas as pd # type: ignore
-from pandas import DataFrame
+from pandas import DataFrame # type: ignore
 from typing import List
 from difflib import get_close_matches
 
@@ -17,9 +17,9 @@ class Accommodations:
         result = self.data[self.data['price'].isin(price_limit)]
         
         #dealing with the preferences
-        print(preference)
+        #print(preference)
         for pref in preference:
-            print(pref)
+            #print(pref)
             prefs = pref.split(' ')
             col = prefs[1].lower()
             #print(col)
@@ -29,6 +29,6 @@ class Accommodations:
             pref_list = ['good ' + col, 'excellent ' + col]
             result = result[result[col].isin(pref_list)]
         
-        result.to_csv('test_csv.csv', index=False)
+        #result.to_csv('test_csv.csv', index=False)
         return result
         
