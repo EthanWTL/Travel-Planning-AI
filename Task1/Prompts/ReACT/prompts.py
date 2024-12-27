@@ -23,12 +23,7 @@ Cuisine: The cuisine mentioned in the query.
 Preference: A list of preferences mentioned in the query.
 Example: RestaurantSearch[Expensive budget, Vietnamese, [Good Flavor, Good Value]] would return the expensive restaurants that offer Vietnamese cuisine, with good or excellent flavor and good or excellent value.
 
-(4) NotebookWrite[Short Description]
-Description: Writes a new data entry into the Notebook tool with a short description. This tool should be used immediately after AccommodationSearch, AttractionSearch, or RestaurantSearch. Only the data stored in Notebook can be seen by Planner. So you should write all the information you need into Notebook.
-Parameters: Short Description - A brief description or label for the stored data. You don't need to write all the information in the description. The data you've searched for will be automatically stored in the Notebook.
-Example: NotebookWrite[Accomodation for day 1] would store the informatrion of the hotel for day 1 that you have choosed.
-
-(5) Planner[Query]
+(4) Planner[Query]
 Description: A smart planning tool that crafts detailed plans based on user input and the information stroed in Notebook.
 Parameters: 
 Query: The query from user.
@@ -45,4 +40,50 @@ Query: {query}{scratchpad}"""
 zeroshot_react_agent_prompt = PromptTemplate(
                         input_variables=["query", "scratchpad"],
                         template=ZEROSHOT_REACT_INSTRUCTION,
+                        )
+
+
+PLANNER_INSTRUCTION = """You are a proficient planner. You will follow the instructions from the query and generated a travel plan with the given information like the following example.
+
+----- Example Starts -----
+Day X:
+- Accommodation: 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Breakfast: 
+  - Name: XXXX 
+    Address: XXXX, XXXX
+
+- Morning Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Lunch: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Afternoon Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Dinner: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Night Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+----- Example Ends -----
+
+Given information: {text}
+Query: {query}
+Travel Plan:"""
+
+
+planner_agent_prompt = PromptTemplate(
+                        input_variables=["text","query"],
+                        template = PLANNER_INSTRUCTION,
                         )

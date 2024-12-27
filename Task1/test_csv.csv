@@ -1,19 +1,14 @@
-name,address,latitude,longitude,stars,price,quality,location,service,safety
-AKA Rittenhouse Square,135 S 18th St,39.9503652,-75.1704529,4.5,$$$,average quality,excellent location,good service,average safety
-Alexander Inn,301 S 12th St,39.946396818,-75.1609669488,4.5,$$,average quality,excellent location,good service,average safety
-Chez Colette,120 S 17th St,39.9507208157,-75.1689343926,3.5,$$,good quality,good location,good service,average safety
-Fairfield Inn & Suites Philadelphia Downtown/Center City,261 South 13th Street,39.9468905,-75.1623589,3.5,$$,average quality,excellent location,good service,average safety
-Fairfield Inn by Marriott Philadelphia Airport,8800 Bartram Ave,39.8868252585,-75.2476465702,3.0,$$,average quality,good location,good service,average safety
-"Independence Park Hotel, Bw Premier Collection",235 Chestnut St,39.9486694089,-75.145468139,4.5,$$,good quality,excellent location,good service,average safety
-Kimpton Hotel Palomar Philadelphia,117 S 17th St,39.9508293,-75.1686289,4.0,$$$,good quality,excellent location,good service,average safety
-Leneghan's Crusader Inn,7412 Frankford Ave,40.0382627,-75.0376145,5.0,$,average quality,good location,good service,average safety
-Lokal Hotel,139 N 3rd St,39.9532548,-75.14479,4.5,$$$,good quality,good location,good service,good safety
-Penn's View Hotel,14 N Front St,39.950201,-75.142285,4.0,$$,average quality,excellent location,good service,average safety
-ROOST Apartment Hotel,111 S 15th St,39.9505683,-75.1657016,4.5,$$$,good quality,excellent location,excellent service,good safety
-Sleep Inn Center City,1020 Cherry St,39.9546067076,-75.157443872,3.5,$,average quality,good location,good service,average safety
-Sofitel Philadelphia,120 S 17th St,39.9509482,-75.1695409,4.0,$$,average quality,excellent location,good service,average safety
-The Conwell Inn,1331 Pollet Walk,39.981812,-75.15764,3.5,$$,average quality,excellent location,good service,good safety
-The Dwight D,256 S 16th St,39.9479893,-75.1682766,4.5,$$,good quality,excellent location,good service,excellent safety
-The Franklin Residences,834 Chestnut St,39.9493831,-75.1551309,5.0,$$$,good quality,excellent location,excellent service,good safety
-"The Inn at Penn, a Hilton Hotel",3600 Sansom St,39.9537829039,-75.1957815881,4.0,$$$,good quality,excellent location,good service,good safety
-The Rittenhouse Hotel,210 W Rittenhouse Sq,39.9499125,-75.1736448,4.0,$$$,average quality,excellent location,good service,good safety
+name,address,latitude,longitude,stars,good_for_meal,price,restaurant_type_1,restaurant_type_2,cuisine_1,cuisine_2,perks,flavor,freshness,healthy,service,enviornment,value
+Amma's South Indian Cuisine,1518 Chestnut St,39.950914,-75.1664173,4.0,"lunch, dinner",$$,Restaurants,Not Applicable,Indian,Not Applicable,Not Applicable,excellent flavor,good freshness,good healthy,average service,good enviornment,good value
+Desi Chaat House,501 S 42nd St,39.9496418,-75.2069391,4.0,"lunch, dinner",$,Restaurants,Not Applicable,Indian,Not Applicable,Not Applicable,good flavor,good freshness,good healthy,good service,average enviornment,good value
+Ekta Indian Cuisine,1142 Crease St,39.9692049,-75.1325733,4.0,dinner,$$,Restaurants,Not Applicable,Indian,Pakistani,Not Applicable,excellent flavor,good freshness,good healthy,good service,average enviornment,good value
+Kabobeesh,4201 Chestnut St,39.9564795,-75.2065288,3.5,"lunch, dinner",$$,Restaurants,Not Applicable,Indian,Middle Eastern,Halal,good flavor,average freshness,average healthy,below average service,below average enviornment,good value
+Karma Restaurant & Bar,114 Chestnut St,39.948182,-75.1431548,4.0,"lunch, dinner",$$,Restaurants,Bars,Indian,Not Applicable,Not Applicable,good flavor,good freshness,average healthy,average service,average enviornment,good value
+Little Sicily 2,1608 S Christopher Columbus Blvd,39.926519,-75.14569,4.5,"lunch, dinner",$$,Restaurants,Not Applicable,American,Indian,Pizza,excellent flavor,excellent freshness,average healthy,good service,average enviornment,good value
+Masala Kitchen Kati Rolls and Platters,1115 Walnut St,39.9491761,-75.159714,4.0,"latenight, lunch, dinner",$,Restaurants,Not Applicable,Indian,Not Applicable,Halal,good flavor,good freshness,average healthy,good service,average enviornment,good value
+Mood Cafe,4618 Baltimore Ave,39.9486639126,-75.2158315415,4.5,"lunch, dinner",$,Restaurants,Cafes,Pakistani,Indian,Halal,excellent flavor,excellent freshness,good healthy,excellent service,average enviornment,excellent value
+New Delhi Indian Restaurant,4004 Chestnut St,39.9553921,-75.2026195,4.0,"lunch, dinner",$$,Restaurants,Not Applicable,Indian,Pakistani,Vegan,good flavor,good freshness,average healthy,average service,good enviornment,good value
+Saad's Halal Restaurant,4500 Walnut St,39.9549627,-75.2118511,4.5,"lunch, dinner",$,Restaurants,Not Applicable,Middle Eastern,Indian,Cheesesteaks,excellent flavor,excellent freshness,average healthy,good service,average enviornment,good value
+Thanal Indian Tavern,1939 Arch St,39.955872,-75.1725276,4.5,dinner,$$,Restaurants,Not Applicable,Asian Fusion,Indian,Not Applicable,excellent flavor,excellent freshness,good healthy,good service,good enviornment,good value
+Wah-Gi-Wah,4447 Chestnut St,39.95705,-75.2111445,3.5,"lunch, dinner",$$,Restaurants,Not Applicable,Indian,Pakistani,Halal,good flavor,average freshness,average healthy,below average service,below average enviornment,good value
+Zaika,2481 Grant Ave,40.0798480557,-75.025079772,4.0,"lunch, dinner",$$,Restaurants,Not Applicable,Indian,Pakistani,Halal,good flavor,good freshness,average healthy,average service,below average enviornment,good value
