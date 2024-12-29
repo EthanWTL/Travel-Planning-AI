@@ -1,0 +1,33 @@
+
+----- Example Starts -----
+Day X:
+- Accommodation: 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Breakfast: 
+  - Name: XXXX 
+    Address: XXXX, XXXX
+
+- Morning Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Lunch: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Afternoon Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Dinner: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Night Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+----- Example Ends -----

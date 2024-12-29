@@ -22,10 +22,10 @@ class Accommodations:
             #print(pref)
             prefs = pref.split(' ')
             col = prefs[1].lower()
-            #print(col)
+            print(col)
             if col not in self.data.columns:
-                col = get_close_matches(col, self.data.columns, n=1, cutoff=0.6)  
-            #print(col)
+                col = get_close_matches(col, self.data.columns, n=1, cutoff=0.6)[0]
+            print(col)
             pref_list = ['good ' + col, 'excellent ' + col]
             result = result[result[col].isin(pref_list)]
         

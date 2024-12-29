@@ -1,0 +1,33 @@
+Please generate a detailed travel itinerary for a 2-day trip with an expensive budget. The plan should focus on nature-oriented attractions, include recommendations for Irish restaurants, and suggest accommodations that prioritize good safety. All relevant business information will be provided following. Ensure that all recommendations and their addresses are organized in chronological order for each day. Be concise and well-structured.
+----- Example Starts -----
+Day X:
+- Accommodation: 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Breakfast: 
+  - Name: XXXX 
+    Address: XXXX, XXXX
+
+- Morning Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Lunch: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Afternoon Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Dinner: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Night Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+----- Example Ends -----

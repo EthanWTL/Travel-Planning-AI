@@ -1,0 +1,133 @@
+### Day 1:
+- **Accommodation:** 
+  - **Name:** Kimpton Hotel Palomar Philadelphia
+    - **Address:** 117 S 17th St, Philadelphia, PA
+
+- **Breakfast:** 
+  - **Name:** Mood Cafe
+    - **Address:** 4618 Baltimore Ave, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** Rittenhouse Square Park
+    - **Address:** 1800 Walnut St, Philadelphia, PA
+
+- **Lunch:** 
+  - **Name:** Koreana
+    - **Address:** 3801 Chestnut St, Philadelphia, PA
+
+- **Afternoon Attraction:** 
+  - **Name:** Rittenhouse Row
+    - **Address:** 18th St & Walnut St, Philadelphia, PA
+  - **Name:** The Shops at Liberty Place
+    - **Address:** 1625 Chestnut St, Philadelphia, PA
+
+- **Dinner:** 
+  - **Name:** Doma
+    - **Address:** 1822 Callowhill St, Philadelphia, PA
+
+- **Night Attraction:** 
+  - **Name:** The Franklin Institute Science Museum
+    - **Address:** 222 N 20th St, Philadelphia, PA
+
+---
+
+### Day 2:
+- **Accommodation:** 
+  - **Name:** Kimpton Hotel Palomar Philadelphia
+    - **Address:** 117 S 17th St, Philadelphia, PA
+
+- **Breakfast:** 
+  - **Name:** Andy's Chicken
+    - **Address:** 2001 Memphis St, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** Philadelphia Museum of Art
+    - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
+
+- **Lunch:** 
+  - **Name:** K-POT Korean BBQ & Hot Pot
+    - **Address:** 789 Franklin Mills Cir, Philadelphia, PA
+
+- **Afternoon Attraction:** 
+  - **Name:** Walnut Street Shopping District
+    - **Address:** Walnut St, Philadelphia, PA
+  - **Name:** The Gallery at Market East
+    - **Address:** 1100 Market St, Philadelphia, PA
+
+- **Dinner:** 
+  - **Name:** Jong Ka Jib
+    - **Address:** 6600 N 5th St, Philadelphia, PA
+
+- **Night Attraction:** 
+  - **Name:** Philadelphia Zoo
+    - **Address:** 3400 W Girard Ave, Philadelphia, PA
+
+---
+
+### Day 3:
+- **Accommodation:** 
+  - **Name:** Kimpton Hotel Palomar Philadelphia
+    - **Address:** 117 S 17th St, Philadelphia, PA
+
+- **Breakfast:** 
+  - **Name:** Little Sicily 2
+    - **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** Historic Philadelphia, Inc
+    - **Address:** 600 Walnut St, Ste 130, Philadelphia, PA
+
+- **Lunch:** 
+  - **Name:** K-POT Korean BBQ & Hot Pot
+    - **Address:** 789 Franklin Mills Cir, Philadelphia, PA
+
+- **Afternoon Attraction:** 
+  - **Name:** The Shops at Liberty Place
+    - **Address:** 1625 Chestnut St, Philadelphia, PA
+  - **Name:** Philadelphia Premium Outlets
+    - **Address:** 18 W 1st Ave, Limerick, PA
+
+- **Dinner:** 
+  - **Name:** Thanal Indian Tavern
+    - **Address:** 1939 Arch St, Philadelphia, PA
+
+- **Night Attraction:** 
+  - **Name:** Bloktoberfest
+    - **Address:** 17 Washington Ave, Philadelphia, PA
+
+---
+
+### Day 4:
+- **Accommodation:** 
+  - **Name:** Kimpton Hotel Palomar Philadelphia
+    - **Address:** 117 S 17th St, Philadelphia, PA
+
+- **Breakfast:** 
+  - **Name:** Masala Kitchen Kati Rolls and Platters
+    - **Address:** 1115 Walnut St, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** National Museum of American Jewish History
+    - **Address:** 101 S Independence Mall E, Philadelphia, PA
+
+- **Lunch:** 
+  - **Name:** Wah-Gi-Wah
+    - **Address:** 4447 Chestnut St, Philadelphia, PA
+
+- **Afternoon Attraction:** 
+  - **Name:** The Franklin Institute Science Museum
+    - **Address:** 222 N 20th St, Philadelphia, PA
+  - **Name:** Reading Terminal Market
+    - **Address:** 1136 Arch St, Philadelphia, PA
+
+- **Dinner:** 
+  - **Name:** Kabobeesh
+    - **Address:** 4201 Chestnut St, Philadelphia, PA
+
+- **Night Attraction:** 
+  - **Name:** Comcast Center
+    - **Address:** 1500 Market St, Philadelphia, PA
+
+--- 
+
+This itinerary focuses on shopping-oriented attractions, Korean restaurants, and high-quality accommodations, ensuring a luxurious experience in Philadelphia.

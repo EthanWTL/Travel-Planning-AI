@@ -1,0 +1,107 @@
+### Travel Plan for a 2-Day Trip
+
+#### Day 1:
+- **Accommodation:**
+  - **Name:** The Dwight D
+  - **Address:** 256 S 16th St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $$ 
+  - **Quality:** Good quality
+  - **Location:** Excellent location
+  - **Service:** Good service
+  - **Safety:** Excellent safety
+
+- **Breakfast:**
+  - **Name:** Little Pete's Restaurant
+  - **Address:** 2401 Pennsylvania Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Good for Meal:** Lunch, brunch, breakfast
+  - **Price:** $$
+
+- **Morning Attraction:**
+  - **Name:** Academy of Natural Sciences
+  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Attraction Type:** Museums
+  - **Perks:** Not Applicable
+
+- **Lunch:**
+  - **Name:** Zorba's Taverna
+  - **Address:** 2230 Fairmount Ave, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Good for Meal:** Dinner
+  - **Price:** $$
+
+- **Afternoon Attraction:**
+  - **Name:** Wissahickon Valley Trail
+  - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Attraction Type:** Parks
+  - **Perks:** Hiking
+
+- **Dinner:**
+  - **Name:** Smiley's Cafe
+  - **Address:** 4251 Main St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Good for Meal:** Lunch, dinner
+  - **Price:** $
+
+- **Night Attraction:**
+  - **Name:** Yards Brewing Company
+  - **Address:** 500 Spring Garden St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Attraction Type:** Local Flavor
+  - **Perks:** Nightlife
+
+---
+
+#### Day 2:
+- **Accommodation:**
+  - **Name:** The Dwight D (continued stay)
+  - **Address:** 256 S 16th St, Philadelphia, PA
+
+- **Breakfast:**
+  - **Name:** Cafe Diem
+  - **Address:** 1031 S 8th St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Good for Meal:** Lunch
+  - **Price:** $
+
+- **Morning Attraction:**
+  - **Name:** Bartram's Garden
+  - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Attraction Type:** Parks
+  - **Perks:** Botanical Gardens
+
+- **Lunch:**
+  - **Name:** Pho 20
+  - **Address:** 234-236 N 10th St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Good for Meal:** Late night, lunch, dinner, brunch
+  - **Price:** $
+
+- **Afternoon Attraction:**
+  - **Name:** Wissahickon Park
+  - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Attraction Type:** Parks
+  - **Perks:** Active Life
+
+- **Dinner:**
+  - **Name:** Pho 75
+  - **Address:** 1122 Washington Ave, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Good for Meal:** Lunch, dinner
+  - **Price:** $$
+
+- **Night Attraction:**
+  - **Name:** Woodmere Art Museum
+  - **Address:** 9201 Germantown Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Attraction Type:** Local Flavor
+  - **Perks:** Jazz & Blues
+
+---
+
+This itinerary provides a balanced mix of activity-oriented attractions, Greek dining experiences, and safe accommodations, all while maintaining a moderate budget. Enjoy your trip!

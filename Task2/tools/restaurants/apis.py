@@ -28,18 +28,28 @@ class Restaurants:
         result = result[(result['cuisine_1'].isin(cuisine)) | (result['cuisine_2'].isin(cuisine))]
 
         #preference
-        #print(preference[0])        
-        for pref in preference:
-            #print(pref)
-            prefs = pref.split(' ')
-            col = prefs[1].lower()
-            #print(col)
-            print(col)
-            if col not in self.data.columns:
-                col = get_close_matches(col, self.data.columns, n=1, cutoff=0.6)[0]
-            #print(col)
-            pref_list = ['good ' + col, 'excellent ' + col]
-            result = result[result[col].isin(pref_list)]
-
-        #result.to_csv('test_csv.csv', index=False)
+        #print(preference[0]) 
+        #if the preference is empty
+        if preference != ['']:     
+            for pref in preference:
+                #print(pref)
+                prefs = pref.split(' ')
+                col = prefs[1].lower()
+                #print(col)
+                #print(col)
+                if col not in self.data.columns:
+                    col = get_close_matches(col, self.data.columns, n=1, cutoff=0.6)
+                    if(col != []):
+                        col = col[0]
+                        #print(col)
+                        pref_list = ['good ' + col, 'excellent ' + col]
+                        result = result[result[col].isin(pref_list)]
+                else:
+                    pref_list = ['good ' + col, 'excellent ' + col]
+                    result = result[result[col].isin(pref_list)]
+        
+        if len(result) == 0:
+            return "There is no restaurants that matches the preferences."
+        
+        #result.to_csv('restaurant_csv.csv', index=False)
         return result

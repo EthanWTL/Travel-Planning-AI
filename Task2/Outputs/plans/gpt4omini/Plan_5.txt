@@ -1,0 +1,135 @@
+### Travel Plan for a 4-Day Trip
+
+#### Day 1:
+- **Accommodation:** 
+  - **Name:** The Dwight D
+  - **Address:** 256 S 16th St, Philadelphia, PA
+
+- **Breakfast:** 
+  - **Name:** Cafe Diem
+  - **Address:** 1031 S 8th St, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** Academy of Natural Sciences
+  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
+
+- **Lunch:** 
+  - **Name:** Pho 20
+  - **Address:** 234-236 N 10th St, Philadelphia, PA
+
+- **Afternoon Attraction:** 
+  - **Name:** Benjamin Franklin Museum
+  - **Address:** 317 Chestnut St, Philadelphia, PA
+  - **Name:** Arch Street Meeting House
+  - **Address:** 320 Arch St, Philadelphia, PA
+
+- **Dinner:** 
+  - **Name:** Pho 75
+  - **Address:** 1122 Washington Ave, Philadelphia, PA
+
+- **Night Attraction:** 
+  - **Name:** A Love Letter for You
+  - **Address:** Market St, Philadelphia, PA
+
+---
+
+#### Day 2:
+- **Accommodation:** 
+  - **Name:** The Dwight D
+  - **Address:** 256 S 16th St, Philadelphia, PA
+
+- **Breakfast:** 
+  - **Name:** Cafe Nhan
+  - **Address:** 1606 W Passyunk Ave, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** Independence Hall
+  - **Address:** 520 Chestnut St, Philadelphia, PA
+
+- **Lunch:** 
+  - **Name:** Hummus Grill
+  - **Address:** 3931 Walnut St, Philadelphia, PA
+
+- **Afternoon Attraction:** 
+  - **Name:** National Constitution Center
+  - **Address:** 525 Arch St, Philadelphia, PA
+  - **Name:** Betsy Ross House
+  - **Address:** 239 Arch St, Philadelphia, PA
+
+- **Dinner:** 
+  - **Name:** Goldie
+  - **Address:** 1526 Sansom St, Philadelphia, PA
+
+- **Night Attraction:** 
+  - **Name:** Yards Brewing Company
+  - **Address:** 500 Spring Garden St, Philadelphia, PA
+
+---
+
+#### Day 3:
+- **Accommodation:** 
+  - **Name:** The Dwight D
+  - **Address:** 256 S 16th St, Philadelphia, PA
+
+- **Breakfast:** 
+  - **Name:** QT Vietnamese Sandwich
+  - **Address:** 48 N 10th St, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** Philadelphia Museum of Art
+  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
+
+- **Lunch:** 
+  - **Name:** Saad's Halal Restaurant
+  - **Address:** 4500 Walnut St, Philadelphia, PA
+
+- **Afternoon Attraction:** 
+  - **Name:** Fairmount Water Works
+  - **Address:** 640 Waterworks Dr, Philadelphia, PA
+  - **Name:** Wissahickon Valley Trail
+  - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
+
+- **Dinner:** 
+  - **Name:** Fadó Irish Pub
+  - **Address:** 1500 Locust St, Philadelphia, PA
+
+- **Night Attraction:** 
+  - **Name:** Wine School of Philadelphia
+  - **Address:** 109 S 22nd St, Philadelphia, PA
+
+---
+
+#### Day 4:
+- **Accommodation:** 
+  - **Name:** The Dwight D
+  - **Address:** 256 S 16th St, Philadelphia, PA
+
+- **Breakfast:** 
+  - **Name:** Street Side
+  - **Address:** 165 W Girard Ave, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** Elfreth's Alley
+  - **Address:** 124 Elfreth's Alley, Philadelphia, PA
+
+- **Lunch:** 
+  - **Name:** Bitar's
+  - **Address:** 947 Federal St, Philadelphia, PA
+
+- **Afternoon Attraction:** 
+  - **Name:** The Liberty Bell Center
+  - **Address:** 526 Market St, Philadelphia, PA
+  - **Name:** The National Museum of American Jewish History
+  - **Address:** 101 S Independence Mall E, Philadelphia, PA
+
+- **Dinner:** 
+  - **Name:** Tir na nOg Irish Pub
+  - **Address:** 1600 Arch Pkwy, Philadelphia, PA
+
+- **Night Attraction:** 
+  - **Name:** 76 Carriage Company
+  - **Address:** 1350 Schuylkill Ave, Philadelphia, PA
+
+---
+
+This itinerary balances history-oriented attractions with Vietnamese dining options and good quality accommodations, ensuring a fulfilling and enjoyable trip.
