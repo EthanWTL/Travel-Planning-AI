@@ -3,133 +3,133 @@
 #### Day 1:
 - **Accommodation:** 
   - **Name:** Independence Park Hotel, Bw Premier Collection
-  - **Address:** 235 Chestnut St, Philadelphia, PA
+    - **Address:** 235 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Hummus Grill 
-  - **Address:** 3931 Walnut St, Philadelphia, PA
+  - **Name:** Alyan's Restaurant 
+    - **Address:** 603 S 4th St, Philadelphia, PA
 
 - **Morning Attraction:** 
   - **Name:** Bartram's Garden 
-  - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA 
+    - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA 
 
 - **Lunch:** 
-  - **Name:** Al Zaytouna 
-  - **Address:** 906 Christian St, Philadelphia, PA
+  - **Name:** Hummus Grill 
+    - **Address:** 3931 Walnut St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
   - **Name:** Awbury Arboretum 
-  - **Address:** 1 Awbury Rd, Philadelphia, PA 
+    - **Address:** 1 Awbury Rd, Philadelphia, PA 
   - **Name:** Belmont Plateau 
-  - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA 
+    - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA 
 
 - **Dinner:** 
   - **Name:** Kabobeesh 
-  - **Address:** 4201 Chestnut St, Philadelphia, PA 
+    - **Address:** 4201 Chestnut St, Philadelphia, PA 
 
 - **Night Attraction:** 
   - **Name:** A Love Letter for You 
-  - **Address:** Market St, Philadelphia, PA 
+    - **Address:** Market St, Philadelphia, PA 
 
 ---
 
 #### Day 2:
 - **Accommodation:** 
   - **Name:** Independence Park Hotel, Bw Premier Collection
-  - **Address:** 235 Chestnut St, Philadelphia, PA
+    - **Address:** 235 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
   - **Name:** Goldie 
-  - **Address:** 1526 Sansom St, Philadelphia, PA
+    - **Address:** 1526 Sansom St, Philadelphia, PA
 
 - **Morning Attraction:** 
   - **Name:** Wissahickon Valley Trail 
-  - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA 
+    - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA 
 
 - **Lunch:** 
-  - **Name:** Alyan's Restaurant 
-  - **Address:** 603 S 4th St, Philadelphia, PA
+  - **Name:** Dizengoff 
+    - **Address:** 1625 Sansom St, Philadelphia, PA 
 
 - **Afternoon Attraction:** 
-  - **Name:** Auto Show Philadelphia 
-  - **Address:** 1101 Arch St, Philadelphia, PA 
   - **Name:** Woodmere Art Museum 
-  - **Address:** 9201 Germantown Ave, Philadelphia, PA 
+    - **Address:** 9201 Germantown Ave, Philadelphia, PA 
+  - **Name:** Xenos Candy 'N' Gifts 
+    - **Address:** 231 Chestnut St, Philadelphia, PA 
 
 - **Dinner:** 
-  - **Name:** Naf Naf Grill 
-  - **Address:** 1919 Market St, Ste 101, Philadelphia, PA 
+  - **Name:** Isot Mediterranean Cuisine 
+    - **Address:** 622 S 6th St, Philadelphia, PA 
 
 - **Night Attraction:** 
-  - **Name:** Wonderspaces Philadelphia 
-  - **Address:** 27 N 11th St, Philadelphia, PA 
+  - **Name:** Auto Show Philadelphia 
+    - **Address:** 1101 Arch St, Philadelphia, PA 
 
 ---
 
 #### Day 3:
 - **Accommodation:** 
   - **Name:** Independence Park Hotel, Bw Premier Collection
-  - **Address:** 235 Chestnut St, Philadelphia, PA
+    - **Address:** 235 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Isot Mediterranean Cuisine 
-  - **Address:** 622 S 6th St, Philadelphia, PA
+  - **Name:** Al-Sham Restaurant 
+    - **Address:** 6738 Bustleton Ave, Philadelphia, PA 
 
 - **Morning Attraction:** 
   - **Name:** Belmont Plateau 
-  - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA 
+    - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA 
 
 - **Lunch:** 
-  - **Name:** Dizengoff 
-  - **Address:** 1625 Sansom St, Philadelphia, PA
+  - **Name:** Octopus Falafel Truck 
+    - **Address:** 20th & Ludlow St, Philadelphia, PA 
 
 - **Afternoon Attraction:** 
-  - **Name:** Xenos Candy 'N' Gifts 
-  - **Address:** 231 Chestnut St, Philadelphia, PA 
-  - **Name:** Yards Brewing Company 
-  - **Address:** 500 Spring Garden St, Philadelphia, PA 
+  - **Name:** Auto Show Philadelphia 
+    - **Address:** 1101 Arch St, Philadelphia, PA 
+  - **Name:** Wonderspaces Philadelphia 
+    - **Address:** 27 N 11th St, Philadelphia, PA 
 
 - **Dinner:** 
-  - **Name:** The Halal Guys 
-  - **Address:** 1016 Race St, Philadelphia, PA 
+  - **Name:** Sahara Grill 
+    - **Address:** 1334 Walnut St, Philadelphia, PA 
 
 - **Night Attraction:** 
-  - **Name:** Auto Show Philadelphia 
-  - **Address:** 1101 Arch St, Philadelphia, PA 
+  - **Name:** Yards Brewing Company 
+    - **Address:** 500 Spring Garden St, Philadelphia, PA 
 
 ---
 
 #### Day 4:
 - **Accommodation:** 
   - **Name:** Independence Park Hotel, Bw Premier Collection
-  - **Address:** 235 Chestnut St, Philadelphia, PA
+    - **Address:** 235 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Twenty Manning 
-  - **Address:** 261 S 20th St, Philadelphia, PA
+  - **Name:** Bitar's 
+    - **Address:** 947 Federal St, Philadelphia, PA 
 
 - **Morning Attraction:** 
   - **Name:** Bartram's Garden 
-  - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA 
+    - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA 
 
 - **Lunch:** 
-  - **Name:** Bitar's 
-  - **Address:** 947 Federal St, Philadelphia, PA
+  - **Name:** Saad's Halal Restaurant 
+    - **Address:** 4500 Walnut St, Philadelphia, PA 
 
 - **Afternoon Attraction:** 
   - **Name:** Wissahickon Valley Trail 
-  - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA 
-  - **Name:** Awbury Arboretum 
-  - **Address:** 1 Awbury Rd, Philadelphia, PA 
+    - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA 
+  - **Name:** Woodmere Art Museum 
+    - **Address:** 9201 Germantown Ave, Philadelphia, PA 
 
 - **Dinner:** 
-  - **Name:** Sahara Grill 
-  - **Address:** 1334 Walnut St, Philadelphia, PA 
+  - **Name:** Hummus Grill 
+    - **Address:** 3931 Walnut St, Philadelphia, PA 
 
 - **Night Attraction:** 
   - **Name:** A Love Letter for You 
-  - **Address:** Market St, Philadelphia, PA 
+    - **Address:** Market St, Philadelphia, PA 
 
 ---
 
-This itinerary focuses on family-oriented attractions, Middle Eastern dining options, and good quality accommodations while keeping a budget-friendly approach. Enjoy your trip!
+This itinerary focuses on family-oriented attractions and includes Middle Eastern dining options while ensuring good quality accommodations within a budget-friendly framework. Enjoy your trip!

@@ -20,7 +20,7 @@ class Attractions:
         
         #dealing with the preference, need to change the original dataset.
         # currently, we have family_oriented as the column name, but medium family oriented as the actual value, the llm might switch between
-        col = preference[0].lower()
+        col = preference[-1].lower()
         if col not in self.data.columns:
             col = get_close_matches(preference[0].lower(), self.data.columns, n=1, cutoff=0.6)
             if(col != []):
