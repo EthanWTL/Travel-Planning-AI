@@ -1,4 +1,4 @@
-### 3-Day Travel Itinerary
+### Travel Itinerary for a 3-Day Trip
 
 #### Day 1:
 - **Accommodation:** 
@@ -9,12 +9,12 @@
   - **Quality:** Average quality
   - **Location:** Excellent location
   - **Service:** Good service
-  - **Safety:** Good safety
+  - **Safety:** Excellent safety
 
 - **Breakfast:** 
-  - **Name:** Cafe Diem
-  - **Address:** 1031 S 8th St, Philadelphia, PA
-  - **Stars:** 4.5
+  - **Name:** Brown Street Coffee & Bánhery
+  - **Address:** 2545 Brown St, Philadelphia, PA
+  - **Stars:** 4.0
   - **Price:** $
   
 - **Morning Attraction:** 
@@ -22,117 +22,135 @@
   - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
   - **Stars:** 4.5
   - **Price:** $
+  - **Attraction Type:** Parks
+  - **Perks:** Hiking
 
 - **Lunch:** 
   - **Name:** Han Dynasty
-  - **Address:** 123 Chestnut St, Philadelphia, PA
-  - **Stars:** 4.0
+  - **Address:** 4356 Main St, Philadelphia, PA
+  - **Stars:** 3.5
   - **Price:** $$
+  - **Cuisine:** Chinese
 
 - **Afternoon Attraction:** 
   - **Name:** Bartram's Garden
   - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA
   - **Stars:** 4.5
   - **Price:** $
+  - **Attraction Type:** Parks
+  - **Perks:** Botanical Gardens
 
 - **Dinner:** 
   - **Name:** Dim Sum Garden
   - **Address:** 1020 Race St, Philadelphia, PA
   - **Stars:** 4.0
   - **Price:** $$
+  - **Cuisine:** Chinese
 
 - **Night Attraction:** 
   - **Name:** Yards Brewing Company
   - **Address:** 500 Spring Garden St, Philadelphia, PA
   - **Stars:** 4.0
   - **Price:** $$
+  - **Attraction Type:** Local Flavor
+  - **Perks:** Nightlife
 
 ---
 
 #### Day 2:
 - **Accommodation:** 
-  - **Name:** The Conwell Inn
-  - **Address:** 1331 Pollet Walk, Philadelphia, PA
-
+  - **Name:** The Conwell Inn (same as Day 1 for budget)
+  
 - **Breakfast:** 
-  - **Name:** Cafe Nhan
-  - **Address:** 1606 W Passyunk Ave, Philadelphia, PA
+  - **Name:** Cafe Diem
+  - **Address:** 1031 S 8th St, Philadelphia, PA
   - **Stars:** 4.5
-  - **Price:** $$
+  - **Price:** $
 
 - **Morning Attraction:** 
-  - **Name:** Fairmount Water Works
-  - **Address:** 640 Waterworks Dr, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Price:** $$
+  - **Name:** Academy of Natural Sciences
+  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$$
+  - **Attraction Type:** Museums
 
 - **Lunch:** 
   - **Name:** Chengdu Famous Food
   - **Address:** 3635 Lancaster Ave, Philadelphia, PA
   - **Stars:** 4.0
   - **Price:** $$
-
-- **Afternoon Attraction:** 
-  - **Name:** Philadelphia Museum of Art
-  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Price:** $$
-
-- **Dinner:** 
-  - **Name:** Pho 20
-  - **Address:** 234-236 N 10th St, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Price:** $
-
-- **Night Attraction:** 
-  - **Name:** Spruce Street Harbor Park
-  - **Address:** 121 N Columbus Blvd, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Price:** $$
-
----
-
-#### Day 3:
-- **Accommodation:** 
-  - **Name:** The Conwell Inn
-  - **Address:** 1331 Pollet Walk, Philadelphia, PA
-
-- **Breakfast:** 
-  - **Name:** Little Pete's Restaurant
-  - **Address:** 2401 Pennsylvania Ave, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Price:** $$
-
-- **Morning Attraction:** 
-  - **Name:** Academy of Natural Sciences
-  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Price:** $$
-
-- **Lunch:** 
-  - **Name:** Pho Ha
-  - **Address:** 600 Washington Ave, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Price:** $$
+  - **Cuisine:** Chinese
 
 - **Afternoon Attraction:** 
   - **Name:** Wissahickon Park
   - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA
   - **Stars:** 4.5
   - **Price:** $
+  - **Attraction Type:** Parks
+  - **Perks:** Active Life
 
 - **Dinner:** 
-  - **Name:** Szechuan Four Rivers
-  - **Address:** 936 Race St, Philadelphia, PA
-  - **Stars:** 3.5
+  - **Name:** Zorba's Taverna
+  - **Address:** 2230 Fairmount Ave, Philadelphia, PA
+  - **Stars:** 4.5
   - **Price:** $$
+  - **Cuisine:** Mediterranean/Greek
+
+- **Night Attraction:** 
+  - **Name:** Philadelphia Flower Show
+  - **Address:** 1101 Arch St, Philadelphia, PA
+  - **Stars:** 2.5
+  - **Price:** $$
+  - **Attraction Type:** Festivals
+
+---
+
+#### Day 3:
+- **Accommodation:** 
+  - **Name:** The Conwell Inn (same as previous days for budget)
+  
+- **Breakfast:** 
+  - **Name:** Cafe Saigon
+  - **Address:** 827 Adams Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $
+
+- **Morning Attraction:** 
+  - **Name:** Belmont Plateau
+  - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $
+  - **Attraction Type:** Parks
+
+- **Lunch:** 
+  - **Name:** Pho 20
+  - **Address:** 234-236 N 10th St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $
+  - **Cuisine:** Vietnamese
+
+- **Afternoon Attraction:** 
+  - **Name:** Benjamin Franklin Museum
+  - **Address:** 317 Chestnut St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$
+  - **Attraction Type:** Museums
+
+- **Dinner:** 
+  - **Name:** Little Pete's Restaurant
+  - **Address:** 2401 Pennsylvania Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$
+  - **Cuisine:** Greek
 
 - **Night Attraction:** 
   - **Name:** Urban Jungle
   - **Address:** 1526 E Passyunk Ave, Philadelphia, PA
   - **Stars:** 4.0
   - **Price:** $$
+  - **Attraction Type:** Local Flavor
 
 ---
 
-This itinerary focuses on activity-oriented attractions, affordable Chinese restaurants, and accommodations with good safety ratings, ensuring a budget-friendly and enjoyable trip to Philadelphia.
+### Summary:
+This itinerary focuses on activity-oriented attractions, includes Chinese restaurants for meals, and suggests accommodations with good safety ratings, all while keeping a budget-friendly approach. Enjoy your trip!

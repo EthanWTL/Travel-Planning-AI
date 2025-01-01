@@ -1,14 +1,14 @@
 
-Thought 1: I need to gather information for a 4-day trip itinerary that focuses on family-oriented attractions, includes Middle Eastern restaurants, and suggests good quality accommodation, all while adhering to a cheap budget.
-Action 1: AccommodationSearch[Cheap budget,[Good Quality]]
-Observation 1:                                                      Masked due to limited length. Make sure the data has been written in Notebook.
-Thought 2: I have found several accommodation options that meet the criteria of being of good quality and within a cheap budget. Next, I need to find family-oriented attractions that are affordable.
-Action 2: AttractionSearch[Cheap budget,[Family Oriented]]
-Observation 2:                                              Masked due to limited length. Make sure the data has been written in Notebook.
-Thought 3: Now that I have obtained relevant family-oriented attractions, I need to find Middle Eastern restaurants that fit within a cheap budget and meet the required dining preferences.
-Action 3: RestaurantSearch[Cheap budget, Middle Eastern, [Good Quality]]
+Thought 1: Given the query for a 3-day itinerary with a focus on activity-oriented attractions, Middle Eastern dining options, and accommodations prioritizing good safety, location, and quality, I need to gather relevant information for each aspect: accommodation, attractions, and dining. I will start the information collection process with finding suitable accommodations first.
+Action 1: AccommodationSearch[Cheap budget,[Good Safety, Good Location, Good Quality]]
+Observation 1:         Masked due to limited length. Make sure the data has been written in Notebook.
+Thought 2: I have found a suitable accommodation, "The Dwight D," which is in a good location with excellent safety and quality. Next, I need to identify a list of activity-oriented attractions that fit within a cheap budget for the 3-day itinerary.
+Action 2: AttractionSearch[Cheap budget,[Activity Oriented]]
+Observation 2:                                            Masked due to limited length. Make sure the data has been written in Notebook.
+Thought 3: Now that I have collected information on accommodations and attractions, I need to gather information on Middle Eastern dining options that fit within a cheap budget. This will help to complete the itinerary with dining recommendations for the 3-day trip focusing on Middle Eastern cuisine.
+Action 3: RestaurantSearch[Cheap budget, Middle Eastern, []]
 Observation 3: Wrong preference Input. Accepted inputs are: good flavor / good freshness / good healthy/ good service / good environment / good value. Please try again.
-Thought 4: I need to adjust my search for Middle Eastern restaurants to focus on the acceptable preferences related to quality, such as good flavor, freshness, healthy options, service, environment, and value.
+Thought 4: I need to revise my search for Middle Eastern restaurants by including valid preferences to ensure I get suitable recommendations that meet the requirements of good flavor and good value.
 Action 4: RestaurantSearch[Cheap budget, Middle Eastern, [Good Flavor, Good Value]]
 Observation 4:                       name            address  latitude  longitude  stars   good_for_meal price restaurant_type_1 restaurant_type_2              cuisine_1      cuisine_2          perks           flavor           freshness           healthy               service               environment           value
         Al-Sham Restaurant 6738 Bustleton Ave 40.040250 -75.066111    4.0   lunch, dinner    $$       Restaurants    Not Applicable American (Traditional) Middle Eastern          Halal      good flavor      good freshness   average healthy       average service       average environment      good value
@@ -22,176 +22,102 @@ Isot Mediterranean Cuisine       622 S 6th St 39.941423 -75.152490    4.5 desser
      Octopus Falafel Truck   20th & Ludlow St 39.952932 -75.173293    4.5           lunch     $       Restaurants       Food Trucks          Mediterranean Middle Eastern        Falafel excellent flavor excellent freshness      good healthy       average service          good environment excellent value
    Saad's Halal Restaurant     4500 Walnut St 39.954963 -75.211851    4.5   lunch, dinner     $       Restaurants    Not Applicable         Middle Eastern         Indian   Cheesesteaks excellent flavor excellent freshness   average healthy          good service       average environment      good value
               Sahara Grill     1334 Walnut St 39.949180 -75.163565    4.0   lunch, dinner    $$       Restaurants    Not Applicable          Mediterranean Middle Eastern Not Applicable      good flavor      good freshness      good healthy       average service       average environment      good value
-Thought 5: I have gathered information about affordable Middle Eastern restaurants that also offer good quality. Now I can structure the itinerary chronologically.
-Action 5: Planner[Generate a detailed travel itinerary for a 4-day trip with a cheap budget, focusing on family-oriented attractions, including Middle Eastern restaurants, and suggesting good quality accommodations.]
-Observation 5: ### Travel Plan for a 4-Day Trip
+Thought 5: I have gathered information on accommodations, attractions, and Middle Eastern dining options. I can now structure the 3-day itinerary based on the collected data. I will outline the itinerary in chronological order for each day, ensuring to incorporate the recommended accommodations, activities, and dining options.
+Action 5: Planner[Generate a detailed travel itinerary for a 3-day trip with a cheap budget focusing on activity-oriented attractions and including Middle Eastern restaurants and good accommodations.]
+Observation 5: ### Travel Plan for a 3-Day Trip
 
 #### Day 1:
 - **Accommodation:**
-  - **Name:** The Dwight D
-  - **Address:** 256 S 16th St, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Price:** $$
+  - **Name:** Sleep Inn Center City
+  - **Address:** 1020 Cherry St, Philadelphia, PA
 
 - **Breakfast:**
-  - **Name:** Brown Street Coffee & Bánhery
-  - **Address:** 2545 Brown St, Philadelphia, PA
-  - **Stars:** 4.0
+  - **Name:** Mood Cafe
+  - **Address:** 4618 Baltimore Ave, Philadelphia, PA
 
 - **Morning Attraction:**
   - **Name:** Bartram's Garden
   - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Attraction Type:** Parks
-  - **Perks:** Botanical Gardens
 
 - **Lunch:**
   - **Name:** Al-Sham Restaurant
   - **Address:** 6738 Bustleton Ave, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Cuisine:** Middle Eastern
 
 - **Afternoon Attraction:**
-  - **Name:** Belmont Plateau
-  - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Attraction Type:** Parks
+  - **Name:** Wissahickon Valley Trail
+  - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
 
 - **Dinner:**
   - **Name:** Kabobeesh
   - **Address:** 4201 Chestnut St, Philadelphia, PA
-  - **Stars:** 3.5
-  - **Cuisine:** Middle Eastern
 
 - **Night Attraction:**
-  - **Name:** Yards Brewing Company
-  - **Address:** 500 Spring Garden St, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Attraction Type:** Local Flavor
+  - **Name:** Blue Cross RiverRink Winterfest
+  - **Address:** 101 S Columbus Blvd, Philadelphia, PA
 
 ---
 
 #### Day 2:
 - **Accommodation:**
-  - **Name:** The Dwight D (continued stay)
+  - **Name:** Sleep Inn Center City
+  - **Address:** 1020 Cherry St, Philadelphia, PA
 
 - **Breakfast:**
-  - **Name:** Cafe Diem
-  - **Address:** 1031 S 8th St, Philadelphia, PA
-  - **Stars:** 4.5
+  - **Name:** Cafe Lift
+  - **Address:** 428 N 13th St, Philadelphia, PA
 
 - **Morning Attraction:**
-  - **Name:** Academy of Natural Sciences
-  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Attraction Type:** Museums
+  - **Name:** Belmont Plateau
+  - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA
 
 - **Lunch:**
   - **Name:** Hummus Grill
   - **Address:** 3931 Walnut St, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Cuisine:** Middle Eastern
 
 - **Afternoon Attraction:**
-  - **Name:** Wissahickon Valley Trail
-  - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Attraction Type:** Parks
+  - **Name:** Fairmount Water Works
+  - **Address:** 640 Waterworks Dr, Philadelphia, PA
 
 - **Dinner:**
   - **Name:** Saad's Halal Restaurant
   - **Address:** 4500 Walnut St, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Cuisine:** Middle Eastern
 
 - **Night Attraction:**
-  - **Name:** Wonderspaces Philadelphia
-  - **Address:** 27 N 11th St, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Attraction Type:** Art Museums
+  - **Name:** Fishtown Rivercity Festival
+  - **Address:** 1199 N Delaware Ave, Philadelphia, PA
 
 ---
 
 #### Day 3:
 - **Accommodation:**
-  - **Name:** The Dwight D (continued stay)
+  - **Name:** Sleep Inn Center City
+  - **Address:** 1020 Cherry St, Philadelphia, PA
 
 - **Breakfast:**
-  - **Name:** Cafe Nhan
-  - **Address:** 1606 W Passyunk Ave, Philadelphia, PA
-  - **Stars:** 4.5
+  - **Name:** Franky Bradley's
+  - **Address:** 1320 Chancellor St, Philadelphia, PA
 
 - **Morning Attraction:**
-  - **Name:** Awbury Arboretum
-  - **Address:** 1 Awbury Rd, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Attraction Type:** Parks
+  - **Name:** Academy of Natural Sciences
+  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
 
 - **Lunch:**
-  - **Name:** Pho 20
-  - **Address:** 234-236 N 10th St, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Cuisine:** Vietnamese
+  - **Name:** Dizengoff
+  - **Address:** 1625 Sansom St, Philadelphia, PA
 
 - **Afternoon Attraction:**
-  - **Name:** Blue Bell Park
-  - **Address:** 842 Walnut Ln, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Attraction Type:** Parks
-
-- **Dinner:**
-  - **Name:** Pho Saigon
-  - **Address:** 1100 S Christopher Columbus Blvd, Unit 22, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Cuisine:** Vietnamese
-
-- **Night Attraction:**
   - **Name:** Philadelphia Zoo
   - **Address:** 3400 W Girard Ave, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Attraction Type:** Zoos
-
----
-
-#### Day 4:
-- **Accommodation:**
-  - **Name:** The Dwight D (continued stay)
-
-- **Breakfast:**
-  - **Name:** Little Pete's Restaurant
-  - **Address:** 2401 Pennsylvania Ave, Philadelphia, PA
-  - **Stars:** 4.0
-
-- **Morning Attraction:**
-  - **Name:** Benjamin Franklin Museum
-  - **Address:** 317 Chestnut St, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Attraction Type:** Museums
-
-- **Lunch:**
-  - **Name:** Dim Sum Garden
-  - **Address:** 1020 Race St, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Cuisine:** Chinese
-
-- **Afternoon Attraction:**
-  - **Name:** Wissahickon Park
-  - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Attraction Type:** Parks
 
 - **Dinner:**
-  - **Name:** Zorba's Taverna
-  - **Address:** 2230 Fairmount Ave, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Cuisine:** Mediterranean
+  - **Name:** Sahara Grill
+  - **Address:** 1334 Walnut St, Philadelphia, PA
 
 - **Night Attraction:**
   - **Name:** Rittenhouse Square Park
   - **Address:** 1800 Walnut St, Philadelphia, PA
-  - **Stars:** 4.5
-  - **Attraction Type:** Parks
 
 ---
 
-This itinerary focuses on family-oriented attractions, includes Middle Eastern dining options, and suggests good quality accommodations while keeping a budget-friendly approach. Enjoy your trip!
+### Summary:
+This itinerary focuses on activity-oriented attractions while keeping a budget-friendly approach. The accommodations are economical, and the selected Middle Eastern restaurants provide a taste of local cuisine. Enjoy your trip!

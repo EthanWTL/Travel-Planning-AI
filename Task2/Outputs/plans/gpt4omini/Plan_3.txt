@@ -1,65 +1,104 @@
-### Day 1:
+### Travel Itinerary for a 2-Day Trip
+
+#### Day 1:
 - **Accommodation:** 
-  - **Name:** The Rittenhouse Hotel
-    - **Address:** 210 W Rittenhouse Sq, Philadelphia, PA 19103
+  - **Name:** The Rittenhouse Hotel  
+    **Address:** 210 W Rittenhouse Sq, Philadelphia, PA  
+    **Stars:** 4.0  
+    **Price:** $$$  
+    **Quality:** Good quality  
+    **Location:** Excellent location  
+    **Service:** Good service  
+    **Safety:** Good safety  
 
 - **Breakfast:** 
-  - **Name:** New Deck Tavern
-    - **Address:** 3408 Sansom St, Philadelphia, PA 19104
+  - **Name:** Café Lift  
+    **Address:** 428 N 13th St, Philadelphia, PA  
+    **Stars:** 4.0  
+    **Price:** $$  
+    **Cuisine:** American (New)  
 
 - **Morning Attraction:** 
-  - **Name:** Morris Arboretum
-    - **Address:** 100 E Northwestern Ave, Philadelphia, PA 19118
+  - **Name:** Awbury Arboretum  
+    **Address:** 1 Awbury Rd, Philadelphia, PA  
+    **Stars:** 4.5  
+    **Price:** $$  
+    **Attraction Type:** Parks  
 
 - **Lunch:** 
-  - **Name:** Fadó Irish Pub
-    - **Address:** 1500 Locust St, Philadelphia, PA 19102
+  - **Name:** Almaz Cafe  
+    **Address:** 140 S 20th St, Philadelphia, PA  
+    **Stars:** 4.0  
+    **Price:** $$  
+    **Cuisine:** Ethiopian  
 
 - **Afternoon Attraction:** 
-  - **Name:** Fairmount Water Works
-    - **Address:** 640 Waterworks Dr, Philadelphia, PA 19130 
-  - **Name:** Cherry Street Pier
-    - **Address:** 121 N Columbus Blvd, Philadelphia, PA 19106
+  - **Name:** Fairmount Water Works  
+    **Address:** 640 Waterworks Dr, Philadelphia, PA  
+    **Stars:** 4.5  
+    **Price:** $$  
+    **Attraction Type:** Parks  
 
 - **Dinner:** 
-  - **Name:** McGillin's Olde Ale House
-    - **Address:** 1310 Drury St, Philadelphia, PA 19107
+  - **Name:** The Dandelion  
+    **Address:** 124 S 18th St, Philadelphia, PA  
+    **Stars:** 4.5  
+    **Price:** $$$  
+    **Cuisine:** Irish  
 
 - **Night Attraction:** 
-  - **Name:** Spruce Street Harbor Park
-    - **Address:** 121 N Columbus Blvd, Philadelphia, PA 19106
+  - **Name:** Philadelphia Zoo  
+    **Address:** 3400 W Girard Ave, Philadelphia, PA  
+    **Stars:** 4.0  
+    **Price:** $$$  
+    **Attraction Type:** Zoos  
 
 ---
 
-### Day 2:
+#### Day 2:
 - **Accommodation:** 
-  - **Name:** The Rittenhouse Hotel
-    - **Address:** 210 W Rittenhouse Sq, Philadelphia, PA 19103
+  - **Name:** The Rittenhouse Hotel (continued stay)  
+    **Address:** 210 W Rittenhouse Sq, Philadelphia, PA  
 
 - **Breakfast:** 
-  - **Name:** Con Murphy's
-    - **Address:** 1700 Benjamin Franklin Pkwy, Philadelphia, PA 19103
+  - **Name:** The Dandelion (continued)  
+    **Address:** 124 S 18th St, Philadelphia, PA  
 
 - **Morning Attraction:** 
-  - **Name:** Philadelphia Zoo
-    - **Address:** 3400 W Girard Ave, Philadelphia, PA 19104
+  - **Name:** Morris Arboretum  
+    **Address:** 100 E Northwestern Ave, Philadelphia, PA  
+    **Stars:** 4.5  
+    **Price:** $$$  
+    **Attraction Type:** Botanical Gardens  
 
 - **Lunch:** 
-  - **Name:** Tir na nOg Irish Pub
-    - **Address:** 1600 Arch Pkwy, Philadelphia, PA 19103
+  - **Name:** Irish Pub  
+    **Address:** 2001 Walnut St, Philadelphia, PA  
+    **Stars:** 4.0  
+    **Price:** $$  
+    **Cuisine:** Irish  
 
 - **Afternoon Attraction:** 
-  - **Name:** FDR Park
-    - **Address:** 1500 Pattison Ave, Philadelphia, PA 19145 
-  - **Name:** Awbury Arboretum
-    - **Address:** 1 Awbury Rd, Philadelphia, PA 19138
+  - **Name:** Wissahickon Valley Trail  
+    **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA  
+    **Stars:** 4.5  
+    **Price:** $$  
+    **Attraction Type:** Parks  
 
 - **Dinner:** 
-  - **Name:** Hilltown Tavern
-    - **Address:** 326 Roxborough Ave, Philadelphia, PA 19128
+  - **Name:** The Black Sheep  
+    **Address:** 247 S 17th St, Philadelphia, PA  
+    **Stars:** 4.0  
+    **Price:** $$$  
+    **Cuisine:** Irish  
 
 - **Night Attraction:** 
-  - **Name:** Parks On Tap-Azalea Gardens
-    - **Address:** 636 Waterworks Dr, Philadelphia, PA 19130
+  - **Name:** Spruce Street Harbor Park  
+    **Address:** 301 S Christopher Columbus Blvd, Philadelphia, PA  
+    **Stars:** 4.5  
+    **Price:** Free  
+    **Attraction Type:** Parks  
 
-This itinerary focuses on nature-oriented attractions, Irish restaurants, and accommodations that prioritize good safety, ensuring a luxurious and enjoyable experience in Philadelphia.
+---
+
+This itinerary focuses on nature-oriented attractions, includes Irish dining options, and ensures accommodations with good safety ratings, all while maintaining an expensive budget. Enjoy your trip!

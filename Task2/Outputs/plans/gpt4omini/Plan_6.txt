@@ -1,33 +1,59 @@
-### 4-Day Travel Itinerary for Philadelphia
+### 4-Day Travel Itinerary Focused on History-Oriented Attractions in Philadelphia
+
+---
 
 #### Day 1:
 - **Accommodation:** 
-  - **Name:** The Dwight D
-  - **Address:** 256 S 16th St, Philadelphia, PA
+  - **Name:** Alexander Inn
+  - **Address:** 301 S 12th St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $$ 
+  - **Quality:** Average quality
+  - **Location:** Excellent location
+  - **Service:** Good service
+  - **Safety:** Average safety
 
 - **Breakfast:** 
-  - **Name:** Cafe Diem
-  - **Address:** 1031 S 8th St, Philadelphia, PA
+  - **Name:** Brown Street Coffee & Bánhery
+  - **Address:** 2545 Brown St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $
+  - **Good for Meal:** Lunch, brunch, breakfast
 
 - **Morning Attraction:** 
-  - **Name:** Arch Street Meeting House
-  - **Address:** 320 Arch St, Philadelphia, PA
+  - **Name:** Academy of Natural Sciences
+  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$$
+  - **Attraction Type:** Museums
 
 - **Lunch:** 
   - **Name:** Pho 20
   - **Address:** 234-236 N 10th St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $
+  - **Good for Meal:** Late night, lunch, dinner
 
 - **Afternoon Attraction:** 
-  - **Name:** Benjamin Franklin Museum
-  - **Address:** 317 Chestnut St, Philadelphia, PA
+  - **Name:** Independence Hall
+  - **Address:** 520 Chestnut St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** Free
+  - **Attraction Type:** Landmarks & Historical Buildings
 
 - **Dinner:** 
-  - **Name:** Pho 75
-  - **Address:** 1122 Washington Ave, Philadelphia, PA
+  - **Name:** Al-Sham Restaurant
+  - **Address:** 6738 Bustleton Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$
+  - **Good for Meal:** Lunch, dinner
 
 - **Night Attraction:** 
-  - **Name:** A Love Letter for You
-  - **Address:** Market St, Philadelphia, PA
+  - **Name:** Historic Philadelphia, Inc.
+  - **Address:** 101 S 3rd St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** Free
+  - **Attraction Type:** Tours
 
 ---
 
@@ -35,93 +61,165 @@
 - **Accommodation:** 
   - **Name:** The Dwight D
   - **Address:** 256 S 16th St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $$
+  - **Quality:** Good quality
+  - **Location:** Excellent location
+  - **Service:** Good service
+  - **Safety:** Excellent safety
 
 - **Breakfast:** 
-  - **Name:** Cafe Nhan
-  - **Address:** 1606 W Passyunk Ave, Philadelphia, PA
+  - **Name:** Cafe Diem
+  - **Address:** 1031 S 8th St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $
+  - **Good for Meal:** Lunch
 
 - **Morning Attraction:** 
-  - **Name:** Academy of Natural Sciences
-  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
+  - **Name:** Benjamin Franklin Museum
+  - **Address:** 317 Chestnut St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$
+  - **Attraction Type:** Museums
 
 - **Lunch:** 
-  - **Name:** Hummus Grill
-  - **Address:** 3931 Walnut St, Philadelphia, PA
+  - **Name:** Pho 75
+  - **Address:** 823 Adams Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $
+  - **Good for Meal:** Lunch, dinner
 
 - **Afternoon Attraction:** 
-  - **Name:** Independence Hall
-  - **Address:** 520 Chestnut St, Philadelphia, PA
+  - **Name:** Independence Beer Garden
+  - **Address:** 100 S Independence Mall W, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** Free
+  - **Attraction Type:** Parks
 
 - **Dinner:** 
-  - **Name:** Pho Street
-  - **Address:** 2104 Market St, Philadelphia, PA
+  - **Name:** Kabobeesh
+  - **Address:** 4201 Chestnut St, Philadelphia, PA
+  - **Stars:** 3.5
+  - **Price:** $$
+  - **Good for Meal:** Lunch, dinner
 
 - **Night Attraction:** 
-  - **Name:** Wissahickon Valley Trail
-  - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
+  - **Name:** Philadelphia Museum of Art
+  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** Free on certain days
+  - **Attraction Type:** Museums
 
 ---
 
 #### Day 3:
 - **Accommodation:** 
-  - **Name:** The Dwight D
-  - **Address:** 256 S 16th St, Philadelphia, PA
+  - **Name:** Home2 Suites by Hilton Philadelphia - Convention Center
+  - **Address:** 1200 Arch St, Philadelphia, PA
+  - **Stars:** 3.5
+  - **Price:** $$
+  - **Quality:** Average quality
+  - **Location:** Excellent location
+  - **Service:** Average service
+  - **Safety:** Good safety
 
 - **Breakfast:** 
-  - **Name:** QT Vietnamese Sandwich
-  - **Address:** 48 N 10th St, Philadelphia, PA
+  - **Name:** Cafe Nhan
+  - **Address:** 1606 W Passyunk Ave, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $
+  - **Good for Meal:** Lunch
 
 - **Morning Attraction:** 
-  - **Name:** Old City District
-  - **Address:** Philadelphia, PA
-
-- **Lunch:** 
-  - **Name:** Le Viet Restaurant
-  - **Address:** 1019 S 11th St, Philadelphia, PA
-
-- **Afternoon Attraction:** 
   - **Name:** Arch Street Meeting House
   - **Address:** 320 Arch St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** Free
+  - **Attraction Type:** Landmarks & Historical Buildings
+
+- **Lunch:** 
+  - **Name:** Nam Phuong
+  - **Address:** 1100 Washington Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$
+  - **Good for Meal:** Lunch, dinner
+
+- **Afternoon Attraction:** 
+  - **Name:** The Liberty Bell Center
+  - **Address:** 526 Market St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** Free
+  - **Attraction Type:** Landmarks & Historical Buildings
 
 - **Dinner:** 
   - **Name:** Pho 75
-  - **Address:** 823 Adams Ave, Philadelphia, PA
+  - **Address:** 1122 Washington Ave, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $$
+  - **Good for Meal:** Lunch, dinner
 
 - **Night Attraction:** 
-  - **Name:** Woodmere Art Museum
-  - **Address:** 9201 Germantown Ave, Philadelphia, PA
+  - **Name:** Yards Brewing Company
+  - **Address:** 500 Spring Garden St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** Free
+  - **Attraction Type:** Local Flavor
 
 ---
 
 #### Day 4:
 - **Accommodation:** 
-  - **Name:** The Dwight D
-  - **Address:** 256 S 16th St, Philadelphia, PA
+  - **Name:** The Conwell Inn
+  - **Address:** 1331 Pollet Walk, Philadelphia, PA
+  - **Stars:** 3.5
+  - **Price:** $$
+  - **Quality:** Average quality
+  - **Location:** Excellent location
+  - **Service:** Good service
+  - **Safety:** Good safety
 
 - **Breakfast:** 
-  - **Name:** Brown Street Coffee & Bánhery
-  - **Address:** 2545 Brown St, Philadelphia, PA
+  - **Name:** Street Side
+  - **Address:** 165 W Girard Ave, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $
+  - **Good for Meal:** Lunch, dinner
 
 - **Morning Attraction:** 
-  - **Name:** Fairmount Water Works
-  - **Address:** 640 Waterworks Dr, Philadelphia, PA
+  - **Name:** Philadelphia Zoo
+  - **Address:** 3400 W Girard Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$$
+  - **Attraction Type:** Zoos
 
 - **Lunch:** 
-  - **Name:** Pho 20
-  - **Address:** 234-236 N 10th St, Philadelphia, PA
+  - **Name:** Thang Long Pho Restaurant
+  - **Address:** 2534-36 Kensington Ave, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $$
+  - **Good for Meal:** Lunch, dinner
 
 - **Afternoon Attraction:** 
-  - **Name:** Philadelphia Museum of Art
-  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
+  - **Name:** Weccacoe Playground
+  - **Address:** 400 Catharine St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** Free
+  - **Attraction Type:** Parks
 
 - **Dinner:** 
-  - **Name:** Pho 75
-  - **Address:** 1122 Washington Ave, Philadelphia, PA
+  - **Name:** Vientiane Café
+  - **Address:** 4728 Baltimore Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$
+  - **Good for Meal:** Dinner
 
 - **Night Attraction:** 
-  - **Name:** Wissahickon Park
-  - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA
+  - **Name:** Rittenhouse Square Park
+  - **Address:** 1800 Walnut St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** Free
+  - **Attraction Type:** Parks
 
 ---
 
-This itinerary focuses on history-oriented attractions, includes Vietnamese restaurant recommendations, and suggests accommodations with good safety ratings, all while maintaining a budget-friendly approach. Enjoy your trip!
+This itinerary provides a balanced mix of history-oriented attractions, Vietnamese dining options, and accommodations with good safety ratings, all while keeping a budget-friendly approach. Enjoy your trip to Philadelphia!

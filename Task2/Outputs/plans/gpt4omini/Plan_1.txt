@@ -1,81 +1,96 @@
-### Travel Plan for a 3-Day Trip
+### Travel Plan for a 3-Day Trip in Philadelphia
 
 #### Day 1:
 - **Accommodation:** 
-  - **Name:** Alexander Inn
-    - **Address:** 301 S 12th St, Philadelphia, PA
+  - **Name:** Sleep Inn Center City
+    - **Address:** 1020 Cherry St, Philadelphia, PA
+
 - **Breakfast:** 
-  - **Name:** Mood Cafe
+  - **Name:** Mood Cafe 
     - **Address:** 4618 Baltimore Ave, Philadelphia, PA
+
 - **Morning Attraction:** 
-  - **Name:** Wissahickon Valley Trail
-    - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
+  - **Name:** Bartram's Garden 
+    - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA 
+
 - **Lunch:** 
-  - **Name:** Kabobeesh
-    - **Address:** 4201 Chestnut St, Philadelphia, PA
+  - **Name:** Amma's South Indian Cuisine 
+    - **Address:** 1518 Chestnut St, Philadelphia, PA 
+
 - **Afternoon Attraction:** 
-  - **Name:** Wissahickon Park
-    - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA
+  - **Name:** Wissahickon Valley Trail 
+    - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA 
+
 - **Dinner:** 
-  - **Name:** Amma's South Indian Cuisine
-    - **Address:** 1518 Chestnut St, Philadelphia, PA
+  - **Name:** Kabobeesh 
+    - **Address:** 4201 Chestnut St, Philadelphia, PA 
+
 - **Night Attraction:** 
-  - **Name:** Bloktoberfest
-    - **Address:** 17 Washington Ave, Philadelphia, PA
+  - **Name:** Yards Brewing Company 
+    - **Address:** 500 Spring Garden St, Philadelphia, PA 
 
 ---
 
 #### Day 2:
 - **Accommodation:** 
-  - **Name:** Alexander Inn
-    - **Address:** 301 S 12th St, Philadelphia, PA
+  - **Name:** Sleep Inn Center City
+    - **Address:** 1020 Cherry St, Philadelphia, PA
+
 - **Breakfast:** 
-  - **Name:** Little Sicily 2
+  - **Name:** Little Sicily 2 
     - **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA
+
 - **Morning Attraction:** 
-  - **Name:** Bartram's Garden
-    - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA
+  - **Name:** Belmont Plateau 
+    - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA 
+
 - **Lunch:** 
-  - **Name:** Thanal Indian Tavern
-    - **Address:** 1939 Arch St, Philadelphia, PA
+  - **Name:** Wah-Gi-Wah 
+    - **Address:** 4447 Chestnut St, Philadelphia, PA 
+
 - **Afternoon Attraction:** 
-  - **Name:** Blue Bell Park
-    - **Address:** 842 Walnut Ln, Philadelphia, PA
-  - **Name:** Weccacoe Playground
-    - **Address:** 400 Catharine St, Philadelphia, PA
+  - **Name:** Wissahickon Park 
+    - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA 
+
 - **Dinner:** 
-  - **Name:** Zaika
-    - **Address:** 2481 Grant Ave, Philadelphia, PA
+  - **Name:** Thanal Indian Tavern 
+    - **Address:** 1939 Arch St, Philadelphia, PA 
+
 - **Night Attraction:** 
-  - **Name:** Wonderspaces Philadelphia
-    - **Address:** 27 N 11th St, Philadelphia, PA
+  - **Name:** Wonderspaces Philadelphia 
+    - **Address:** 27 N 11th St, Philadelphia, PA 
 
 ---
 
 #### Day 3:
 - **Accommodation:** 
-  - **Name:** Alexander Inn
-    - **Address:** 301 S 12th St, Philadelphia, PA
+  - **Name:** Sleep Inn Center City
+    - **Address:** 1020 Cherry St, Philadelphia, PA
+
 - **Breakfast:** 
-  - **Name:** Karma Restaurant & Bar
-    - **Address:** 114 Chestnut St, Philadelphia, PA
-- **Morning Attraction:** 
-  - **Name:** Benjamin Franklin Museum
-    - **Address:** 317 Chestnut St, Philadelphia, PA
-- **Lunch:** 
-  - **Name:** Ekta Indian Cuisine
-    - **Address:** 1142 Crease St, Philadelphia, PA
-- **Afternoon Attraction:** 
-  - **Name:** Belmont Plateau
-    - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA
-- **Dinner:** 
-  - **Name:** New Delhi Indian Restaurant
+  - **Name:** New Delhi Indian Restaurant 
     - **Address:** 4004 Chestnut St, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** Blue Bell Park 
+    - **Address:** 842 Walnut Ln, Philadelphia, PA 
+
+- **Lunch:** 
+  - **Name:** Ekta Indian Cuisine 
+    - **Address:** 1142 Crease St, Philadelphia, PA 
+
+- **Afternoon Attraction:** 
+  - **Name:** Weccacoe Playground 
+    - **Address:** 400 Catharine St, Philadelphia, PA 
+
+- **Dinner:** 
+  - **Name:** Desi Chaat House 
+    - **Address:** 501 S 42nd St, Philadelphia, PA 
+
 - **Night Attraction:** 
-  - **Name:** Yards Brewing Company
-    - **Address:** 500 Spring Garden St, Philadelphia, PA
+  - **Name:** Bloktoberfest 
+    - **Address:** 17 Washington Ave, Philadelphia, PA 
 
 ---
 
-### Summary:
-This itinerary focuses on activity-oriented attractions while keeping a budget-friendly approach. The selected accommodations are centrally located, and the Indian restaurants chosen offer good flavor and value, ensuring a delightful culinary experience throughout your trip. Enjoy your adventure in Philadelphia!
+This itinerary focuses on activity-oriented attractions and includes Indian restaurants known for their good flavor and value, all while staying within a budget-friendly accommodation in a good location. Enjoy your trip!
