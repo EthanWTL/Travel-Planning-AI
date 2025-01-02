@@ -1,0 +1,78 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Caf\u00e9 Lift",
+                "address": "428 N 13th St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Awbury Arboretum",
+                    "address": "1 Awbury Rd, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Almaz Cafe",
+                "address": "140 S 20th St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Fairmount Water Works",
+                    "address": "640 Waterworks Dr, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "The Dandelion",
+                "address": "124 S 18th St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "The Dandelion",
+                "address": "124 S 18th St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Morris Arboretum",
+                    "address": "100 E Northwestern Ave, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Irish Pub",
+                "address": "2001 Walnut St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Wissahickon Valley Trail",
+                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "The Black Sheep",
+                "address": "247 S 17th St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Spruce Street Harbor Park",
+                    "address": "301 S Christopher Columbus Blvd, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA"
+            }
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Mood Cafe",
+                "address": "4618 Baltimore Ave, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Rittenhouse Square Park",
+                    "address": "1800 Walnut St, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Koreana",
+                "address": "3801 Chestnut St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Shops at Liberty Place",
+                    "address": "1625 Chestnut St, Philadelphia, PA"
+                },
+                {
+                    "name": "Walnut Street Shopping District",
+                    "address": "Walnut St, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Doma",
+                "address": "1822 Callowhill St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Philadelphia Flower Show",
+                    "address": "1101 Arch St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Franklin Residences",
+                "address": "834 Chestnut St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "1136 Arch St, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "K-POT Korean BBQ & Hot Pot",
+                "address": "789 Franklin Mills Cir, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Premium Outlets",
+                    "address": "18 W Lightcap Rd, Limerick, PA"
+                },
+                {
+                    "name": "King of Prussia Mall",
+                    "address": "160 N Gulph Rd, King of Prussia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Jong Ka Jib",
+                "address": "6600 N 5th St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Philadelphia Orchestra",
+                    "address": "300 S Broad St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "W Philadelphia",
+                "address": "1439 Chestnut St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "The Breakfast Boutique",
+                "address": "1001 S 2nd St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Andy's Chicken",
+                "address": "2001 Memphis St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Gallery at Market East",
+                    "address": "1000 Market St, Philadelphia, PA"
+                },
+                {
+                    "name": "South Street Headhouse District",
+                    "address": "2nd St & South St, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Thanal Indian Tavern",
+                "address": "1939 Arch St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Kimmel Center for the Performing Arts",
+                    "address": "300 S Broad St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Kimpton Hotel Palomar Philadelphia",
+                "address": "117 S 17th St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "The Dandelion",
+                "address": "124 S 18th St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The National Museum of American Jewish History",
+                    "address": "101 S Independence Mall E, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Masala Kitchen Kati Rolls and Platters",
+                "address": "1115 Walnut St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA"
+                },
+                {
+                    "name": "The M\u00fctter Museum",
+                    "address": "19 S 22nd St, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Wah-Gi-Wah",
+                "address": "4447 Chestnut St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1020 South St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA"
+            }
+        }
+    ]
+}

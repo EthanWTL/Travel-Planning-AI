@@ -1,0 +1,115 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Mood Cafe",
+                "address": "4618 Baltimore Ave, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Bartram's Garden",
+                    "address": "5400 Lindbergh Blvd, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Al-Sham Restaurant",
+                "address": "6738 Bustleton Ave, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Wissahickon Valley Trail",
+                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Kabobeesh",
+                "address": "4201 Chestnut St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Blue Cross RiverRink Winterfest",
+                    "address": "101 S Columbus Blvd, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Sleep Inn Center City",
+                "address": "1020 Cherry St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Belmont Plateau",
+                    "address": "2000 Belmont Mansion Dr, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Hummus Grill",
+                "address": "3931 Walnut St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Fairmount Water Works",
+                    "address": "640 Waterworks Dr, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Saad's Halal Restaurant",
+                "address": "4500 Walnut St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Fishtown Rivercity Festival",
+                    "address": "1199 N Delaware Ave, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Sleep Inn Center City",
+                "address": "1020 Cherry St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Franky Bradley's",
+                "address": "1320 Chancellor St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Academy of Natural Sciences",
+                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Dizengoff",
+                "address": "1625 Sansom St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Sahara Grill",
+                "address": "1334 Walnut St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Rittenhouse Square Park",
+                    "address": "1800 Walnut St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Sleep Inn Center City",
+                "address": "1020 Cherry St, Philadelphia, PA"
+            }
+        }
+    ]
+}

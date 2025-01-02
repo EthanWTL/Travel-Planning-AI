@@ -1,0 +1,78 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Brown Street Coffee & B\u00e1nhery",
+                "address": "2545 Brown St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Academy of Natural Sciences",
+                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Al-Sham Restaurant",
+                "address": "6738 Bustleton Ave, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Wissahickon Valley Trail",
+                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Zorba's Taverna",
+                "address": "2230 Fairmount Ave, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Yards Brewing Company",
+                    "address": "500 Spring Garden St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Dwight D",
+                "address": "256 S 16th St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe Diem",
+                "address": "1031 S 8th St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Bartram's Garden",
+                    "address": "5400 Lindbergh Blvd, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Kabobeesh",
+                "address": "4201 Chestnut St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Wissahickon Park",
+                    "address": "Lincoln Dr & Rittenhouse Ln, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Little Pete's Restaurant",
+                "address": "2401 Pennsylvania Ave, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Philadelphia Flower Show",
+                    "address": "1101 Arch St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Dwight D",
+                "address": "256 S 16th St, Philadelphia, PA"
+            }
+        }
+    ]
+}

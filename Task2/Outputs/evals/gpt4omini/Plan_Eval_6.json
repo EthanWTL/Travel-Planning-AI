@@ -1,0 +1,152 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Brown Street Coffee & B\u00e1nhery",
+                "address": "2545 Brown St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Academy of Natural Sciences",
+                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Pho 20",
+                "address": "234-236 N 10th St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Al-Sham Restaurant",
+                "address": "6738 Bustleton Ave, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Historic Philadelphia, Inc.",
+                    "address": "101 S 3rd St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe Diem",
+                "address": "1031 S 8th St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Benjamin Franklin Museum",
+                    "address": "317 Chestnut St, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Pho 75",
+                "address": "823 Adams Ave, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Independence Beer Garden",
+                    "address": "100 S Independence Mall W, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Kabobeesh",
+                "address": "4201 Chestnut St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Dwight D",
+                "address": "256 S 16th St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Cafe Nhan",
+                "address": "1606 W Passyunk Ave, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Arch Street Meeting House",
+                    "address": "320 Arch St, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Nam Phuong",
+                "address": "1100 Washington Ave, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Liberty Bell Center",
+                    "address": "526 Market St, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Pho 75",
+                "address": "1122 Washington Ave, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Yards Brewing Company",
+                    "address": "500 Spring Garden St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Home2 Suites by Hilton Philadelphia - Convention Center",
+                "address": "1200 Arch St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "Street Side",
+                "address": "165 W Girard Ave, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Thang Long Pho Restaurant",
+                "address": "2534-36 Kensington Ave, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Weccacoe Playground",
+                    "address": "400 Catharine St, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Vientiane Caf\u00e9",
+                "address": "4728 Baltimore Ave, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Rittenhouse Square Park",
+                    "address": "1800 Walnut St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Conwell Inn",
+                "address": "1331 Pollet Walk, Philadelphia, PA"
+            }
+        }
+    ]
+}

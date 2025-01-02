@@ -1,0 +1,115 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Mood Cafe",
+                "address": "4618 Baltimore Ave, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Bartram's Garden",
+                    "address": "5400 Lindbergh Blvd, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Amma's South Indian Cuisine",
+                "address": "1518 Chestnut St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Wissahickon Valley Trail",
+                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Kabobeesh",
+                "address": "4201 Chestnut St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Yards Brewing Company",
+                    "address": "500 Spring Garden St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Sleep Inn Center City",
+                "address": "1020 Cherry St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Little Sicily 2",
+                "address": "1608 S Christopher Columbus Blvd, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Belmont Plateau",
+                    "address": "2000 Belmont Mansion Dr, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Wah-Gi-Wah",
+                "address": "4447 Chestnut St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Wissahickon Park",
+                    "address": "Lincoln Dr & Rittenhouse Ln, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Thanal Indian Tavern",
+                "address": "1939 Arch St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Wonderspaces Philadelphia",
+                    "address": "27 N 11th St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Sleep Inn Center City",
+                "address": "1020 Cherry St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "New Delhi Indian Restaurant",
+                "address": "4004 Chestnut St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Blue Bell Park",
+                    "address": "842 Walnut Ln, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Ekta Indian Cuisine",
+                "address": "1142 Crease St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Weccacoe Playground",
+                    "address": "400 Catharine St, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Desi Chaat House",
+                "address": "501 S 42nd St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Bloktoberfest",
+                    "address": "17 Washington Ave, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Sleep Inn Center City",
+                "address": "1020 Cherry St, Philadelphia, PA"
+            }
+        }
+    ]
+}
