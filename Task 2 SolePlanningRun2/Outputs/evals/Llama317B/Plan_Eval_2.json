@@ -1,0 +1,152 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Green Street Coffee Co.",
+                "address": "1101 Spruce St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Pat's King of Steaks",
+                "address": "1237 E Passyunk Ave, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
+                }
+            ],
+            "dinner": {
+                "name": "Distrito",
+                "address": "3945 Chestnut St, Philadelphia, PA 19104"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Franklin Square Mini Golf",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "The Bakeshop on 20th",
+                "address": "269 S 20th St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "The Good King Tavern",
+                "address": "614 S 7th St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Aqimero",
+                "address": "10 Avenue Of The Arts, Philadelphia, PA 19102"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1020 South St, Philadelphia, PA 19147"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "The Tasty Toast",
+                "address": "1320 Point Breeze Ave, Philadelphia, PA 19148"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Eastern State Penitentiary",
+                    "address": "2027 Fairmount Ave, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "The Love",
+                "address": "130 S 18th St, Philadelphia, PA 19103"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The One Liberty Observation Deck",
+                    "address": "1650 Market St, Philadelphia, PA 19103"
+                }
+            ],
+            "dinner": {
+                "name": "The Olde Bar",
+                "address": "125 Walnut St, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Kimmel Center for the Performing Arts",
+                    "address": "300 S Broad St, Philadelphia, PA 19102"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "The Green Line Cafe",
+                "address": "4239 Baltimore Ave, Philadelphia, PA 19104"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA 19104"
+                }
+            ],
+            "lunch": {
+                "name": "The Tasty",
+                "address": "1401 S 12th St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Franklin Square",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "The Tria Cafe Rittenhouse",
+                "address": "123 S 18th St, Philadelphia, PA 19103"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Rittenhouse Row Spring Festival",
+                    "address": "18th St & Walnut St, Philadelphia, PA 19103"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        }
+    ]
+}

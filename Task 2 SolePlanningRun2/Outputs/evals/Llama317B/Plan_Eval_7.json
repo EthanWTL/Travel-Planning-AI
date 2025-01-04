@@ -1,0 +1,78 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Green Street Coffee Co.",
+                "address": "1101 Spruce St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Pat's King of Steaks",
+                "address": "1237 E Passyunk Ave, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
+                }
+            ],
+            "dinner": {
+                "name": "Distrito",
+                "address": "3945 Chestnut St, Philadelphia, PA 19104"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Franklin Institute Science Museum",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                }
+            ],
+            "accommodation": {
+                "name": "Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe Diem",
+                "address": "1031 S 8th St, Philadelphia, PA 19147"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Bistro La Baia",
+                "address": "1700 Lombard St, Philadelphia, PA 19146"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
+                }
+            ],
+            "dinner": {
+                "name": "Barbuzzo",
+                "address": "110 S 13th St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Kimmel Center for the Performing Arts",
+                    "address": "300 S Broad St, Philadelphia, PA 19102"
+                }
+            ],
+            "accommodation": {
+                "name": "Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        }
+    ]
+}

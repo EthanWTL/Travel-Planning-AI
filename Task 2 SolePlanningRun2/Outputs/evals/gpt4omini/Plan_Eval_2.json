@@ -1,0 +1,168 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19147"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA 19104"
+                }
+            ],
+            "lunch": {
+                "name": "Jim's South St",
+                "address": "400 S St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Franklin Square",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Philadelphia's Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
+                }
+            ],
+            "dinner": {
+                "name": "Estia",
+                "address": "1405 Locust St, Philadelphia, PA 19102"
+            },
+            "night_attractions": [
+                {
+                    "name": "Spruce Street Harbor Park",
+                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Academy of Natural Sciences",
+                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA 19103"
+                }
+            ],
+            "lunch": {
+                "name": "Al Zaytouna",
+                "address": "906 Christian St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                },
+                {
+                    "name": "Rocky Steps",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Zorba's Taverna",
+                "address": "2230 Fairmount Ave, Philadelphia, PA 19130"
+            },
+            "night_attractions": [
+                {
+                    "name": "Blue Cross RiverRink Winterfest",
+                    "address": "101 S Columbus Blvd, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Cafe Diem",
+                "address": "1031 S 8th St, Philadelphia, PA 19147"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Reading Terminal Market",
+                "address": "51 N 12th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Effie's Restaurant",
+                "address": "1127 Pine St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "The Breakfast Boutique",
+                "address": "8630 Germantown Ave, Philadelphia, PA 19118"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Please Touch Museum",
+                    "address": "4231 Ave Of The Republic, Philadelphia, PA 19131"
+                }
+            ],
+            "lunch": {
+                "name": "Little Pete's Restaurant",
+                "address": "2401 Pennsylvania Ave, Philadelphia, PA 19130"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                },
+                {
+                    "name": "Morris Arboretum",
+                    "address": "100 E Northwestern Ave, Philadelphia, PA 19118"
+                }
+            ],
+            "dinner": {
+                "name": "Johnny Brenda's",
+                "address": "1201 Frankford Ave, Philadelphia, PA 19125"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Philadelphia Orchestra",
+                    "address": "300 S Broad St, Philadelphia, PA 19146"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}

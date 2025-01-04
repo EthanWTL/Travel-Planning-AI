@@ -1,0 +1,115 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Green Street Coffee Co.",
+                "address": "1101 Spruce St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St"
+                }
+            ],
+            "lunch": {
+                "name": "Pat's King of Steaks",
+                "address": "1237 E Passyunk Ave"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St"
+                }
+            ],
+            "dinner": {
+                "name": "Distrito",
+                "address": "3945 Chestnut St"
+            },
+            "night_attractions": [
+                {
+                    "name": "McGillin's Olde Ale House",
+                    "address": "1310 Drury St"
+                }
+            ],
+            "accommodation": {
+                "name": "AKA Rittenhouse Square",
+                "address": "135 S 18th St"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe Square One",
+                "address": "50 S 3rd St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Eastern State Penitentiary",
+                    "address": "2027 Fairmount Ave"
+                }
+            ],
+            "lunch": {
+                "name": "El Camino Real",
+                "address": "1040 N 2nd St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "One Liberty Observation Deck",
+                    "address": "1650 Market St"
+                }
+            ],
+            "dinner": {
+                "name": "Barbuzzo",
+                "address": "110 S 13th St"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Franklin Institute Science Museum",
+                    "address": "222 N 20th St"
+                }
+            ],
+            "accommodation": {
+                "name": "Aloft Philadelphia Downtown",
+                "address": "101 North Broad St"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Barnes Foundation",
+                    "address": "2025 Benjamin Franklin Pkwy"
+                }
+            ],
+            "lunch": {
+                "name": "Pizzeria Vetri",
+                "address": "1939 Callowhill St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1020 South St"
+                }
+            ],
+            "dinner": {
+                "name": "El Merkury",
+                "address": "2104 Chestnut St"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Franklin Square Mini Golf",
+                    "address": "200 N 6th St"
+                }
+            ],
+            "accommodation": {
+                "name": "The Study at University City",
+                "address": "20 S 33rd St"
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Bindi",
+                "address": "1628 Walnut St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St"
+                }
+            ],
+            "lunch": {
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Elfreth's Alley",
+                    "address": "126 Elfreths Aly"
+                }
+            ],
+            "dinner": {
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Franklin Square Mini Golf",
+                    "address": "200 N 6th St"
+                }
+            ],
+            "accommodation": {
+                "name": "AKA Rittenhouse Square",
+                "address": "135 S 18th St"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Liberty Bell Center",
+                    "address": "6th St & Chestnut St"
+                }
+            ],
+            "lunch": {
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Reading Terminal Market",
+                    "address": "51 N 12th St"
+                }
+            ],
+            "dinner": {
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
+            },
+            "night_attractions": [
+                {
+                    "name": "The One Liberty Observation Deck",
+                    "address": "1650 Market St"
+                }
+            ],
+            "accommodation": {
+                "name": "AKA University City",
+                "address": "2929 Walnut St"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Eastern State Penitentiary",
+                    "address": "2027 Fairmount Ave"
+                }
+            ],
+            "lunch": {
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy"
+                }
+            ],
+            "dinner": {
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Magic Gardens",
+                    "address": "1020 South St"
+                }
+            ],
+            "accommodation": {
+                "name": "AKA Philadelphia Historic District",
+                "address": "400 Arch St"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Independence Seaport Museum",
+                    "address": "211 S Columbus Blvd"
+                }
+            ],
+            "lunch": {
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Philadelphia Zoo",
+                    "address": "3400 W Girard Ave"
+                }
+            ],
+            "dinner": {
+                "name": "B\u00e1nh M\u00ec Cali",
+                "address": "900 Arch St"
+            },
+            "night_attractions": [
+                {
+                    "name": "The One Liberty Observation Deck",
+                    "address": "1650 Market St"
+                }
+            ],
+            "accommodation": {
+                "name": "AKA Rittenhouse Square",
+                "address": "135 S 18th St"
+            }
+        }
+    ]
+}

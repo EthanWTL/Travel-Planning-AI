@@ -1,0 +1,33 @@
+Please generate a detailed travel itinerary for a 2-day trip with an expensive budget. The plan should focus on history-oriented attractions, include recommendations for Vietnamese restaurants, and suggest accommodations that prioritize good safety, quality, and service. All relevant business information will be provided following. Ensure that all recommendations are presented in chronological order with their addresses. Be concise and well-structured. Please be aware of optimization of the routes of attractions for each day as well as the whole plan 
+----- Example Starts -----
+Day X:
+- Accommodation: 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Breakfast: 
+  - Name: XXXX 
+    Address: XXXX, XXXX
+
+- Morning Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Lunch: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Afternoon Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Dinner: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Night Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+----- Example Ends -----

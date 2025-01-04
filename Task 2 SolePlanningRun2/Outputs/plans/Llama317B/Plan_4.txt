@@ -1,0 +1,239 @@
+Based on the provided data, here is a suggested 3-day itinerary for a budget-friendly trip to Philadelphia:
+
+Day 1:
+
+* Accommodation: 
+  - Name: Alexander Inn
+  - Address: 301 S 12th St
+  - Latitude: 39.946396818
+  - Longitude: -75.160966948
+  - Stars: 4.5
+  - Price: $$$
+  - Quality: average
+  - Location: excellent
+  - Service: good
+  - Safety: average
+* Breakfast: 
+  - Name: Green Eggs Cafe
+  - Address: 1306 Dickinson St
+  - Latitude: 39.931348
+  - Longitude: -75.166497
+  - Stars: 4.0
+  - Price: $$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: breakfast
+* Morning Attraction: 
+  - Name: Independence Hall
+  - Address: 520 Chestnut St
+  - Latitude: 39.9488980012
+  - Longitude: -75.1500296367
+  - Stars: 4.5
+  - Price: free
+  - Type: landmark
+  - History: high
+  - Activity: low
+  - Nature: low
+  - Food: low
+  - Shopping: low
+* Lunch: 
+  - Name: Pat's King of Steaks
+  - Address: 1237 E Passyunk Ave
+  - Latitude: 39.9332010583
+  - Longitude: -75.159265814
+  - Stars: 3.0
+  - Price: $
+  - Quality: average
+  - Location: good
+  - Service: average
+  - Food: cheesesteaks
+* Afternoon Attraction: 
+  - Name: Reading Terminal Market
+  - Address: 51 N 12th St
+  - Latitude: 39.9533414645
+  - Longitude: -75.1588545174
+  - Stars: 4.5
+  - Price: free
+  - Type: market
+  - History: high
+  - Activity: medium
+  - Nature: low
+  - Food: high
+  - Shopping: high
+* Dinner: 
+  - Name: Distrito
+  - Address: 3945 Chestnut St
+  - Latitude: 39.9558813
+  - Longitude: -75.2020031
+  - Stars: 3.5
+  - Price: $$
+  - Quality: average
+  - Location: good
+  - Service: average
+  - Food: Mexican
+* Night Attraction: 
+  - Name: South Street
+  - Address: 2nd and Lombard St
+  - Latitude: 39.942175
+  - Longitude: -75.145318
+  - Stars: 4.0
+  - Price: free
+  - Type: street
+  - History: medium
+  - Activity: high
+  - Nature: low
+  - Food: high
+  - Shopping: high
+
+Day 2:
+
+* Breakfast: 
+  - Name: Cafe Diem
+  - Address: 1031 S 8th St
+  - Latitude: 39.9362435
+  - Longitude: -75.15667
+  - Stars: 4.5
+  - Price: $$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: breakfast
+* Morning Attraction: 
+  - Name: Eastern State Penitentiary
+  - Address: 2027 Fairmount Ave
+  - Latitude: 39.9683684
+  - Longitude: -75.1726552
+  - Stars: 4.0
+  - Price: $$
+  - Type: prison
+  - History: high
+  - Activity: medium
+  - Nature: low
+  - Food: low
+  - Shopping: low
+* Lunch: 
+  - Name: Bistro La Baia
+  - Address: 1700 Lombard St
+  - Latitude: 39.945162
+  - Longitude: -75.1702591
+  - Stars: 3.5
+  - Price: $$
+  - Quality: average
+  - Location: good
+  - Service: average
+  - Food: Italian
+* Afternoon Attraction: 
+  - Name: One Liberty Observation Deck
+  - Address: 1650 Market St
+  - Latitude: 39.955
+  - Longitude: -75.164
+  - Stars: 4.0
+  - Price: $$
+  - Type: observation deck
+  - History: low
+  - Activity: high
+  - Nature: low
+  - Food: low
+  - Shopping: high
+* Dinner: 
+  - Name: Barbuzzo
+  - Address: 110 S 13th St
+  - Latitude: 39.950007
+  - Longitude: -75.1621577
+  - Stars: 4.5
+  - Price: $$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: Italian
+* Night Attraction: 
+  - Name: Rittenhouse Square
+  - Address: 210 W Rittenhouse Sq
+  - Latitude: 39.9494
+  - Longitude: -75.1721
+  - Stars: 4.5
+  - Price: free
+  - Type: park
+  - History: low
+  - Activity: high
+  - Nature: high
+  - Food: low
+  - Shopping: high
+
+Day 3:
+
+* Breakfast: 
+  - Name: Cafe Square One
+  - Address: 50 S 3rd St
+  - Latitude: 39.9489068
+  - Longitude: -75.1460802
+  - Stars: 4.5
+  - Price: $$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: breakfast
+* Morning Attraction: 
+  - Name: The Franklin Institute
+  - Address: 222 N 20th St
+  - Latitude: 39.9582109
+  - Longitude: -75.1731373822
+  - Stars: 4.0
+  - Price: $$
+  - Type: museum
+  - History: high
+  - Activity: high
+  - Nature: low
+  - Food: low
+  - Shopping: high
+* Lunch: 
+  - Name: El Camino Real
+  - Address: 1040 N 2nd St
+  - Latitude: 39.9673004
+  - Longitude: -75.1403984
+  - Stars: 3.5
+  - Price: $$
+  - Quality: average
+  - Location: good
+  - Service: average
+  - Food: Mexican
+* Afternoon Attraction: 
+  - Name: The Barnes Foundation
+  - Address: 2025 Benjamin Franklin Pkwy
+  - Latitude: 39.9605399867
+  - Longitude: -75.1725628227
+  - Stars: 4.0
+  - Price: $$
+  - Type: museum
+  - History: high
+  - Activity: low
+  - Nature: low
+  - Food: low
+  - Shopping: high
+* Dinner: 
+  - Name: Fork
+  - Address: 306 Market St
+  - Latitude: 39.9500007
+  - Longitude: -75.146124
+  - Stars: 4.0
+  - Price: $$$
+  - Quality: good
+  - Location: good
+  - Service: good
+  - Food: American
+* Night Attraction: 
+  - Name: South Street Headhouse District
+  - Address: 2nd and Lombard St
+  - Latitude: 39.942175
+  - Longitude: -75.145318
+  - Stars: 4.0
+  - Price: free
+  - Type: district
+  - History: medium
+  - Activity: high
+  - Nature: low
+  - Food: high
+  - Shopping: high
+
+Note: The itinerary is just a suggestion and can be modified based on individual preferences and interests.

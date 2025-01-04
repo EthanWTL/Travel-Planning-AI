@@ -1,0 +1,168 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Cafe Lift",
+                "address": "428 N 13th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Banh Mi Cali",
+                "address": "900 Arch St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Independence National Historical Park",
+                    "address": "143 S 3rd St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Vietnam Cafe",
+                "address": "816 S 47th St, Philadelphia, PA 19143"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Betsy Ross House",
+                    "address": "239 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Pho 75",
+                "address": "1122 Washington Ave, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Franklin Square",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Cafe Saigon",
+                "address": "827 Adams Ave, Philadelphia, PA 19124"
+            },
+            "night_attractions": [
+                {
+                    "name": "Independence Beer Garden",
+                    "address": "100 S Independence Mall W, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "The Dutch",
+                "address": "1527 S 4th St, Philadelphia, PA 19147"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Eastern State Penitentiary",
+                    "address": "2027 Fairmount Ave, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "iPho Vietnamese Restaurant",
+                "address": "1921 Fairmount Ave, Philadelphia, PA 19130"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                },
+                {
+                    "name": "Rocky Steps",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Hardena/Waroeng Surabaya Restaurant",
+                "address": "1754 S Hicks St, Philadelphia, PA 19145"
+            },
+            "night_attractions": [
+                {
+                    "name": "Spruce Street Harbor Park",
+                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "The Bakeshop on 20th",
+                "address": "269 S 20th St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                }
+            ],
+            "lunch": {
+                "name": "Pho Street",
+                "address": "2104 Market St, Philadelphia, PA 19103"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Masonic Library and Museum of Pennsylvania",
+                    "address": "1 N Broad St, Philadelphia, PA 19107"
+                },
+                {
+                    "name": "The African American Museum in Philadelphia",
+                    "address": "701 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Suraya",
+                "address": "1528 Frankford Ave, Philadelphia, PA 19125"
+            },
+            "night_attractions": [
+                {
+                    "name": "Philadelphia's Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
+                }
+            ],
+            "accommodation": {
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}

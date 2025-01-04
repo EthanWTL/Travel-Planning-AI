@@ -1,0 +1,24 @@
+{
+    "day": [
+        "3 days"
+    ],
+    "price": [
+        "cheap budget"
+    ],
+    "attraction": [
+        "activity oriented"
+    ],
+    "cuisine": [
+        "Indian"
+    ],
+    "restaurants": [
+        "good flavor",
+        "good value"
+    ],
+    "hotel": [
+        "good location"
+    ],
+    "preference_count": [
+        7
+    ]
+}
