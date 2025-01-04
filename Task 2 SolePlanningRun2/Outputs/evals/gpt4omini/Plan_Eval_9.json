@@ -59,12 +59,12 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Please Touch Museum",
-                    "address": "4231 Avenue of the Republic, Philadelphia, PA 19131"
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 },
                 {
-                    "name": "Fairmount Park",
-                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                    "name": "Rocky Steps",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 }
             ],
             "dinner": {
@@ -73,8 +73,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "Blue Cross RiverRink Winterfest",
-                    "address": "101 S Columbus Blvd, Philadelphia, PA 19106"
+                    "name": "Boathouse Row",
+                    "address": "1 Boathouse Row, Philadelphia, PA 19130"
                 }
             ],
             "accommodation": {
@@ -109,13 +109,13 @@
                 }
             ],
             "dinner": {
-                "name": "Dizengoff",
-                "address": "1625 Sansom St, Philadelphia, PA 19103"
+                "name": "Alyan's Restaurant",
+                "address": "603 S 4th St, Philadelphia, PA 19147"
             },
             "night_attractions": [
                 {
-                    "name": "The Franklin Institute",
-                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                    "name": "Independence Beer Garden",
+                    "address": "100 S Independence Mall W, Philadelphia, PA 19106"
                 }
             ],
             "accommodation": {
@@ -131,22 +131,22 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Philadelphia Museum of Art",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "Please Touch Museum",
+                    "address": "4231 Ave Of The Republic, Philadelphia, PA 19131"
                 }
             ],
             "lunch": {
-                "name": "Alyan's Restaurant",
-                "address": "603 S 4th St, Philadelphia, PA 19147"
+                "name": "Kabobeesh",
+                "address": "4201 Chestnut St, Philadelphia, PA 19104"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Boathouse Row",
-                    "address": "1 Boathouse Row, Philadelphia, PA 19130"
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
                 },
                 {
-                    "name": "Schuylkill River Park",
-                    "address": "300 S 25th St, Philadelphia, PA 19146"
+                    "name": "Smith Memorial Playground & Playhouse",
+                    "address": "3500 Reservoir Dr, Philadelphia, PA 19121"
                 }
             ],
             "dinner": {
@@ -155,8 +155,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "The Philadelphia Orchestra",
-                    "address": "300 S Broad St, Philadelphia, PA 19146"
+                    "name": "Blue Cross RiverRink Winterfest",
+                    "address": "101 S Columbus Blvd, Philadelphia, PA 19106"
                 }
             ],
             "accommodation": {

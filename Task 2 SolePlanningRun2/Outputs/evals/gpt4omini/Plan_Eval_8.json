@@ -44,8 +44,8 @@
         {
             "days": "Day 2",
             "breakfast": {
-                "name": "Green Eggs Cafe",
-                "address": "1306 Dickinson St, Philadelphia, PA 19146"
+                "name": "Dottie\u2019s Donuts",
+                "address": "4529 Springfield Ave, Philadelphia, PA 19143"
             },
             "morning_attractions": [
                 {
@@ -85,8 +85,8 @@
         {
             "days": "Day 3",
             "breakfast": {
-                "name": "The Dutch",
-                "address": "1713 South St, Philadelphia, PA 19146"
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
             },
             "morning_attractions": [
                 {
@@ -95,8 +95,8 @@
                 }
             ],
             "lunch": {
-                "name": "Jim's South St",
-                "address": "400 S St, Philadelphia, PA 19147"
+                "name": "Banh Mi and Bottles",
+                "address": "712-14 S St, Philadelphia, PA 19147"
             },
             "afternoon_attractions": [
                 {
@@ -114,8 +114,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "The Philadelphia Orchestra",
-                    "address": "300 S Broad St, Philadelphia, PA 19102"
+                    "name": "Philadelphia's Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
                 }
             ],
             "accommodation": {

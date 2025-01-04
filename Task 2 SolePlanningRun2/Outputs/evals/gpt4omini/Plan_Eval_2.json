@@ -49,22 +49,22 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Academy of Natural Sciences",
-                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA 19103"
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 }
             ],
             "lunch": {
-                "name": "Al Zaytouna",
-                "address": "906 Christian St, Philadelphia, PA 19147"
+                "name": "Reading Terminal Market",
+                "address": "51 N 12th St, Philadelphia, PA 19107"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Philadelphia Museum of Art",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
                 },
                 {
-                    "name": "Rocky Steps",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "The Academy of Natural Sciences",
+                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA 19103"
                 }
             ],
             "dinner": {
@@ -73,8 +73,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "Blue Cross RiverRink Winterfest",
-                    "address": "101 S Columbus Blvd, Philadelphia, PA 19106"
+                    "name": "Boathouse Row",
+                    "address": "1 Boathouse Row, Philadelphia, PA 19130"
                 }
             ],
             "accommodation": {
@@ -95,27 +95,27 @@
                 }
             ],
             "lunch": {
-                "name": "Reading Terminal Market",
-                "address": "51 N 12th St, Philadelphia, PA 19107"
+                "name": "Campo's Philly Cheesesteaks",
+                "address": "214 Market St, Philadelphia, PA 19106"
             },
             "afternoon_attractions": [
                 {
-                    "name": "National Constitution Center",
-                    "address": "525 Arch St, Philadelphia, PA 19106"
-                },
-                {
                     "name": "Liberty Bell Center",
                     "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St, Philadelphia, PA 19106"
                 }
             ],
             "dinner": {
-                "name": "Effie's Restaurant",
-                "address": "1127 Pine St, Philadelphia, PA 19107"
+                "name": "Al Zaytouna",
+                "address": "906 Christian St, Philadelphia, PA 19147"
             },
             "night_attractions": [
                 {
-                    "name": "Ghost Tour of Philadelphia",
-                    "address": "5TH And Chestnut, Philadelphia, PA 19106"
+                    "name": "The Philadelphia Orchestra",
+                    "address": "300 S Broad St, Philadelphia, PA 19102"
                 }
             ],
             "accommodation": {
@@ -126,37 +126,37 @@
         {
             "days": "Day 4",
             "breakfast": {
-                "name": "The Breakfast Boutique",
-                "address": "8630 Germantown Ave, Philadelphia, PA 19118"
+                "name": "The Dutch",
+                "address": "1713 South St, Philadelphia, PA 19148"
             },
             "morning_attractions": [
                 {
-                    "name": "Please Touch Museum",
-                    "address": "4231 Ave Of The Republic, Philadelphia, PA 19131"
+                    "name": "The Betsy Ross House",
+                    "address": "239 Arch St, Philadelphia, PA 19106"
                 }
             ],
             "lunch": {
-                "name": "Little Pete's Restaurant",
-                "address": "2401 Pennsylvania Ave, Philadelphia, PA 19130"
+                "name": "The Dandelion",
+                "address": "124 S 18th St, Philadelphia, PA 19103"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Fairmount Park",
-                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                    "name": "The Franklin Square Mini Golf",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
                 },
                 {
-                    "name": "Morris Arboretum",
-                    "address": "100 E Northwestern Ave, Philadelphia, PA 19118"
+                    "name": "The National Liberty Museum",
+                    "address": "321 Chestnut St, Philadelphia, PA 19106"
                 }
             ],
             "dinner": {
-                "name": "Johnny Brenda's",
-                "address": "1201 Frankford Ave, Philadelphia, PA 19125"
+                "name": "Effie's Restaurant",
+                "address": "1127 Pine St, Philadelphia, PA 19107"
             },
             "night_attractions": [
                 {
-                    "name": "The Philadelphia Orchestra",
-                    "address": "300 S Broad St, Philadelphia, PA 19146"
+                    "name": "The Philadelphia Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
                 }
             ],
             "accommodation": {

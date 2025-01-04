@@ -63,13 +63,13 @@
                     "address": "525 Arch St, Philadelphia, PA 19106"
                 },
                 {
-                    "name": "Franklin Square",
-                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                    "name": "Museum of the American Revolution",
+                    "address": "101 S 3rd St, Philadelphia, PA 19106"
                 }
             ],
             "dinner": {
-                "name": "Cafe Saigon",
-                "address": "827 Adams Ave, Philadelphia, PA 19124"
+                "name": "Le Viet Restaurant",
+                "address": "1019 S 11th St, Philadelphia, PA 19147"
             },
             "night_attractions": [
                 {
@@ -85,8 +85,8 @@
         {
             "days": "Day 3",
             "breakfast": {
-                "name": "The Dutch",
-                "address": "1527 S 4th St, Philadelphia, PA 19147"
+                "name": "Cafe Diem",
+                "address": "1031 S 8th St, Philadelphia, PA 19147"
             },
             "morning_attractions": [
                 {
@@ -95,8 +95,8 @@
                 }
             ],
             "lunch": {
-                "name": "iPho Vietnamese Restaurant",
-                "address": "1921 Fairmount Ave, Philadelphia, PA 19130"
+                "name": "Jim's South St",
+                "address": "400 S St, Philadelphia, PA 19147"
             },
             "afternoon_attractions": [
                 {
@@ -114,8 +114,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "Spruce Street Harbor Park",
-                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
+                    "name": "Philadelphia's Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
                 }
             ],
             "accommodation": {
@@ -126,13 +126,13 @@
         {
             "days": "Day 4",
             "breakfast": {
-                "name": "The Bakeshop on 20th",
-                "address": "269 S 20th St, Philadelphia, PA 19103"
+                "name": "The Dutch",
+                "address": "1527 S 4th St, Philadelphia, PA 19147"
             },
             "morning_attractions": [
                 {
-                    "name": "The Franklin Institute",
-                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                    "name": "Franklin Square",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
                 }
             ],
             "lunch": {
@@ -141,22 +141,22 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "The Masonic Library and Museum of Pennsylvania",
-                    "address": "1 N Broad St, Philadelphia, PA 19107"
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
                 },
                 {
-                    "name": "The African American Museum in Philadelphia",
-                    "address": "701 Arch St, Philadelphia, PA 19106"
+                    "name": "The Masonic Library and Museum of Pennsylvania",
+                    "address": "1 N Broad St, Philadelphia, PA 19107"
                 }
             ],
             "dinner": {
-                "name": "Suraya",
-                "address": "1528 Frankford Ave, Philadelphia, PA 19125"
+                "name": "Tio Flores",
+                "address": "1600 South St, Philadelphia, PA 19146"
             },
             "night_attractions": [
                 {
-                    "name": "Philadelphia's Magic Gardens",
-                    "address": "1020 S St, Philadelphia, PA 19147"
+                    "name": "Spruce Street Harbor Park",
+                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
                 }
             ],
             "accommodation": {

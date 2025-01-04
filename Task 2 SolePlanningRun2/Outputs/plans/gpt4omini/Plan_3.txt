@@ -1,84 +1,74 @@
-### 2-Day Nature-Oriented Travel Itinerary in Philadelphia
+### 2-Day Nature-Oriented Itinerary in Philadelphia
 
 ---
 
 #### Day 1:
-- **Accommodation:**  
-  - **Name:** The Rittenhouse Hotel  
-    **Address:** 210 W Rittenhouse Sq, Philadelphia, PA 19103  
-    **Stars:** 4.0  
-    **Price:** $$$  
-    **Safety:** Good  
+- **Accommodation:**
+  - **Name:** Four Seasons Hotel Philadelphia at Comcast Center
+  - **Address:** 1 N 19th St, Philadelphia, PA 19103
 
-- **Breakfast:**  
-  - **Name:** Café La Maude  
-    **Address:** 816 N 4th St, Philadelphia, PA 19123  
-    **Cuisine:** Mediterranean/American  
+- **Breakfast:**
+  - **Name:** Café La Maude
+  - **Address:** 816 N 4th St, Philadelphia, PA 19123
 
-- **Morning Attraction:**  
-  - **Name:** Morris Arboretum  
-    **Address:** 100 E Northwestern Ave, Philadelphia, PA 19118  
-    **Stars:** 4.5  
-    **Type:** Botanical Gardens  
+- **Morning Attraction:**
+  - **Name:** Morris Arboretum
+  - **Address:** 100 E Northwestern Ave, Philadelphia, PA 19118
 
-- **Lunch:**  
-  - **Name:** The Dining Car & Market  
-    **Address:** 8826 Frankford Ave, Philadelphia, PA 19136  
-    **Cuisine:** American (Traditional)  
+- **Lunch:**
+  - **Name:** The Inn at Penn, a Hilton Hotel
+  - **Address:** 3600 Sansom St, Philadelphia, PA 19104
 
-- **Afternoon Attraction:**  
-  - **Name:** Fairmount Park  
-    **Address:** 4231 N Concourse Dr, Philadelphia, PA 19131  
-    **Stars:** 4.5  
-    **Type:** Parks  
+- **Afternoon Attraction:**
+  - **Name:** Fairmount Park
+  - **Address:** 4231 N Concourse Dr, Philadelphia, PA 19131
+  - **Name:** Schuylkill River Park
+  - **Address:** 300 S 25th St, Philadelphia, PA 19146
 
-- **Dinner:**  
-  - **Name:** The Capital Grille  
-    **Address:** 1338-46 Chestnut St, Philadelphia, PA 19107  
-    **Cuisine:** American (Traditional)  
+- **Dinner:**
+  - **Name:** The Dandelion
+  - **Address:** 124 S 18th St, Philadelphia, PA 19103
 
-- **Night Attraction:**  
-  - **Name:** Schuylkill River Park  
-    **Address:** 300 S 25th St, Philadelphia, PA 19146  
-    **Stars:** 4.5  
-    **Type:** Parks  
+- **Night Attraction:**
+  - **Name:** Spruce Street Harbor Park
+  - **Address:** 121 N Columbus Blvd, Philadelphia, PA 19106
 
 ---
 
 #### Day 2:
-- **Breakfast:**  
-  - **Name:** Green Eggs Café  
-    **Address:** 1306 Dickinson St, Philadelphia, PA 19146  
-    **Cuisine:** American (New)  
+- **Accommodation:**
+  - **Name:** Four Seasons Hotel Philadelphia at Comcast Center
+  - **Address:** 1 N 19th St, Philadelphia, PA 19103
 
-- **Morning Attraction:**  
-  - **Name:** John Heinz National Wildlife Refuge at Tinicum  
-    **Address:** 8601 Lindbergh Blvd, Philadelphia, PA 19153  
-    **Stars:** 4.5  
-    **Type:** Parks  
+- **Breakfast:**
+  - **Name:** Green Eggs Cafe
+  - **Address:** 1306 Dickinson St, Philadelphia, PA 19146
 
-- **Lunch:**  
-  - **Name:** Café Ynez  
-    **Address:** 2025 Washington Ave, Philadelphia, PA 19146  
-    **Cuisine:** Mexican  
+- **Morning Attraction:**
+  - **Name:** John Heinz National Wildlife Refuge at Tinicum
+  - **Address:** 8601 Lindbergh Blvd, Philadelphia, PA 19153
 
-- **Afternoon Attraction:**  
-  - **Name:** Wissahickon Valley Trail  
-    **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA 19128  
-    **Stars:** 4.5  
-    **Type:** Parks  
+- **Lunch:**
+  - **Name:** The Capital Grille
+  - **Address:** 1338-46 Chestnut St, Philadelphia, PA 19107
 
-- **Dinner:**  
-  - **Name:** The Dandelion  
-    **Address:** 124 S 18th St, Philadelphia, PA 19103  
-    **Cuisine:** British/American  
+- **Afternoon Attraction:**
+  - **Name:** Wissahickon Valley Park
+  - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA 19128
+  - **Name:** Awbury Arboretum
+  - **Address:** 1 Awbury Rd, Philadelphia, PA 19138
 
-- **Night Attraction:**  
-  - **Name:** Spruce Street Harbor Park  
-    **Address:** 121 N Columbus Blvd, Philadelphia, PA 19106  
-    **Stars:** 4.0  
-    **Type:** Parks  
+- **Dinner:**
+  - **Name:** Zahav
+  - **Address:** 237 St James Pl, Philadelphia, PA 19106
+
+- **Night Attraction:**
+  - **Name:** Philadelphia Museum of Art
+  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130
 
 ---
 
-This itinerary provides a luxurious experience focused on nature-oriented attractions, with high-quality dining options and safe accommodations. Enjoy your trip!
+### Notes:
+- **Safety:** The selected accommodations and restaurants are known for their good safety ratings.
+- **Route Optimization:** The attractions are organized to minimize travel time and maximize enjoyment of nature-oriented experiences.
+- **Budget:** This itinerary is designed for an expensive budget, featuring high-end accommodations and dining options.

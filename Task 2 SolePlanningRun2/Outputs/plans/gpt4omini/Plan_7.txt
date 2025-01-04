@@ -21,10 +21,10 @@
   - **Address:** 214 Market St, Philadelphia, PA 19106
 
 - **Afternoon Attraction:**
-  - **Name:** Independence Hall
-  - **Address:** 520 Chestnut St, Philadelphia, PA 19106
-  - **Name:** Liberty Bell Center
-  - **Address:** 6th St & Chestnut St, Philadelphia, PA 19106
+  - **Name:** Rocky Steps
+  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130
+  - **Name:** Boathouse Row
+  - **Address:** 1 Boathouse Row, Philadelphia, PA 19130
 
 - **Dinner:**
   - **Name:** Estia
@@ -47,35 +47,36 @@
   - **Address:** 428 N 13th St, Philadelphia, PA 19123
 
 - **Morning Attraction:**
-  - **Name:** Eastern State Penitentiary
-  - **Address:** 2027 Fairmount Ave, Philadelphia, PA 19130
+  - **Name:** Independence Hall
+  - **Address:** 520 Chestnut St, Philadelphia, PA 19106
 
 - **Lunch:**
+  - **Name:** Reading Terminal Market
+  - **Address:** 51 N 12th St, Philadelphia, PA 19107
+
+- **Afternoon Attraction:**
+  - **Name:** Liberty Bell Center
+  - **Address:** 6th St & Chestnut St, Philadelphia, PA 19106
+  - **Name:** National Constitution Center
+  - **Address:** 525 Arch St, Philadelphia, PA 19106
+
+- **Dinner:**
   - **Name:** Zahav
   - **Address:** 237 St James Pl, Philadelphia, PA 19106
 
-- **Afternoon Attraction:**
-  - **Name:** Philadelphia Zoo
-  - **Address:** 3400 W Girard Ave, Philadelphia, PA 19104
-  - **Name:** Fairmount Park
-  - **Address:** 4231 N Concourse Dr, Philadelphia, PA 19131
-
-- **Dinner:**
-  - **Name:** Amada
-  - **Address:** 217 Chestnut St, Philadelphia, PA 19106
-
 - **Night Attraction:**
-  - **Name:** The Philadelphia Orchestra
-  - **Address:** 300 S Broad St, Philadelphia, PA 19102
+  - **Name:** The Franklin Institute
+  - **Address:** 222 N 20th St, Philadelphia, PA 19103
 
 ---
 
 ### Summary of Recommendations:
-- **Accommodations:** Alexander Inn (average quality, excellent location, good service, average safety)
+- **Accommodations:** Alexander Inn (good safety, average quality, excellent location)
 - **Restaurants:** 
-  - Breakfast: Green Eggs Cafe, Cafe Lift
-  - Lunch: Campo's Philly Cheesesteaks, Zahav
-  - Dinner: Estia, Amada
-- **Attractions:** Philadelphia Museum of Art, Independence Hall, Liberty Bell Center, Eastern State Penitentiary, Philadelphia Zoo, Fairmount Park, Spruce Street Harbor Park, The Philadelphia Orchestra
+  - Day 1: Green Eggs Cafe, Campo's Philly Cheesesteaks, Estia
+  - Day 2: Cafe Lift, Reading Terminal Market, Zahav
+- **Attractions:** 
+  - Day 1: Philadelphia Museum of Art, Rocky Steps, Boathouse Row, Spruce Street Harbor Park
+  - Day 2: Independence Hall, Liberty Bell Center, National Constitution Center, The Franklin Institute
 
-This itinerary provides a balanced mix of cultural, historical, and culinary experiences while ensuring safety and comfort during your stay in Philadelphia. Enjoy your trip!
+This itinerary is designed to optimize your travel routes while ensuring a mix of cultural, historical, and culinary experiences in Philadelphia. Enjoy your trip!

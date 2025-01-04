@@ -1,4 +1,4 @@
-### 4-Day History-Oriented Travel Itinerary in Philadelphia
+### 4-Day History-Oriented Itinerary in Philadelphia
 
 ---
 
@@ -55,12 +55,12 @@
 - **Afternoon Attraction:** 
   - **Name:** National Constitution Center
   - **Address:** 525 Arch St, Philadelphia, PA 19106
-  - **Name:** Franklin Square
-  - **Address:** 200 N 6th St, Philadelphia, PA 19106
+  - **Name:** Museum of the American Revolution
+  - **Address:** 101 S 3rd St, Philadelphia, PA 19106
 
 - **Dinner:** 
-  - **Name:** Cafe Saigon
-  - **Address:** 827 Adams Ave, Philadelphia, PA 19124
+  - **Name:** Le Viet Restaurant
+  - **Address:** 1019 S 11th St, Philadelphia, PA 19147
 
 - **Night Attraction:** 
   - **Name:** Independence Beer Garden
@@ -74,16 +74,16 @@
   - **Address:** 301 S 12th St, Philadelphia, PA 19107
 
 - **Breakfast:** 
-  - **Name:** The Dutch
-  - **Address:** 1527 S 4th St, Philadelphia, PA 19147
+  - **Name:** Cafe Diem
+  - **Address:** 1031 S 8th St, Philadelphia, PA 19147
 
 - **Morning Attraction:** 
   - **Name:** Eastern State Penitentiary
   - **Address:** 2027 Fairmount Ave, Philadelphia, PA 19130
 
 - **Lunch:** 
-  - **Name:** iPho Vietnamese Restaurant
-  - **Address:** 1921 Fairmount Ave, Philadelphia, PA 19130
+  - **Name:** Jim's South St
+  - **Address:** 400 S St, Philadelphia, PA 19147
 
 - **Afternoon Attraction:** 
   - **Name:** Philadelphia Museum of Art
@@ -96,8 +96,8 @@
   - **Address:** 1754 S Hicks St, Philadelphia, PA 19145
 
 - **Night Attraction:** 
-  - **Name:** Spruce Street Harbor Park
-  - **Address:** 121 N Columbus Blvd, Philadelphia, PA 19106
+  - **Name:** Philadelphia's Magic Gardens
+  - **Address:** 1020 S St, Philadelphia, PA 19147
 
 ---
 
@@ -107,31 +107,34 @@
   - **Address:** 301 S 12th St, Philadelphia, PA 19107
 
 - **Breakfast:** 
-  - **Name:** The Bakeshop on 20th
-  - **Address:** 269 S 20th St, Philadelphia, PA 19103
+  - **Name:** The Dutch
+  - **Address:** 1527 S 4th St, Philadelphia, PA 19147
 
 - **Morning Attraction:** 
-  - **Name:** The Franklin Institute
-  - **Address:** 222 N 20th St, Philadelphia, PA 19103
+  - **Name:** Franklin Square
+  - **Address:** 200 N 6th St, Philadelphia, PA 19106
 
 - **Lunch:** 
   - **Name:** Pho Street
   - **Address:** 2104 Market St, Philadelphia, PA 19103
 
 - **Afternoon Attraction:** 
+  - **Name:** The Franklin Institute
+  - **Address:** 222 N 20th St, Philadelphia, PA 19103
   - **Name:** The Masonic Library and Museum of Pennsylvania
   - **Address:** 1 N Broad St, Philadelphia, PA 19107
-  - **Name:** The African American Museum in Philadelphia
-  - **Address:** 701 Arch St, Philadelphia, PA 19106
 
 - **Dinner:** 
-  - **Name:** Suraya
-  - **Address:** 1528 Frankford Ave, Philadelphia, PA 19125
+  - **Name:** Tio Flores
+  - **Address:** 1600 South St, Philadelphia, PA 19146
 
 - **Night Attraction:** 
-  - **Name:** Philadelphia's Magic Gardens
-  - **Address:** 1020 S St, Philadelphia, PA 19147
+  - **Name:** Spruce Street Harbor Park
+  - **Address:** 121 N Columbus Blvd, Philadelphia, PA 19106
 
 ---
 
-This itinerary provides a comprehensive exploration of Philadelphia's rich history while enjoying delicious Vietnamese cuisine and staying in a safe and budget-friendly accommodation. Enjoy your trip!
+### Notes:
+- **Transportation:** Consider using public transport or walking to optimize your routes.
+- **Budget:** All recommended restaurants and attractions are budget-friendly.
+- **Safety:** The selected accommodations and restaurants have good safety ratings.

@@ -13,50 +13,17 @@
                 }
             ],
             "lunch": {
-                "name": "The Dining Car & Market",
-                "address": "8826 Frankford Ave, Philadelphia, PA 19136"
+                "name": "The Inn at Penn, a Hilton Hotel",
+                "address": "3600 Sansom St, Philadelphia, PA 19104"
             },
             "afternoon_attractions": [
                 {
                     "name": "Fairmount Park",
                     "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
-                }
-            ],
-            "dinner": {
-                "name": "The Capital Grille",
-                "address": "1338-46 Chestnut St, Philadelphia, PA 19107"
-            },
-            "night_attractions": [
+                },
                 {
                     "name": "Schuylkill River Park",
                     "address": "300 S 25th St, Philadelphia, PA 19146"
-                }
-            ],
-            "accommodation": {
-                "name": "The Rittenhouse Hotel",
-                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
-            }
-        },
-        {
-            "days": "Day 2",
-            "breakfast": {
-                "name": "Green Eggs Caf\u00e9",
-                "address": "1306 Dickinson St, Philadelphia, PA 19146"
-            },
-            "morning_attractions": [
-                {
-                    "name": "John Heinz National Wildlife Refuge at Tinicum",
-                    "address": "8601 Lindbergh Blvd, Philadelphia, PA 19153"
-                }
-            ],
-            "lunch": {
-                "name": "Caf\u00e9 Ynez",
-                "address": "2025 Washington Ave, Philadelphia, PA 19146"
-            },
-            "afternoon_attractions": [
-                {
-                    "name": "Wissahickon Valley Trail",
-                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA 19128"
                 }
             ],
             "dinner": {
@@ -70,8 +37,49 @@
                 }
             ],
             "accommodation": {
-                "name": "The Rittenhouse Hotel",
-                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+                "name": "Four Seasons Hotel Philadelphia at Comcast Center",
+                "address": "1 N 19th St, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [
+                {
+                    "name": "John Heinz National Wildlife Refuge at Tinicum",
+                    "address": "8601 Lindbergh Blvd, Philadelphia, PA 19153"
+                }
+            ],
+            "lunch": {
+                "name": "The Capital Grille",
+                "address": "1338-46 Chestnut St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Wissahickon Valley Park",
+                    "address": "Lincoln Dr & Rittenhouse Ln, Philadelphia, PA 19128"
+                },
+                {
+                    "name": "Awbury Arboretum",
+                    "address": "1 Awbury Rd, Philadelphia, PA 19138"
+                }
+            ],
+            "dinner": {
+                "name": "Zahav",
+                "address": "237 St James Pl, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "accommodation": {
+                "name": "Four Seasons Hotel Philadelphia at Comcast Center",
+                "address": "1 N 19th St, Philadelphia, PA 19103"
             }
         }
     ]

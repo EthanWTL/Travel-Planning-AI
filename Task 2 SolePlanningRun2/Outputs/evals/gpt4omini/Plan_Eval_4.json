@@ -13,8 +13,8 @@
                 }
             ],
             "lunch": {
-                "name": "Jim's South St",
-                "address": "400 S St, Philadelphia, PA 19147"
+                "name": "Reading Terminal Market",
+                "address": "51 N 12th St, Philadelphia, PA 19107"
             },
             "afternoon_attractions": [
                 {
@@ -22,8 +22,8 @@
                     "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 },
                 {
-                    "name": "Fairmount Park",
-                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                    "name": "Boathouse Row",
+                    "address": "1 Boathouse Row, Philadelphia, PA 19130"
                 }
             ],
             "dinner": {
@@ -54,8 +54,8 @@
                 }
             ],
             "lunch": {
-                "name": "Al Zaytouna",
-                "address": "906 Christian St, Philadelphia, PA 19147"
+                "name": "Campo's Philly Cheesesteaks",
+                "address": "214 Market St, Philadelphia, PA 19106"
             },
             "afternoon_attractions": [
                 {
@@ -68,8 +68,8 @@
                 }
             ],
             "dinner": {
-                "name": "Al-Sham Restaurant",
-                "address": "6738 Bustleton Ave, Philadelphia, PA 19149"
+                "name": "Al Zaytouna",
+                "address": "906 Christian St, Philadelphia, PA 19147"
             },
             "night_attractions": [
                 {
@@ -85,13 +85,13 @@
         {
             "days": "Day 3",
             "breakfast": {
-                "name": "The Breakfast Boutique",
-                "address": "8630 Germantown Ave, Philadelphia, PA 19118"
+                "name": "The Dutch",
+                "address": "1527 S 4th St, Philadelphia, PA 19147"
             },
             "morning_attractions": [
                 {
-                    "name": "Eastern State Penitentiary",
-                    "address": "2027 Fairmount Ave, Philadelphia, PA 19130"
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
                 }
             ],
             "lunch": {
@@ -104,18 +104,18 @@
                     "address": "3400 W Girard Ave, Philadelphia, PA 19104"
                 },
                 {
-                    "name": "Schuylkill River Park",
-                    "address": "300 S 25th St, Philadelphia, PA 19146"
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
                 }
             ],
             "dinner": {
-                "name": "Zahav",
-                "address": "237 St James Pl, Philadelphia, PA 19106"
+                "name": "Alyan's Restaurant",
+                "address": "603 S 4th St, Philadelphia, PA 19147"
             },
             "night_attractions": [
                 {
-                    "name": "The Franklin Institute",
-                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                    "name": "Philadelphia's Magic Gardens",
+                    "address": "1020 S St, Philadelphia, PA 19147"
                 }
             ],
             "accommodation": {

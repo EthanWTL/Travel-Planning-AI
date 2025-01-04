@@ -18,12 +18,12 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Independence Hall",
-                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                    "name": "Rocky Steps",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 },
                 {
-                    "name": "Liberty Bell Center",
-                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                    "name": "Boathouse Row",
+                    "address": "1 Boathouse Row, Philadelphia, PA 19130"
                 }
             ],
             "dinner": {
@@ -49,32 +49,32 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Eastern State Penitentiary",
-                    "address": "2027 Fairmount Ave, Philadelphia, PA 19130"
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
                 }
             ],
             "lunch": {
-                "name": "Zahav",
-                "address": "237 St James Pl, Philadelphia, PA 19106"
+                "name": "Reading Terminal Market",
+                "address": "51 N 12th St, Philadelphia, PA 19107"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Philadelphia Zoo",
-                    "address": "3400 W Girard Ave, Philadelphia, PA 19104"
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
                 },
                 {
-                    "name": "Fairmount Park",
-                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St, Philadelphia, PA 19106"
                 }
             ],
             "dinner": {
-                "name": "Amada",
-                "address": "217 Chestnut St, Philadelphia, PA 19106"
+                "name": "Zahav",
+                "address": "237 St James Pl, Philadelphia, PA 19106"
             },
             "night_attractions": [
                 {
-                    "name": "The Philadelphia Orchestra",
-                    "address": "300 S Broad St, Philadelphia, PA 19102"
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
                 }
             ],
             "accommodation": {

@@ -1,0 +1,86 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Caf\u00e9 La Maude",
+                "address": "816 N 4th St, Philadelphia, PA 19123"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Banh Mi Cali",
+                "address": "900 Arch St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Zahav",
+                "address": "237 St James Pl, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Green Eggs Cafe",
+                "address": "1306 Dickinson St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Vietnam Cafe",
+                "address": "816 S 47th St, Philadelphia, PA 19143"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Eastern State Penitentiary",
+                    "address": "2027 Fairmount Ave, Philadelphia, PA 19130"
+                },
+                {
+                    "name": "The Betsy Ross House",
+                    "address": "239 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Amada",
+                "address": "217 Chestnut St, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "Independence Beer Garden",
+                    "address": "100 S Independence Mall W, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
+            }
+        }
+    ]
+}
