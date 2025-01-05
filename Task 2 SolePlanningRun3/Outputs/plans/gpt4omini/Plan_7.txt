@@ -16,18 +16,18 @@
   - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130
 
 - **Lunch:**
-  - **Name:** Estia
-  - **Address:** 1405 Locust St, Philadelphia, PA 19102
+  - **Name:** South Street Souvlaki
+  - **Address:** 509 South St, Philadelphia, PA 19147
 
 - **Afternoon Attraction:**
+  - **Name:** Eastern State Penitentiary Historic Site
+  - **Address:** 2027 Fairmount Ave, Philadelphia, PA 19130
   - **Name:** Franklin Square Mini Golf
   - **Address:** 200 N 6th St, Philadelphia, PA 19106
-  - **Name:** National Constitution Center
-  - **Address:** 525 Arch St, Philadelphia, PA 19106
 
 - **Dinner:**
-  - **Name:** Zorba's Taverna
-  - **Address:** 2230 Fairmount Ave, Philadelphia, PA 19130
+  - **Name:** Estia
+  - **Address:** 1405 Locust St, Philadelphia, PA 19102
 
 - **Night Attraction:**
   - **Name:** Spruce Street Harbor Park
@@ -58,8 +58,8 @@
   - **Address:** 1 Boathouse Row, Philadelphia, PA 19130
 
 - **Dinner:**
-  - **Name:** Moustaki Authentic Gyros
-  - **Address:** 161 N 21st St, Philadelphia, PA 19103
+  - **Name:** Zorba's Taverna
+  - **Address:** 2230 Fairmount Ave, Philadelphia, PA 19130
 
 - **Night Attraction:**
   - **Name:** Ghost Tour of Philadelphia
@@ -69,7 +69,7 @@
 
 ### Summary of Recommendations:
 - **Accommodations:** Holiday Inn Express Philadelphia-Midtown for safety and convenience.
-- **Greek Restaurants:** Estia, Zorba's Taverna, Greek Lady, and Moustaki Authentic Gyros for authentic Greek cuisine.
-- **Attractions:** Focus on activity-oriented attractions like the Philadelphia Museum of Art, Franklin Square Mini Golf, and the Philadelphia Zoo, ensuring a mix of culture and fun.
+- **Greek Restaurants:** Estia, Greek Lady, and Zorba's Taverna for authentic Greek cuisine.
+- **Attractions:** Focus on activity-oriented attractions like the Philadelphia Museum of Art, Eastern State Penitentiary, and the Philadelphia Zoo, ensuring a mix of culture and fun.
 
 This itinerary is designed to optimize travel routes and ensure a fulfilling experience in Philadelphia while maintaining a moderate budget. Enjoy your trip!

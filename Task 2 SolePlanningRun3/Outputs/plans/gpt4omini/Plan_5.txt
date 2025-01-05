@@ -50,7 +50,7 @@
 
 - **Lunch:**  
   - **Name:** Pho 75  
-  - **Address:** 1122 Washington Ave, Philadelphia, PA 19147  
+  - **Address:** 823 Adams Ave, Philadelphia, PA 19124  
 
 - **Afternoon Attractions:**  
   - **Name:** National Constitution Center  
@@ -92,12 +92,12 @@
   - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130  
 
 - **Dinner:**  
-  - **Name:** iPho Vietnamese Restaurant  
-  - **Address:** 1921 Fairmount Ave, Philadelphia, PA 19130  
+  - **Name:** Pho 20  
+  - **Address:** 234-236 N 10th St, Philadelphia, PA 19107  
 
 - **Night Attraction:**  
-  - **Name:** Philadelphia Segway Tours By Wheel Fun Rentals  
-  - **Address:** 1 N Independence Mall W, Philadelphia, PA 19106  
+  - **Name:** The Mütter Museum  
+  - **Address:** 19 S 22nd St, Philadelphia, PA 19103  
 
 ---
 
@@ -115,18 +115,18 @@
   - **Address:** 200 N 6th St, Philadelphia, PA 19106  
 
 - **Lunch:**  
-  - **Name:** Pho & Cafe Saigon  
-  - **Address:** 4248 Spruce St, Philadelphia, PA 19104  
+  - **Name:** Jim's South St  
+  - **Address:** 400 S St, Philadelphia, PA 19147  
 
 - **Afternoon Attractions:**  
   - **Name:** The Franklin Institute Science Museum  
   - **Address:** 222 N 20th St, Philadelphia, PA 19103  
-  - **Name:** The Mütter Museum  
-  - **Address:** 19 S 22nd St, Philadelphia, PA 19103  
+  - **Name:** The Barnes Foundation  
+  - **Address:** 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130  
 
 - **Dinner:**  
-  - **Name:** Thang Long Pho Restaurant  
-  - **Address:** 2534-36 Kensington Ave, Philadelphia, PA 19134  
+  - **Name:** Pho & Cafe Saigon  
+  - **Address:** 4248 Spruce St, Philadelphia, PA 19104  
 
 - **Night Attraction:**  
   - **Name:** The Philadelphia Orchestra  

@@ -22,8 +22,8 @@
                     "address": "599 Market St, Philadelphia, PA 19106"
                 },
                 {
-                    "name": "Liberty Bell Center",
-                    "address": "526 Market St, Philadelphia, PA 19106"
+                    "name": "Independence Beer Garden",
+                    "address": "100 S Independence Mall W, Philadelphia, PA 19106"
                 }
             ],
             "dinner": {
@@ -44,13 +44,13 @@
         {
             "days": "Day 2",
             "breakfast": {
-                "name": "Little Sicily 2",
-                "address": "1608 S Christopher Columbus Blvd, Philadelphia, PA 19148"
+                "name": "Mood Cafe",
+                "address": "4618 Baltimore Ave, Philadelphia, PA 19143"
             },
             "morning_attractions": [
                 {
-                    "name": "Rocky Steps",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
                 }
             ],
             "lunch": {
@@ -63,8 +63,8 @@
                     "address": "1 Boathouse Row, Philadelphia, PA 19130"
                 },
                 {
-                    "name": "Fairmount Park",
-                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                    "name": "Schuylkill River Park",
+                    "address": "300 S 25th St, Philadelphia, PA 19103"
                 }
             ],
             "dinner": {
@@ -73,8 +73,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "Schuylkill River Park",
-                    "address": "300 S 25th St, Philadelphia, PA 19103"
+                    "name": "Night Market",
+                    "address": "1617 John F Kennedy Blvd, Philadelphia, PA 19103"
                 }
             ],
             "accommodation": {
@@ -85,13 +85,13 @@
         {
             "days": "Day 3",
             "breakfast": {
-                "name": "Mood Cafe",
-                "address": "4618 Baltimore Ave, Philadelphia, PA 19143"
+                "name": "Little Sicily 2",
+                "address": "1608 S Christopher Columbus Blvd, Philadelphia, PA 19148"
             },
             "morning_attractions": [
                 {
-                    "name": "Fairmount Park",
-                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                    "name": "Rocky Steps",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 }
             ],
             "lunch": {
@@ -104,8 +104,8 @@
                     "address": "919 S 9th St, Philadelphia, PA 19147"
                 },
                 {
-                    "name": "South Street Headhouse District",
-                    "address": "2nd And Lombard St, Philadelphia, PA 19147"
+                    "name": "Cherry Street Pier",
+                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
                 }
             ],
             "dinner": {
@@ -114,8 +114,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "Night Market",
-                    "address": "1617 John F Kennedy Blvd, Philadelphia, PA 19103"
+                    "name": "The Oval",
+                    "address": "Eakins Oval, Philadelphia, PA 19130"
                 }
             ],
             "accommodation": {

@@ -2,28 +2,28 @@
 
 ---
 
-#### **Day 1: Historical Exploration**
+#### Day 1:
 - **Accommodation:**  
   - **Name:** Independence Park Hotel, Bw Premier Collection  
   - **Address:** 235 Chestnut St, Philadelphia, PA 19106  
 
 - **Breakfast:**  
-  - **Name:** Reading Terminal Market  
-  - **Address:** 51 N 12th St, Philadelphia, PA 19107  
+  - **Name:** Goldie  
+  - **Address:** 1526 Sansom St, Philadelphia, PA 19102  
 
 - **Morning Attraction:**  
   - **Name:** Independence Hall  
   - **Address:** 520 Chestnut St, Philadelphia, PA 19106  
 
 - **Lunch:**  
-  - **Name:** Jim's South St  
-  - **Address:** 400 S St, Philadelphia, PA 19147  
+  - **Name:** Hummus Grill  
+  - **Address:** 3931 Walnut St, Philadelphia, PA 19104  
 
 - **Afternoon Attraction:**  
   - **Name:** Liberty Bell Center  
   - **Address:** 6th St & Chestnut St, Philadelphia, PA 19106  
-  - **Name:** Benjamin Franklin Museum  
-  - **Address:** 317 Chestnut St, Philadelphia, PA 19106  
+  - **Name:** Independence National Historical Park  
+  - **Address:** 143 S 3rd St, Philadelphia, PA 19106  
 
 - **Dinner:**  
   - **Name:** Al Zaytouna  
@@ -35,7 +35,7 @@
 
 ---
 
-#### **Day 2: Parks and Nature**
+#### Day 2:
 - **Accommodation:**  
   - **Name:** Independence Park Hotel, Bw Premier Collection  
   - **Address:** 235 Chestnut St, Philadelphia, PA 19106  
@@ -45,55 +45,55 @@
   - **Address:** 12th St & Arch St, Philadelphia, PA 19107  
 
 - **Morning Attraction:**  
-  - **Name:** Fairmount Park  
-  - **Address:** 4231 N Concourse Dr, Philadelphia, PA 19131  
+  - **Name:** Philadelphia's Magic Gardens  
+  - **Address:** 1020 S St, Philadelphia, PA 19147  
 
 - **Lunch:**  
-  - **Name:** Hummus Grill  
-  - **Address:** 3931 Walnut St, Philadelphia, PA 19104  
-
-- **Afternoon Attraction:**  
-  - **Name:** Bartram's Garden  
-  - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA 19143  
-  - **Name:** Awbury Arboretum  
-  - **Address:** 1 Awbury Rd, Philadelphia, PA 19138  
-
-- **Dinner:**  
   - **Name:** Dizengoff  
   - **Address:** 1625 Sansom St, Philadelphia, PA 19103  
 
+- **Afternoon Attraction:**  
+  - **Name:** The Betsy Ross House  
+  - **Address:** 239 Arch St, Philadelphia, PA 19106  
+  - **Name:** National Liberty Museum  
+  - **Address:** 321 Chestnut St, Philadelphia, PA 19106  
+
+- **Dinner:**  
+  - **Name:** Al-Sham Restaurant  
+  - **Address:** 6738 Bustleton Ave, Philadelphia, PA 19149  
+
 - **Night Attraction:**  
-  - **Name:** Race Street Pier  
-  - **Address:** Race St & N Columbus Blvd, Philadelphia, PA 19106  
+  - **Name:** Philadelphia Urban Adventures  
+  - **Address:** 229 Arch St, Philadelphia, PA 19106  
 
 ---
 
-#### **Day 3: Arts and Culture**
+#### Day 3:
 - **Accommodation:**  
   - **Name:** Independence Park Hotel, Bw Premier Collection  
   - **Address:** 235 Chestnut St, Philadelphia, PA 19106  
 
 - **Breakfast:**  
-  - **Name:** Goldie  
-  - **Address:** 1526 Sansom St, Philadelphia, PA 19102  
+  - **Name:** Lee's Deli  
+  - **Address:** 4700 Baltimore Ave, Philadelphia, PA 19143  
 
 - **Morning Attraction:**  
-  - **Name:** Philadelphia's Magic Gardens  
-  - **Address:** 1020 S St, Philadelphia, PA 19147  
+  - **Name:** Fairmount Park  
+  - **Address:** 4231 N Concourse Dr, Philadelphia, PA 19131  
 
 - **Lunch:**  
-  - **Name:** Bitar's  
-  - **Address:** 947 Federal St, Philadelphia, PA 19147  
-
-- **Afternoon Attraction:**  
-  - **Name:** National Liberty Museum  
-  - **Address:** 321 Chestnut St, Philadelphia, PA 19106  
-  - **Name:** Mural Arts Philadelphia  
-  - **Address:** 128 N Broad St, Philadelphia, PA 19102  
-
-- **Dinner:**  
   - **Name:** Kabobeesh  
   - **Address:** 4201 Chestnut St, Philadelphia, PA 19104  
+
+- **Afternoon Attraction:**  
+  - **Name:** Philadelphia Museum of Art (Rocky Steps)  
+  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130  
+  - **Name:** Boathouse Row  
+  - **Address:** 1 Boathouse Row, Philadelphia, PA 19130  
+
+- **Dinner:**  
+  - **Name:** Sahara Grill  
+  - **Address:** 1334 Walnut St, Philadelphia, PA 19107  
 
 - **Night Attraction:**  
   - **Name:** The Philadelphia Orchestra  
@@ -101,37 +101,37 @@
 
 ---
 
-#### **Day 4: Fun and Relaxation**
+#### Day 4:
 - **Accommodation:**  
   - **Name:** Independence Park Hotel, Bw Premier Collection  
   - **Address:** 235 Chestnut St, Philadelphia, PA 19106  
 
 - **Breakfast:**  
-  - **Name:** The Porch At 30th Street Station  
-  - **Address:** 2955 Market St, Philadelphia, PA 19104  
+  - **Name:** John's Water Ice  
+  - **Address:** 701 Christian St, Philadelphia, PA 19147  
 
 - **Morning Attraction:**  
-  - **Name:** Smith Memorial Playground & Playhouse  
-  - **Address:** 3500 Reservoir Dr, Philadelphia, PA 19121  
+  - **Name:** Awbury Arboretum  
+  - **Address:** 1 Awbury Rd, Philadelphia, PA 19138  
 
 - **Lunch:**  
-  - **Name:** Saad's Halal Restaurant  
-  - **Address:** 4500 Walnut St, Philadelphia, PA 19139  
+  - **Name:** Alyan's Restaurant  
+  - **Address:** 603 S 4th St, Philadelphia, PA 19147  
 
 - **Afternoon Attraction:**  
-  - **Name:** Schuylkill River Park  
-  - **Address:** 300 S 25th St, Philadelphia, PA 19103  
-  - **Name:** Kelly Drive  
-  - **Address:** 10 Kelly Dr, Philadelphia, PA 19130  
+  - **Name:** Bartram's Garden  
+  - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA 19143  
+  - **Name:** John Heinz National Wildlife Refuge at Tinicum  
+  - **Address:** 8601 Lindbergh Blvd, Philadelphia, PA 19153  
 
 - **Dinner:**  
-  - **Name:** Sahara Grill  
-  - **Address:** 1334 Walnut St, Philadelphia, PA 19107  
+  - **Name:** The Halal Guys  
+  - **Address:** 1016 Race St, Philadelphia, PA 19107  
 
 - **Night Attraction:**  
-  - **Name:** Penn's Landing  
-  - **Address:** 601 N Christopher Columbus Blvd, Philadelphia, PA 19123  
+  - **Name:** Race Street Pier  
+  - **Address:** Race St & N Columbus Blvd, Philadelphia, PA 19106  
 
 ---
 
-This itinerary provides a balanced mix of historical, cultural, and recreational activities suitable for families, while also ensuring budget-friendly dining options and accommodations. Enjoy your trip to Philadelphia!
+This itinerary provides a balanced mix of family-oriented attractions, delicious Middle Eastern dining options, and comfortable accommodations, all while keeping budget considerations in mind. Enjoy your trip to Philadelphia!

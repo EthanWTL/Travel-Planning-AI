@@ -13,22 +13,22 @@
                 }
             ],
             "lunch": {
-                "name": "Estia",
-                "address": "1405 Locust St, Philadelphia, PA 19102"
+                "name": "South Street Souvlaki",
+                "address": "509 South St, Philadelphia, PA 19147"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Franklin Square Mini Golf",
-                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                    "name": "Eastern State Penitentiary Historic Site",
+                    "address": "2027 Fairmount Ave, Philadelphia, PA 19130"
                 },
                 {
-                    "name": "National Constitution Center",
-                    "address": "525 Arch St, Philadelphia, PA 19106"
+                    "name": "Franklin Square Mini Golf",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
                 }
             ],
             "dinner": {
-                "name": "Zorba's Taverna",
-                "address": "2230 Fairmount Ave, Philadelphia, PA 19130"
+                "name": "Estia",
+                "address": "1405 Locust St, Philadelphia, PA 19102"
             },
             "night_attractions": [
                 {
@@ -68,8 +68,8 @@
                 }
             ],
             "dinner": {
-                "name": "Moustaki Authentic Gyros",
-                "address": "161 N 21st St, Philadelphia, PA 19103"
+                "name": "Zorba's Taverna",
+                "address": "2230 Fairmount Ave, Philadelphia, PA 19130"
             },
             "night_attractions": [
                 {

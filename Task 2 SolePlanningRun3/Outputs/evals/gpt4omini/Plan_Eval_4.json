@@ -8,8 +8,8 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Independence Visitor Center",
-                    "address": "599 Market St, Philadelphia, PA"
+                    "name": "Benjamin Franklin Museum",
+                    "address": "317 Chestnut St, Philadelphia, PA"
                 }
             ],
             "lunch": {
@@ -18,12 +18,8 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Benjamin Franklin Museum",
-                    "address": "317 Chestnut St, Philadelphia, PA"
-                },
-                {
-                    "name": "Mural Arts Philadelphia",
-                    "address": "128 N Broad St, Philadelphia, PA"
+                    "name": "Independence Visitor Center",
+                    "address": "599 Market St, Philadelphia, PA"
                 }
             ],
             "dinner": {
@@ -49,8 +45,8 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Fairmount Park",
-                    "address": "4231 N Concourse Dr, Philadelphia, PA"
+                    "name": "Boathouse Row",
+                    "address": "1 Boathouse Row, Philadelphia, PA"
                 }
             ],
             "lunch": {
@@ -59,12 +55,8 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Schuylkill River Park",
-                    "address": "300 S 25th St, Philadelphia, PA"
-                },
-                {
-                    "name": "Boathouse Row",
-                    "address": "1 Boathouse Row, Philadelphia, PA"
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr, Philadelphia, PA"
                 }
             ],
             "dinner": {
@@ -73,8 +65,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "Penn's Landing",
-                    "address": "601 N Christopher Columbus Blvd, Philadelphia, PA"
+                    "name": "Schuylkill River Park",
+                    "address": "300 S 25th St, Philadelphia, PA"
                 }
             ],
             "accommodation": {
@@ -90,32 +82,28 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Bartram's Garden",
-                    "address": "5400 Lindbergh Blvd, Philadelphia, PA"
+                    "name": "Rittenhouse Square Park",
+                    "address": "1800 Walnut St, Philadelphia, PA"
                 }
             ],
             "lunch": {
-                "name": "Alyan's Restaurant",
-                "address": "603 S 4th St, Philadelphia, PA"
+                "name": "Saad's Halal Restaurant",
+                "address": "4500 Walnut St, Philadelphia, PA"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Cira Green",
-                    "address": "80 S 30th St, Philadelphia, PA"
-                },
-                {
-                    "name": "Race Street Pier",
-                    "address": "Race St & N Columbus Blvd, Philadelphia, PA"
+                    "name": "Mural Arts Philadelphia",
+                    "address": "128 N Broad St, Philadelphia, PA"
                 }
             ],
             "dinner": {
-                "name": "Sahara Grill",
-                "address": "1334 Walnut St, Philadelphia, PA"
+                "name": "Al-Sham Restaurant",
+                "address": "6738 Bustleton Ave, Philadelphia, PA"
             },
             "night_attractions": [
                 {
-                    "name": "Fishtown Rivercity Festival",
-                    "address": "1199 N Delaware Ave, Philadelphia, PA"
+                    "name": "Penn's Landing",
+                    "address": "601 N Christopher Columbus Blvd, Philadelphia, PA"
                 }
             ],
             "accommodation": {

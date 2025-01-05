@@ -8,13 +8,13 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Academy of Natural Sciences",
-                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA 19103"
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
                 }
             ],
             "lunch": {
-                "name": "Fergie's Pub",
-                "address": "1214 Sansom St, Philadelphia, PA 19107"
+                "name": "The Plough & the Stars",
+                "address": "123 Chestnut St, Philadelphia, PA 19106"
             },
             "afternoon_attractions": [
                 {
@@ -22,23 +22,23 @@
                     "address": "640 Waterworks Dr, Philadelphia, PA 19130"
                 },
                 {
-                    "name": "Philadelphia Museum of Art",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "Morris Arboretum",
+                    "address": "100 E Northwestern Ave, Philadelphia, PA 19118"
                 }
             ],
             "dinner": {
-                "name": "The Plough & the Stars",
-                "address": "123 Chestnut St, Philadelphia, PA 19106"
+                "name": "Fergie's Pub",
+                "address": "1214 Sansom St, Philadelphia, PA 19107"
             },
             "night_attractions": [
                 {
-                    "name": "Cherry Street Pier",
+                    "name": "Spruce Street Harbor Park",
                     "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
                 }
             ],
             "accommodation": {
-                "name": "The Franklin Residences",
-                "address": "834 Chestnut St, Philadelphia, PA 19107"
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             }
         },
         {
@@ -49,8 +49,8 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Morris Arboretum",
-                    "address": "100 E Northwestern Ave, Philadelphia, PA 19118"
+                    "name": "Awbury Arboretum",
+                    "address": "1 Awbury Rd, Philadelphia, PA 19138"
                 }
             ],
             "lunch": {
@@ -59,12 +59,12 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Awbury Arboretum",
-                    "address": "1 Awbury Rd, Philadelphia, PA 19138"
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA 19104"
                 },
                 {
                     "name": "Lemon Hill Mansion",
-                    "address": "1 Lemon Hill Dr, Philadelphia, PA 19130"
+                    "address": "1 Lemon Hill Dr, Philadelphia, PA 19131"
                 }
             ],
             "dinner": {
@@ -73,13 +73,13 @@
             },
             "night_attractions": [
                 {
-                    "name": "Spruce Street Harbor Park",
-                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
+                    "name": "Benjamin Franklin Bridge",
+                    "address": "US 676, Philadelphia, PA 19106"
                 }
             ],
             "accommodation": {
-                "name": "The Franklin Residences",
-                "address": "834 Chestnut St, Philadelphia, PA 19107"
+                "name": "The Rittenhouse Hotel",
+                "address": "210 W Rittenhouse Sq, Philadelphia, PA 19103"
             }
         }
     ]

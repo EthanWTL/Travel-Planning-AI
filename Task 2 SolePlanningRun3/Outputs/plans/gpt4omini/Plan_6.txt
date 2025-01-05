@@ -27,7 +27,7 @@
 
 - **Dinner:**  
   - **Name:** Pho 75  
-  - **Address:** 1122 Washington Ave, Philadelphia, PA 19147  
+  - **Address:** 823 Adams Ave, Philadelphia, PA 19124  
 
 - **Night Attraction:**  
   - **Name:** Ghost Tour of Philadelphia  
@@ -55,8 +55,8 @@
 - **Afternoon Attractions:**  
   - **Name:** National Liberty Museum  
   - **Address:** 321 Chestnut St, Philadelphia, PA 19106  
-  - **Name:** Christ Church Burial Ground  
-  - **Address:** 20 N American St, Philadelphia, PA 19106  
+  - **Name:** Congress Hall  
+  - **Address:** 6TH Chestnut St, Philadelphia, PA 19106  
 
 - **Dinner:**  
   - **Name:** Jim's South St  
@@ -78,26 +78,26 @@
   - **Address:** 1606 W Passyunk Ave, Philadelphia, PA 19145  
 
 - **Morning Attraction:**  
-  - **Name:** Benjamin Franklin Museum  
-  - **Address:** 317 Chestnut St, Philadelphia, PA 19106  
+  - **Name:** Edgar Allan Poe House  
+  - **Address:** 532 N 7th St, Philadelphia, PA 19123  
 
 - **Lunch:**  
+  - **Name:** Pho 20  
+  - **Address:** 234-236 N 10th St, Philadelphia, PA 19107  
+
+- **Afternoon Attractions:**  
+  - **Name:** Benjamin Franklin Museum  
+  - **Address:** 317 Chestnut St, Philadelphia, PA 19106  
+  - **Name:** Christ Church Burial Ground  
+  - **Address:** 20 N American St, Philadelphia, PA 19106  
+
+- **Dinner:**  
   - **Name:** Le Viet Restaurant  
   - **Address:** 1019 S 11th St, Philadelphia, PA 19147  
 
-- **Afternoon Attractions:**  
-  - **Name:** Congress Hall  
-  - **Address:** 6TH Chestnut St, Philadelphia, PA 19106  
-  - **Name:** The President's House  
-  - **Address:** 600 Market St, Philadelphia, PA 19106  
-
-- **Dinner:**  
-  - **Name:** Pho & Cafe Saigon  
-  - **Address:** 4248 Spruce St, Philadelphia, PA 19104  
-
 - **Night Attraction:**  
-  - **Name:** Free Tours By Foot  
-  - **Address:** 20 N 3rd St, Ste 201, Philadelphia, PA 19106  
+  - **Name:** Philadelphia Urban Adventures  
+  - **Address:** 229 Arch St, Philadelphia, PA 19106  
 
 ---
 
@@ -111,27 +111,27 @@
   - **Address:** 827 Adams Ave, Philadelphia, PA 19124  
 
 - **Morning Attraction:**  
-  - **Name:** Elfreth's Alley  
-  - **Address:** 126 Elfreths Aly, Philadelphia, PA 19106  
+  - **Name:** The Constitutional Walking Tour  
+  - **Address:** 525 Arch St, Philadelphia, PA 19106  
 
 - **Lunch:**  
   - **Name:** Thang Long Pho Restaurant  
   - **Address:** 2534-36 Kensington Ave, Philadelphia, PA 19134  
 
 - **Afternoon Attractions:**  
-  - **Name:** National Museum of American Jewish History  
-  - **Address:** 101 S Independence Mall E, Philadelphia, PA 19106  
-  - **Name:** Polish American Cultural Center  
-  - **Address:** 308 Walnut St, Philadelphia, PA 19106  
+  - **Name:** The United States Mint  
+  - **Address:** 151 N Independence Mall E, Philadelphia, PA 19106  
+  - **Name:** The Signer's Garden  
+  - **Address:** 498 Chestnut St, Philadelphia, PA 19106  
 
 - **Dinner:**  
-  - **Name:** Pho 20  
-  - **Address:** 234-236 N 10th St, Philadelphia, PA 19103  
+  - **Name:** Pho & Cafe Saigon  
+  - **Address:** 4248 Spruce St, Philadelphia, PA 19104  
 
 - **Night Attraction:**  
-  - **Name:** Philadelphia Urban Adventures  
-  - **Address:** 229 Arch St, Philadelphia, PA 19106  
+  - **Name:** Mummers Museum  
+  - **Address:** 1100 S 2nd St, Philadelphia, PA 19147  
 
 ---
 
-This itinerary provides a comprehensive exploration of Philadelphia's rich history while keeping budget and safety in mind. Enjoy your trip!
+This itinerary provides a comprehensive exploration of Philadelphia's rich history while keeping budget considerations in mind. Enjoy your trip!

@@ -73,8 +73,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "Night Market",
-                    "address": "1617 John F Kennedy Blvd, Philadelphia, PA 19103"
+                    "name": "The Oval",
+                    "address": "Eakins Oval, Philadelphia, PA 19130"
                 }
             ],
             "accommodation": {
@@ -100,22 +100,22 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "The Rocky Steps",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "Mural Arts Philadelphia",
+                    "address": "128 N Broad St, Philadelphia, PA 19102"
                 },
                 {
-                    "name": "The Rocky Statue",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                    "name": "City Hall",
+                    "address": "1450 John F Kennedy Blvd, Philadelphia, PA 19102"
                 }
             ],
             "dinner": {
-                "name": "Han Dynasty",
-                "address": "123 Chestnut St, Philadelphia, PA 19106"
+                "name": "Sang Kee Peking Duck House",
+                "address": "238 N 9th St, Philadelphia, PA 19106"
             },
             "night_attractions": [
                 {
-                    "name": "Mural Arts Philadelphia",
-                    "address": "128 N Broad St, Philadelphia, PA 19102"
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
                 }
             ],
             "accommodation": {

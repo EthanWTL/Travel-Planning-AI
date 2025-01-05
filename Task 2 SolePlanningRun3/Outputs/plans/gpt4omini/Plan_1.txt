@@ -22,8 +22,8 @@
 - **Afternoon Attraction:**  
   - **Name:** Independence Visitor Center  
   - **Address:** 599 Market St, Philadelphia, PA 19106  
-  - **Name:** Liberty Bell Center  
-  - **Address:** 526 Market St, Philadelphia, PA 19106  
+  - **Name:** Independence Beer Garden  
+  - **Address:** 100 S Independence Mall W, Philadelphia, PA 19106  
 
 - **Dinner:**  
   - **Name:** Thanal Indian Tavern  
@@ -41,12 +41,12 @@
   - **Address:** 301 S 12th St, Philadelphia, PA 19107  
 
 - **Breakfast:**  
-  - **Name:** Little Sicily 2  
-  - **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA 19148  
+  - **Name:** Mood Cafe  
+  - **Address:** 4618 Baltimore Ave, Philadelphia, PA 19143  
 
 - **Morning Attraction:**  
-  - **Name:** Rocky Steps  
-  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130  
+  - **Name:** Fairmount Park  
+  - **Address:** 4231 N Concourse Dr, Philadelphia, PA 19131  
 
 - **Lunch:**  
   - **Name:** Masala Kitchen Kati Rolls and Platters  
@@ -55,16 +55,16 @@
 - **Afternoon Attraction:**  
   - **Name:** Boathouse Row  
   - **Address:** 1 Boathouse Row, Philadelphia, PA 19130  
-  - **Name:** Fairmount Park  
-  - **Address:** 4231 N Concourse Dr, Philadelphia, PA 19131  
+  - **Name:** Schuylkill River Park  
+  - **Address:** 300 S 25th St, Philadelphia, PA 19103  
 
 - **Dinner:**  
   - **Name:** Ekta Indian Cuisine  
   - **Address:** 1142 Crease St, Philadelphia, PA 19128  
 
 - **Night Attraction:**  
-  - **Name:** Schuylkill River Park  
-  - **Address:** 300 S 25th St, Philadelphia, PA 19103  
+  - **Name:** Night Market  
+  - **Address:** 1617 John F Kennedy Blvd, Philadelphia, PA 19103  
 
 ---
 
@@ -74,12 +74,12 @@
   - **Address:** 301 S 12th St, Philadelphia, PA 19107  
 
 - **Breakfast:**  
-  - **Name:** Mood Cafe  
-  - **Address:** 4618 Baltimore Ave, Philadelphia, PA 19143  
+  - **Name:** Little Sicily 2  
+  - **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA 19148  
 
 - **Morning Attraction:**  
-  - **Name:** Fairmount Park  
-  - **Address:** 4231 N Concourse Dr, Philadelphia, PA 19131  
+  - **Name:** Rocky Steps  
+  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130  
 
 - **Lunch:**  
   - **Name:** New Delhi Indian Restaurant  
@@ -88,18 +88,18 @@
 - **Afternoon Attraction:**  
   - **Name:** Philadelphia's 9th Street Italian Market  
   - **Address:** 919 S 9th St, Philadelphia, PA 19147  
-  - **Name:** South Street Headhouse District  
-  - **Address:** 2nd And Lombard St, Philadelphia, PA 19147  
+  - **Name:** Cherry Street Pier  
+  - **Address:** 121 N Columbus Blvd, Philadelphia, PA 19106  
 
 - **Dinner:**  
   - **Name:** Amma's South Indian Cuisine  
   - **Address:** 1518 Chestnut St, Philadelphia, PA 19102  
 
 - **Night Attraction:**  
-  - **Name:** Night Market  
-  - **Address:** 1617 John F Kennedy Blvd, Philadelphia, PA 19103  
+  - **Name:** The Oval  
+  - **Address:** Eakins Oval, Philadelphia, PA 19130  
 
 ---
 
-### Summary:
-This itinerary provides a mix of cultural, historical, and activity-oriented attractions while keeping dining options affordable and flavorful. The Alexander Inn serves as a central accommodation, making it easy to access various attractions throughout the city. Enjoy your trip!
+### Summary
+This itinerary provides a mix of cultural, historical, and recreational activities while keeping budget-friendly dining options in mind. The accommodations are centrally located, making it easy to access attractions and restaurants. Enjoy your trip to Philadelphia!

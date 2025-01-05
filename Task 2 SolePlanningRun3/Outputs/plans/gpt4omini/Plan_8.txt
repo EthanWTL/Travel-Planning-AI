@@ -63,8 +63,8 @@
   - **Address:** 1017 Arch St, Philadelphia, PA 19107  
 
 - **Night Attraction:**  
-  - **Name:** Night Market  
-  - **Address:** 1617 John F Kennedy Blvd, Philadelphia, PA 19103  
+  - **Name:** The Oval  
+  - **Address:** Eakins Oval, Philadelphia, PA 19130  
 
 ---
 
@@ -86,20 +86,20 @@
   - **Address:** 3939 Chestnut St, Philadelphia, PA 19104  
 
 - **Afternoon Attraction:**  
-  - **Name:** The Rocky Steps  
-  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130  
-  - **Name:** The Rocky Statue  
-  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130  
-
-- **Dinner:**  
-  - **Name:** Han Dynasty  
-  - **Address:** 123 Chestnut St, Philadelphia, PA 19106  
-
-- **Night Attraction:**  
   - **Name:** Mural Arts Philadelphia  
   - **Address:** 128 N Broad St, Philadelphia, PA 19102  
+  - **Name:** City Hall  
+  - **Address:** 1450 John F Kennedy Blvd, Philadelphia, PA 19102  
+
+- **Dinner:**  
+  - **Name:** Sang Kee Peking Duck House  
+  - **Address:** 238 N 9th St, Philadelphia, PA 19106  
+
+- **Night Attraction:**  
+  - **Name:** Reading Terminal Market  
+  - **Address:** 51 N 12th St, Philadelphia, PA 19107  
 
 ---
 
 ### Summary:
-This itinerary provides a mix of cultural, historical, and outdoor activities while keeping a budget-friendly approach. Each day is structured to minimize travel time between attractions and accommodations, ensuring a smooth and enjoyable experience in Philadelphia.
+This itinerary provides a mix of cultural, historical, and recreational activities while keeping a budget-friendly approach. Each day is structured to minimize travel time between attractions and accommodations, ensuring a smooth and enjoyable experience in Philadelphia.

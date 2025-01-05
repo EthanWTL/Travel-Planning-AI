@@ -37,8 +37,8 @@
   - **Address:** 235 Chestnut St, Philadelphia, PA 19106  
 
 - **Breakfast:**  
-  - **Name:** Devil's Alley Bar & Grille  
-  - **Address:** 1907 Chestnut St, Philadelphia, PA 19103  
+  - **Name:** Jim's South St  
+  - **Address:** 400 S St, Philadelphia, PA 19147  
 
 - **Morning Attraction:**  
   - **Name:** Philadelphia Museum of Art  
@@ -46,7 +46,7 @@
 
 - **Lunch:**  
   - **Name:** Moustaki Authentic Gyros  
-  - **Address:** 161 N 21st St, Philadelphia, PA 19103  
+  - **Address:** 161 N 21st St, Philadelphia, PA 19130  
 
 - **Afternoon Attraction:**  
   - **Name:** Rocky Steps  
@@ -66,16 +66,16 @@
   - **Address:** 235 Chestnut St, Philadelphia, PA 19106  
 
 - **Breakfast:**  
-  - **Name:** Jim's South St  
-  - **Address:** 400 S St, Philadelphia, PA 19147  
+  - **Name:** The Porch At 30th Street Station  
+  - **Address:** 2955 Market St, Philadelphia, PA 19104  
 
 - **Morning Attraction:**  
   - **Name:** Please Touch Museum  
   - **Address:** 4231 Ave Of The Republic, Philadelphia, PA 19131  
 
 - **Lunch:**  
-  - **Name:** Philly Pretzel Factory  
-  - **Address:** 1532 Sansom St, Philadelphia, PA 19103  
+  - **Name:** Effie's Restaurant  
+  - **Address:** 1127 Pine St, Philadelphia, PA 19107  
 
 - **Afternoon Attraction:**  
   - **Name:** Franklin Square Mini Golf  
@@ -95,27 +95,26 @@
   - **Address:** 235 Chestnut St, Philadelphia, PA 19106  
 
 - **Breakfast:**  
-  - **Name:** The Porch At 30th Street Station  
-  - **Address:** 2955 Market St, Philadelphia, PA 19104  
+  - **Name:** The Franklin Institute Café  
+  - **Address:** 222 N 20th St, Philadelphia, PA 19103  
 
 - **Morning Attraction:**  
+  - **Name:** The Franklin Institute Science Museum  
+  - **Address:** 222 N 20th St, Philadelphia, PA 19103  
+
+- **Lunch:**  
+  - **Name:** Philly Pretzel Factory  
+  - **Address:** 1532 Sansom St, Philadelphia, PA 19102  
+
+- **Afternoon Attraction:**  
   - **Name:** Philadelphia Zoo  
   - **Address:** 3400 W Girard Ave, Philadelphia, PA 19104  
 
-- **Lunch:**  
-  - **Name:** Effie's Restaurant  
-  - **Address:** 1127 Pine St, Philadelphia, PA 19107  
-
-- **Afternoon Attraction:**  
-  - **Name:** The Franklin Institute Science Museum  
-  - **Address:** 222 N 20th St, Philadelphia, PA 19103  
-  - **Name:** Academy of Natural Sciences  
-  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA 19103  
-
 - **Dinner:**  
-  - **Name:** StrEATS of Philly Food Tours  
-  - **Address:** 1500 Market St, Ste W-3110, Philadelphia, PA 19102  
+  - **Name:** Devil's Alley Bar & Grille  
+  - **Address:** 1907 Chestnut St, Philadelphia, PA 19103  
 
 ---
 
-This itinerary provides a balanced mix of family-friendly attractions, delicious Greek cuisine, and comfortable accommodations, all while optimizing travel routes for convenience. Enjoy your trip to Philadelphia!
+### Summary
+This itinerary provides a balanced mix of historical, educational, and fun attractions suitable for families, along with delicious Greek dining options. The accommodations are centrally located to minimize travel time between attractions. Enjoy your trip to Philadelphia!
