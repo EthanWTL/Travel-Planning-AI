@@ -1,0 +1,9 @@
+Craft a prompt that asks llm to generate a travel plan given the following information. The input includes details such as trip duration, budget type, attractions types that the traveler wants to visit, dining preferences that they want to try, and accommodation requirements. Also, mention that detailed business information is provided, too.
+
+----- Example Starts -----
+Input: 
+{'general': '2 days, moderate budget', 'attraction': 'history oriented', 'restaurants': 'French, good environment', 'hotel': 'good quality, good location'}
+
+Output:
+Please generate a detailed travel itinerary for a 2-day trip with a moderate budget. The plan should suggest some history-oriented attractions, include some recommendations for good environment restaurants that provide French cuisines, and suggest good quality accommodations in a good location rating. All business information will be provided following. Include all recommendations and their addresses for each day in chronological order. Be concise and well structured.
+----- Example Ends -----

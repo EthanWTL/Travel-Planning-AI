@@ -1,0 +1,86 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Little Pete's Restaurant",
+                "address": "2401 Pennsylvania Ave, Philadelphia, PA 19130"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art (Rocky Steps)",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Estia",
+                "address": "1405 Locust St, Philadelphia, PA 19102"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Franklin Square Mini Golf",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Zorba's Taverna",
+                "address": "2230 Fairmount Ave, Philadelphia, PA 19130"
+            },
+            "night_attractions": [
+                {
+                    "name": "Spruce Street Harbor Park",
+                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Holiday Inn Express Philadelphia-Midtown",
+                "address": "1305 Walnut St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Smiley's Cafe",
+                "address": "4251 Main St, Philadelphia, PA 19127"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA 19104"
+                }
+            ],
+            "lunch": {
+                "name": "Greek Lady",
+                "address": "224 S 40th St, Philadelphia, PA 19104"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                },
+                {
+                    "name": "Boathouse Row",
+                    "address": "1 Boathouse Row, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Moustaki Authentic Gyros",
+                "address": "161 N 21st St, Philadelphia, PA 19103"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Holiday Inn Express Philadelphia-Midtown",
+                "address": "1305 Walnut St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}

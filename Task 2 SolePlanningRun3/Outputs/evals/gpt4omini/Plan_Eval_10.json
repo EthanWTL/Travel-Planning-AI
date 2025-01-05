@@ -1,0 +1,168 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Avril 50",
+                "address": "3406 Sansom St, Philadelphia, PA 19104"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Rittenhouse Square Park",
+                    "address": "1800 Walnut St, Philadelphia, PA 19103"
+                }
+            ],
+            "lunch": {
+                "name": "Dae Bak",
+                "address": "1016 Race St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "51 N 12th St, Philadelphia, PA 19107"
+                },
+                {
+                    "name": "Market Street Gold",
+                    "address": "936 Market St, Philadelphia, PA 19107"
+                }
+            ],
+            "dinner": {
+                "name": "Buk Chon Korean Cuisine",
+                "address": "132 Chestnut St, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "Philadelphia Urban Adventures",
+                    "address": "229 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Kimpton Hotel Palomar Philadelphia",
+                "address": "117 S 17th St, Philadelphia, PA 19103"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "The Franklin Residences",
+                "address": "834 Chestnut St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Old City District",
+                    "address": "231 Market St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Crunchik'n",
+                "address": "212 S 11th St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Chinatown",
+                    "address": "North 12th St, Philadelphia, PA 19107"
+                },
+                {
+                    "name": "Philly Dream Shop",
+                    "address": "254 South St, Philadelphia, PA 19147"
+                }
+            ],
+            "dinner": {
+                "name": "K-POT Korean BBQ & Hot Pot",
+                "address": "789 Franklin Mills Cir, Philadelphia, PA 19154"
+            },
+            "night_attractions": [
+                {
+                    "name": "Bloktoberfest",
+                    "address": "17 Washington Ave, Philadelphia, PA 19147"
+                }
+            ],
+            "accommodation": {
+                "name": "ROOST Apartment Hotel",
+                "address": "111 S 15th St, Philadelphia, PA 19102"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Flourishing Gifts",
+                "address": "1200 Spruce St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Betsy Ross House",
+                    "address": "239 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Jong Ka Jib",
+                "address": "6600 N 5th St, Philadelphia, PA 19126"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Center For Art In Wood",
+                    "address": "141 N 3rd St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Philly Souvenir",
+                    "address": "64 N 3rd St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Doma",
+                "address": "1822 Callowhill St, Philadelphia, PA 19130"
+            },
+            "night_attractions": [
+                {
+                    "name": "The M\u00fctter Museum",
+                    "address": "19 S 22nd St, Philadelphia, PA 19103"
+                }
+            ],
+            "accommodation": {
+                "name": "The Franklin Residences",
+                "address": "834 Chestnut St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "Southgate",
+                "address": "1801 Lombard St, Philadelphia, PA 19146"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Franklin Institute Science Museum",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                }
+            ],
+            "lunch": {
+                "name": "Seorabol Center City",
+                "address": "1326 Spruce St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Fante's Kitchen Shop",
+                    "address": "1006 S 9th St, Philadelphia, PA 19147"
+                },
+                {
+                    "name": "Swag Boutique",
+                    "address": "935 N 2nd St, Philadelphia, PA 19123"
+                }
+            ],
+            "dinner": {
+                "name": "Bonchon Philadelphia",
+                "address": "1020 Cherry St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Piazza",
+                    "address": "1001 N 2nd St, Philadelphia, PA 19123"
+                }
+            ],
+            "accommodation": {
+                "name": "W Philadelphia",
+                "address": "1439 Chestnut St, Philadelphia, PA 19102"
+            }
+        }
+    ]
+}

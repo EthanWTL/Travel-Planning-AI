@@ -1,0 +1,127 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Heung Fa Chun Sweet House",
+                "address": "112 N 10th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia's 9th Street Italian Market",
+                    "address": "919 S 9th St, Philadelphia, PA 19147"
+                }
+            ],
+            "lunch": {
+                "name": "Bai Wei",
+                "address": "1038 Race St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Independence Visitor Center",
+                    "address": "599 Market St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Benjamin Franklin Museum",
+                    "address": "317 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Chengdu Famous Food",
+                "address": "3635 Lancaster Ave, Philadelphia, PA 19104"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "The Study at University City",
+                "address": "20 S 33rd St, Philadelphia, PA 19104"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Ray's Caf\u00e9 & Teahouse",
+                "address": "141 N 9th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr, Philadelphia, PA 19131"
+                }
+            ],
+            "lunch": {
+                "name": "Dim Sum Garden",
+                "address": "1020 Race St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Boathouse Row",
+                    "address": "1 Boathouse Row, Philadelphia, PA 19130"
+                },
+                {
+                    "name": "Schuylkill River Park",
+                    "address": "300 S 25th St, Philadelphia, PA 19103"
+                }
+            ],
+            "dinner": {
+                "name": "Happy Lamb Hot Pot",
+                "address": "1017 Arch St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "Night Market",
+                    "address": "1617 John F Kennedy Blvd, Philadelphia, PA 19103"
+                }
+            ],
+            "accommodation": {
+                "name": "The Study at University City",
+                "address": "20 S 33rd St, Philadelphia, PA 19104"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "I Tea",
+                "address": "1537 Spring Garden St, Philadelphia, PA 19130"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Rittenhouse Square Park",
+                    "address": "1800 Walnut St, Philadelphia, PA 19103"
+                }
+            ],
+            "lunch": {
+                "name": "Dim Sum House",
+                "address": "3939 Chestnut St, Philadelphia, PA 19104"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Rocky Steps",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                },
+                {
+                    "name": "The Rocky Statue",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Han Dynasty",
+                "address": "123 Chestnut St, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "Mural Arts Philadelphia",
+                    "address": "128 N Broad St, Philadelphia, PA 19102"
+                }
+            ],
+            "accommodation": {
+                "name": "The Study at University City",
+                "address": "20 S 33rd St, Philadelphia, PA 19104"
+            }
+        }
+    ]
+}

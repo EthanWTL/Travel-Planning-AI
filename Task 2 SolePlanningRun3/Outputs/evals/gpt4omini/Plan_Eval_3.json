@@ -1,0 +1,86 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Con Murphy's",
+                "address": "1700 Benjamin Franklin Pkwy, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Academy of Natural Sciences",
+                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA 19103"
+                }
+            ],
+            "lunch": {
+                "name": "Fergie's Pub",
+                "address": "1214 Sansom St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Fairmount Water Works",
+                    "address": "640 Waterworks Dr, Philadelphia, PA 19130"
+                },
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "The Plough & the Stars",
+                "address": "123 Chestnut St, Philadelphia, PA 19106"
+            },
+            "night_attractions": [
+                {
+                    "name": "Cherry Street Pier",
+                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "The Franklin Residences",
+                "address": "834 Chestnut St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Fad\u00f3 Irish Pub",
+                "address": "1500 Locust St, Philadelphia, PA 19102"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Morris Arboretum",
+                    "address": "100 E Northwestern Ave, Philadelphia, PA 19118"
+                }
+            ],
+            "lunch": {
+                "name": "Greensgrow Farms",
+                "address": "2501 E Cumberland St, Philadelphia, PA 19125"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Awbury Arboretum",
+                    "address": "1 Awbury Rd, Philadelphia, PA 19138"
+                },
+                {
+                    "name": "Lemon Hill Mansion",
+                    "address": "1 Lemon Hill Dr, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Moriarty's Restaurant and Irish Pub",
+                "address": "1116 Walnut St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "Spruce Street Harbor Park",
+                    "address": "121 N Columbus Blvd, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "The Franklin Residences",
+                "address": "834 Chestnut St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}

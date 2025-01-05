@@ -1,0 +1,168 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Brown Street Coffee & B\u00e1nhery",
+                "address": "2545 Brown St, Philadelphia, PA 19130"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Banh Mi Cali",
+                "address": "900 Arch St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Independence National Historical Park",
+                    "address": "143 S 3rd St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Pho 75",
+                "address": "1122 Washington Ave, Philadelphia, PA 19147"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Home2 Suites by Hilton Philadelphia - Convention Center",
+                "address": "1200 Arch St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Cafe Diem",
+                "address": "1031 S 8th St, Philadelphia, PA 19147"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Betsy Ross House",
+                    "address": "239 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Pho Street",
+                "address": "2104 Market St, Philadelphia, PA 19103"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "National Liberty Museum",
+                    "address": "321 Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Christ Church Burial Ground",
+                    "address": "20 N American St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Jim's South St",
+                "address": "400 S St, Philadelphia, PA 19147"
+            },
+            "night_attractions": [
+                {
+                    "name": "Independence Beer Garden",
+                    "address": "100 S Independence Mall W, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Home2 Suites by Hilton Philadelphia - Convention Center",
+                "address": "1200 Arch St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Cafe Nhan",
+                "address": "1606 W Passyunk Ave, Philadelphia, PA 19145"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Benjamin Franklin Museum",
+                    "address": "317 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Le Viet Restaurant",
+                "address": "1019 S 11th St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Congress Hall",
+                    "address": "6TH Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "The President's House",
+                    "address": "600 Market St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Pho & Cafe Saigon",
+                "address": "4248 Spruce St, Philadelphia, PA 19104"
+            },
+            "night_attractions": [
+                {
+                    "name": "Free Tours By Foot",
+                    "address": "20 N 3rd St, Ste 201, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Home2 Suites by Hilton Philadelphia - Convention Center",
+                "address": "1200 Arch St, Philadelphia, PA 19107"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "Cafe Saigon",
+                "address": "827 Adams Ave, Philadelphia, PA 19124"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Elfreth's Alley",
+                    "address": "126 Elfreths Aly, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Thang Long Pho Restaurant",
+                "address": "2534-36 Kensington Ave, Philadelphia, PA 19134"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "National Museum of American Jewish History",
+                    "address": "101 S Independence Mall E, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Polish American Cultural Center",
+                    "address": "308 Walnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Pho 20",
+                "address": "234-236 N 10th St, Philadelphia, PA 19103"
+            },
+            "night_attractions": [
+                {
+                    "name": "Philadelphia Urban Adventures",
+                    "address": "229 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Home2 Suites by Hilton Philadelphia - Convention Center",
+                "address": "1200 Arch St, Philadelphia, PA 19107"
+            }
+        }
+    ]
+}

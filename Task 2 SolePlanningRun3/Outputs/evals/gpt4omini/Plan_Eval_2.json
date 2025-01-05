@@ -1,0 +1,148 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Reading Terminal Market",
+                "address": "51 N 12th St, Philadelphia, PA 19107"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Yeeroh",
+                "address": "1412 South St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Independence National Historical Park",
+                    "address": "143 S 3rd St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Estia",
+                "address": "1405 Locust St, Philadelphia, PA 19102"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Devil's Alley Bar & Grille",
+                "address": "1907 Chestnut St, Philadelphia, PA 19103"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Moustaki Authentic Gyros",
+                "address": "161 N 21st St, Philadelphia, PA 19103"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Rocky Steps",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                },
+                {
+                    "name": "Boathouse Row",
+                    "address": "1 Boathouse Row, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "Zorba's Taverna",
+                "address": "2230 Fairmount Ave, Philadelphia, PA 19130"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Jim's South St",
+                "address": "400 S St, Philadelphia, PA 19147"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Please Touch Museum",
+                    "address": "4231 Ave Of The Republic, Philadelphia, PA 19131"
+                }
+            ],
+            "lunch": {
+                "name": "Philly Pretzel Factory",
+                "address": "1532 Sansom St, Philadelphia, PA 19103"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Franklin Square Mini Golf",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Franklin Square",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Johnny Brenda's",
+                "address": "1201 Frankford Ave, Philadelphia, PA 19125"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "The Porch At 30th Street Station",
+                "address": "2955 Market St, Philadelphia, PA 19104"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA 19104"
+                }
+            ],
+            "lunch": {
+                "name": "Effie's Restaurant",
+                "address": "1127 Pine St, Philadelphia, PA 19107"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Franklin Institute Science Museum",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                },
+                {
+                    "name": "Academy of Natural Sciences",
+                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA 19103"
+                }
+            ],
+            "dinner": {
+                "name": "StrEATS of Philly Food Tours",
+                "address": "1500 Market St, Ste W-3110, Philadelphia, PA 19102"
+            },
+            "night_attractions": [],
+            "accommodation": {
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA 19106"
+            }
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Cafe Diem",
+                "address": "1031 S 8th St, Philadelphia, PA 19147"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Campo's Philly Cheesesteaks",
+                "address": "214 Market St, Philadelphia, PA 19106"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Liberty Bell Center",
+                    "address": "6th St & Chestnut St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "Independence National Historical Park",
+                    "address": "143 S 3rd St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Banh Mi Cali",
+                "address": "900 Arch St, Philadelphia, PA 19107"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Brown Street Coffee & B\u00e1nhery",
+                "address": "2545 Brown St, Philadelphia, PA 19130"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Museum of the American Revolution",
+                    "address": "101 S 3rd St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Pho 75",
+                "address": "1122 Washington Ave, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St, Philadelphia, PA 19106"
+                },
+                {
+                    "name": "The Betsy Ross House",
+                    "address": "239 Arch St, Philadelphia, PA 19106"
+                }
+            ],
+            "dinner": {
+                "name": "Pho Street",
+                "address": "2104 Market St, Philadelphia, PA 19103"
+            },
+            "night_attractions": [
+                {
+                    "name": "Independence After Hours",
+                    "address": "600 Chestnut St, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "Cafe Nhan",
+                "address": "1606 W Passyunk Ave, Philadelphia, PA 19145"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Eastern State Penitentiary Historic Site",
+                    "address": "2027 Fairmount Ave, Philadelphia, PA 19130"
+                }
+            ],
+            "lunch": {
+                "name": "Le Viet Restaurant",
+                "address": "1019 S 11th St, Philadelphia, PA 19147"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                },
+                {
+                    "name": "Rocky Steps",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+                }
+            ],
+            "dinner": {
+                "name": "iPho Vietnamese Restaurant",
+                "address": "1921 Fairmount Ave, Philadelphia, PA 19130"
+            },
+            "night_attractions": [
+                {
+                    "name": "Philadelphia Segway Tours By Wheel Fun Rentals",
+                    "address": "1 N Independence Mall W, Philadelphia, PA 19106"
+                }
+            ],
+            "accommodation": {
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA 19106"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "Cafe Saigon",
+                "address": "827 Adams Ave, Philadelphia, PA 19124"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Franklin Square",
+                    "address": "200 N 6th St, Philadelphia, PA 19106"
+                }
+            ],
+            "lunch": {
+                "name": "Pho & Cafe Saigon",
+                "address": "4248 Spruce St, Philadelphia, PA 19104"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "The Franklin Institute Science Museum",
+                    "address": "222 N 20th St, Philadelphia, PA 19103"
+                },
+                {
+                    "name": "The M\u00fctter Museum",
+                    "address": "19 S 22nd St, Philadelphia, PA 19103"
+                }
+            ],
+            "dinner": {
+                "name": "Thang Long Pho Restaurant",
+                "address": "2534-36 Kensington Ave, Philadelphia, PA 19134"
+            },
+            "night_attractions": [
+                {
+                    "name": "The Philadelphia Orchestra",
+                    "address": "300 S Broad St, Philadelphia, PA 19102"
+                }
+            ],
+            "accommodation": {
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA 19106"
+            }
+        }
+    ]
+}

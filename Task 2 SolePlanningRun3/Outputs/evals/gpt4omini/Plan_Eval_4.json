@@ -1,0 +1,127 @@
+{
+    "itinerary": [
+        {
+            "days": "Day 1",
+            "breakfast": {
+                "name": "Reading Terminal Market",
+                "address": "51 N 12th St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Independence Visitor Center",
+                    "address": "599 Market St, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Hummus Grill",
+                "address": "3931 Walnut St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Benjamin Franklin Museum",
+                    "address": "317 Chestnut St, Philadelphia, PA"
+                },
+                {
+                    "name": "Mural Arts Philadelphia",
+                    "address": "128 N Broad St, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Al Zaytouna",
+                "address": "906 Christian St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "5TH And Chestnut, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Dwight D",
+                "address": "256 S 16th St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 2",
+            "breakfast": {
+                "name": "Goldie",
+                "address": "1526 Sansom St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Fairmount Park",
+                    "address": "4231 N Concourse Dr, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Dizengoff",
+                "address": "1625 Sansom St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Schuylkill River Park",
+                    "address": "300 S 25th St, Philadelphia, PA"
+                },
+                {
+                    "name": "Boathouse Row",
+                    "address": "1 Boathouse Row, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Kabobeesh",
+                "address": "4201 Chestnut St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Penn's Landing",
+                    "address": "601 N Christopher Columbus Blvd, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Dwight D",
+                "address": "256 S 16th St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 3",
+            "breakfast": {
+                "name": "The Porch At 30th Street Station",
+                "address": "2955 Market St, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "Bartram's Garden",
+                    "address": "5400 Lindbergh Blvd, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "Alyan's Restaurant",
+                "address": "603 S 4th St, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Cira Green",
+                    "address": "80 S 30th St, Philadelphia, PA"
+                },
+                {
+                    "name": "Race Street Pier",
+                    "address": "Race St & N Columbus Blvd, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Sahara Grill",
+                "address": "1334 Walnut St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
+                    "name": "Fishtown Rivercity Festival",
+                    "address": "1199 N Delaware Ave, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "The Dwight D",
+                "address": "256 S 16th St, Philadelphia, PA"
+            }
+        }
+    ]
+}
