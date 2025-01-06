@@ -1,0 +1,33 @@
+Please generate a detailed travel itinerary for a 4-day trip with a moderate budget. The plan should focus on family-oriented attractions, include recommendations for restaurants with a good environment that serve Greek cuisine, and suggest good quality accommodations in a prime location. All relevant business information will be provided following. Ensure that all recommendations are organized chronologically for each day and include addresses where applicable. Be concise and well-structured. Please be aware of optimization of the routes of attractions for each day as well as the whole plan, for example, arrange attractions and hotels that close to each other in one day. 
+----- Example Starts -----
+Day X:
+- Accommodation: 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Breakfast: 
+  - Name: XXXX 
+    Address: XXXX, XXXX
+
+- Morning Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Lunch: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Afternoon Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Dinner: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Night Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+----- Example Ends -----

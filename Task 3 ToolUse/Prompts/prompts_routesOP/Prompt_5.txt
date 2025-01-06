@@ -1,0 +1,33 @@
+Please generate a detailed travel itinerary for a 4-day trip with a moderate budget. The plan should focus on history-oriented attractions, include recommendations for Vietnamese restaurants, and suggest good quality accommodations. All relevant business information will be provided following. Ensure that the itinerary is structured chronologically, with all recommendations and their addresses included for each day. Be concise and well-organized. Please be aware of optimization of the routes of attractions for each day as well as the whole plan, for example, arrange attractions and hotels that close to each other in one day. 
+----- Example Starts -----
+Day X:
+- Accommodation: 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Breakfast: 
+  - Name: XXXX 
+    Address: XXXX, XXXX
+
+- Morning Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Lunch: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Afternoon Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Dinner: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Night Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+----- Example Ends -----
