@@ -8,8 +8,8 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Bartram's Garden",
-                    "address": "5400 Lindbergh Blvd, Philadelphia, PA"
+                    "name": "Wissahickon Valley Trail",
+                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
                 }
             ],
             "lunch": {
@@ -18,8 +18,12 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Wissahickon Valley Trail",
-                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
+                    "name": "Bartram's Garden",
+                    "address": "5400 Lindbergh Blvd, Philadelphia, PA"
+                },
+                {
+                    "name": "Belmont Plateau",
+                    "address": "2000 Belmont Mansion Dr, Philadelphia, PA"
                 }
             ],
             "dinner": {
@@ -28,13 +32,13 @@
             },
             "night_attractions": [
                 {
-                    "name": "Yards Brewing Company",
-                    "address": "500 Spring Garden St, Philadelphia, PA"
+                    "name": "Blue Cross RiverRink Winterfest",
+                    "address": "101 S Columbus Blvd, Philadelphia, PA"
                 }
             ],
             "accommodation": {
-                "name": "Sleep Inn Center City",
-                "address": "1020 Cherry St, Philadelphia, PA"
+                "name": "Club Quarters Philadelphia",
+                "address": "1628 Chestnut St, Philadelphia, PA"
             }
         },
         {
@@ -45,18 +49,22 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Belmont Plateau",
-                    "address": "2000 Belmont Mansion Dr, Philadelphia, PA"
+                    "name": "Fairmount Park",
+                    "address": "1 Boathouse Row, Philadelphia, PA"
                 }
             ],
             "lunch": {
-                "name": "Wah-Gi-Wah",
-                "address": "4447 Chestnut St, Philadelphia, PA"
+                "name": "Desi Chaat House",
+                "address": "501 S 42nd St, Philadelphia, PA"
             },
             "afternoon_attractions": [
                 {
                     "name": "Wissahickon Park",
                     "address": "Lincoln Dr & Rittenhouse Ln, Philadelphia, PA"
+                },
+                {
+                    "name": "Yards Brewing Company",
+                    "address": "500 Spring Garden St, Philadelphia, PA"
                 }
             ],
             "dinner": {
@@ -65,25 +73,25 @@
             },
             "night_attractions": [
                 {
-                    "name": "Wonderspaces Philadelphia",
-                    "address": "27 N 11th St, Philadelphia, PA"
+                    "name": "The Oval",
+                    "address": "2451 Benjamin Franklin Pkwy, Philadelphia, PA"
                 }
             ],
             "accommodation": {
-                "name": "Sleep Inn Center City",
-                "address": "1020 Cherry St, Philadelphia, PA"
+                "name": "Club Quarters Philadelphia",
+                "address": "1628 Chestnut St, Philadelphia, PA"
             }
         },
         {
             "days": "Day 3",
             "breakfast": {
-                "name": "New Delhi Indian Restaurant",
-                "address": "4004 Chestnut St, Philadelphia, PA"
+                "name": "Karma Restaurant & Bar",
+                "address": "114 Chestnut St, Philadelphia, PA"
             },
             "morning_attractions": [
                 {
-                    "name": "Blue Bell Park",
-                    "address": "842 Walnut Ln, Philadelphia, PA"
+                    "name": "The Schuylkill River Loop",
+                    "address": "Kelly Drive, Philadelphia, PA"
                 }
             ],
             "lunch": {
@@ -92,23 +100,27 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Weccacoe Playground",
-                    "address": "400 Catharine St, Philadelphia, PA"
+                    "name": "Wonderspaces Philadelphia",
+                    "address": "27 N 11th St, Philadelphia, PA"
+                },
+                {
+                    "name": "Reading Terminal Market",
+                    "address": "1136 Arch St, Philadelphia, PA"
                 }
             ],
             "dinner": {
-                "name": "Desi Chaat House",
-                "address": "501 S 42nd St, Philadelphia, PA"
+                "name": "Wah-Gi-Wah",
+                "address": "4447 Chestnut St, Philadelphia, PA"
             },
             "night_attractions": [
                 {
-                    "name": "Bloktoberfest",
-                    "address": "17 Washington Ave, Philadelphia, PA"
+                    "name": "Rittenhouse Square Park",
+                    "address": "Rittenhouse Square, Philadelphia, PA"
                 }
             ],
             "accommodation": {
-                "name": "Sleep Inn Center City",
-                "address": "1020 Cherry St, Philadelphia, PA"
+                "name": "Club Quarters Philadelphia",
+                "address": "1628 Chestnut St, Philadelphia, PA"
             }
         }
     ]

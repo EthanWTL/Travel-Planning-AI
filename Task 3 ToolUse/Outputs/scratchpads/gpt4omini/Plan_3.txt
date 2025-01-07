@@ -1,180 +1,147 @@
 
-Thought 1: I need to gather information for a 2-day trip itinerary focusing on nature-oriented attractions. The trip has an expensive budget, and I need to incorporate Irish restaurants and accommodations that prioritize good safety.
+Thought 1: I need to gather information on expensive accommodations with a focus on good safety. This will serve as the foundation for the travel itinerary.
 Action 1: AccommodationSearch[Expensive budget,[Good Safety]]
 Observation 1:                                                        Masked due to limited length. Make sure the data has been written in Notebook.
-Thought 2: I'll now look for nature-oriented attractions that fit an expensive budget. This will enhance the itinerary with relevant experiences in line with the user's preferences.
+Thought 2: I have gathered the information on accommodations that prioritize good safety for an expensive budget. The next step is to find nature-oriented attractions that match this travel plan.
 Action 2: AttractionSearch[Expensive budget,[Nature Oriented]]
 Observation 2:                                          Masked due to limited length. Make sure the data has been written in Notebook.
-Thought 3: Now I need to find Irish restaurants that fit within the expensive budget and align with the user's preference for good flavor and good value. This will help enhance the dining options for the itinerary.
+Thought 3: I've successfully gathered information on nature-oriented attractions suitable for an expensive budget. Now, I need to find Irish restaurants that match the criteria of high quality for the trip, which would complement the surrounding attractions and accommodations.
 Action 3: RestaurantSearch[Expensive budget, Irish, [Good Flavor, Good Value]]
 Observation 3: Masked due to limited length. Make sure the data has been written in Notebook.
-Thought 4: Since there are no Irish restaurants that match the preferences, I should consider looking for alternative dining options that might still align with the user's overall preference for good flavor and good value in the context of Irish cuisine, or a different cuisine altogether.
-Action 4: RestaurantSearch[Expensive budget, Other, [Good Flavor, Good Value]]
-Observation 4: Cuisine not valid. Accepted cuisine is: US / Mexican / Irish / French / Italian / Greek / Indian / Chinese / Japanese / Korean / Vietnamese / Thai / Asian Fusion and Middle Eastern. Please try again.
-Thought 5: I will refine my search for restaurants by looking specifically for a different cuisine option that might offer good flavor and value, ensuring I stay within the bounds of acceptable cuisines. Since I have noted that "Irish" specifically did not yield results, I may explore other cuisine types.
-Action 5: RestaurantSearch[Expensive budget, US, [Good Flavor, Good Value]]
-Observation 5:                                           name                          address  latitude  longitude  stars             good_for_meal price restaurant_type_1 restaurant_type_2              cuisine_1              cuisine_2                perks           flavor           freshness               healthy           service           environment      value
-                             2nd Story Brewing                  117 Chestnut St 39.948474 -75.143556    4.0  latenight, lunch, dinner    $$       Restaurants              Bars         American (New)         Not Applicable            Breweries      good flavor      good freshness       average healthy   average service      good environment good value
-                            Al-Sham Restaurant               6738 Bustleton Ave 40.040250 -75.066111    4.0             lunch, dinner    $$       Restaurants    Not Applicable American (Traditional)         Middle Eastern                Halal      good flavor      good freshness       average healthy   average service   average environment good value
-                                    Almaz Cafe                    140 S 20th St 39.950663 -75.173933    4.0             lunch, dinner    $$       Restaurants             Cafes              Ethiopian American (Traditional)       Not Applicable      good flavor      good freshness          good healthy excellent service      good environment good value
-                          American Sardine Bar                  1800 Federal St 39.936536 -75.173750    4.0         latenight, dinner    $$       Restaurants              Bars               American         Not Applicable       Not Applicable      good flavor      good freshness       average healthy   average service      good environment good value
-Angelino's Restaurant, Fairmount- Philadelphia                    849 N 25th St 39.971297 -75.177634    4.0             lunch, dinner    $$       Restaurants              Bars                Italian American (Traditional)                Pizza      good flavor      good freshness       average healthy   average service      good environment good value
-                              Bourbon & Branch                     705 N 2nd St 39.962070 -75.141040    4.0     lunch, dinner, brunch    $$       Restaurants              Bars American (Traditional)         Not Applicable   Breakfast & Brunch      good flavor      good freshness       average healthy   average service      good environment good value
-                               Bud & Marilyn's                   1234 Locust St 39.947787 -75.162293    4.0            dinner, brunch    $$       Restaurants              Bars American (Traditional)         Not Applicable   Breakfast & Brunch      good flavor      good freshness       average healthy      good service      good environment good value
-                                     Cafe Lift                    428 N 13th St 39.960346 -75.159706    4.0         brunch, breakfast    $$       Restaurants             Cafes         American (New)         Not Applicable   Breakfast & Brunch excellent flavor      good freshness       average healthy      good service      good environment good value
-                               Cook and Shaker                 2301 E Albert St 39.982626 -75.120540    4.5 latenight, dinner, brunch    $$       Restaurants              Bars         American (New)         Not Applicable         Comfort Food      good flavor      good freshness       average healthy      good service   average environment good value
-                                    Day By Day                   2101 Sansom St 39.951679 -75.175708    4.0                    brunch    $$       Restaurants          Bakeries American (Traditional)         Not Applicable   Breakfast & Brunch      good flavor      good freshness       average healthy   average service   average environment good value
-                           Dock Street Brewery                    701 S 50th St 39.947731 -75.222776    4.0                    dinner    $$       Restaurants         Breweries         American (New)         Not Applicable                Pizza      good flavor      good freshness       average healthy   average service   average environment good value
-                                   Entree BYOB                    1608 South St 39.944011 -75.169140    4.5                    dinner   $$$       Restaurants              Bars         American (New)                Italian         Comfort Food      good flavor      good freshness       average healthy   average service   average environment good value
-                               For Pete's Sake                   900 S Front St 39.935489 -75.145408    4.0                    dinner    $$       Restaurants              Bars American (Traditional)         Not Applicable       Not Applicable      good flavor      good freshness       average healthy   average service      good environment good value
-                              Franky Bradley's               1320 Chancellor St 39.948536 -75.163065    4.0         latenight, dinner    $$       Restaurants              Bars American (Traditional)         Not Applicable       Not Applicable      good flavor      good freshness       average healthy      good service      good environment good value
-                                  Good Dog Bar                    224 S 15th St 39.948793 -75.166206    4.0                    dinner    $$       Restaurants              Bars               American         Not Applicable              Burgers      good flavor      good freshness       average healthy   average service      good environment good value
-                                  Harp & Crown                   1525 Sansom St 39.950417 -75.166428    4.0                    dinner    $$       Restaurants              Bars American (Traditional)         Not Applicable              Bowling      good flavor      good freshness       average healthy   average service excellent environment good value
-                                          Helm                  1303 N Fifth St 39.971548 -75.144505    4.5                    dinner   $$$       Restaurants    Not Applicable         American (New)         Not Applicable       Not Applicable      good flavor excellent freshness          good healthy   average service   average environment good value
-                                    Hinge Cafe               2652 E Somerset St 39.979258 -75.112155    4.5         brunch, breakfast    $$       Restaurants             Cafes         American (New)         Not Applicable         Comfort Food      good flavor      good freshness       average healthy      good service      good environment good value
-                                  Jamaican D's               1265 E Chelten Ave 40.052429 -75.158003    4.0             lunch, dinner    $$       Restaurants    Not Applicable              Caribbean American (Traditional)       Not Applicable      good flavor      good freshness       average healthy   average service   average environment good value
-                                        Jansen              7402 Germantown Ave 40.062707 -75.193182    4.5                    dinner   $$$       Restaurants    Not Applicable         American (New)         Not Applicable       Not Applicable excellent flavor excellent freshness          good healthy      good service excellent environment good value
-                             John's Roast Pork                  14 E Snyder Ave 39.921027 -75.145028    4.5                     lunch    $$       Restaurants    Not Applicable               American         Not Applicable         Cheesesteaks excellent flavor excellent freshness       average healthy   average service   average environment good value
-                                 Kanella Grill                   1001 Spruce St 39.946319 -75.157961    4.0             lunch, dinner    $$       Restaurants    Not Applicable          Mediterranean American (Traditional)              Falafel      good flavor      good freshness          good healthy   average service      good environment good value
-                               Ken Love's BYOB                     701 N 3rd St 39.962426 -75.142929    4.5                    dinner   $$$       Restaurants    Not Applicable          Mediterranean         American (New)           Vegetarian excellent flavor excellent freshness          good healthy      good service      good environment good value
-                               Khyber Pass Pub                      56 S 2nd St 39.948642 -75.144117    4.0         latenight, dinner    $$       Restaurants              Bars American (Traditional)         Not Applicable       Not Applicable      good flavor      good freshness       average healthy   average service   average environment good value
-                                        Laurel              1617 E Passyunk Ave 39.929415 -75.163715    4.5                    dinner  $$$$       Restaurants    Not Applicable                 French         American (New)       Not Applicable excellent flavor excellent freshness       average healthy excellent service      good environment good value
-                      Little Pete's Restaurant            2401 Pennsylvania Ave 39.967082 -75.177485    4.0  lunch, brunch, breakfast    $$       Restaurants            Diners                  Greek American (Traditional)   Breakfast & Brunch      good flavor   average freshness       average healthy      good service   average environment good value
-                               Little Sicily 2 1608 S Christopher Columbus Blvd 39.926519 -75.145690    4.5             lunch, dinner    $$       Restaurants    Not Applicable               American                 Indian                Pizza excellent flavor excellent freshness       average healthy      good service   average environment good value
-                             Lloyd Whiskey Bar                 529 E Girard Ave 39.971358 -75.127589    4.0         latenight, dinner    $$       Restaurants              Bars         American (New)         Not Applicable       Not Applicable      good flavor      good freshness       average healthy      good service      good environment good value
-                    Love & Honey Fried Chicken                  1100 N Front St 39.967481 -75.136957    4.5    dessert, lunch, dinner    $$       Restaurants    Not Applicable American (Traditional)              Soul Food         Comfort Food      good flavor excellent freshness       average healthy      good service   average environment good value
-                                  Lucky 13 Pub                   1820 S 13th St 39.927164 -75.167128    4.0         latenight, dinner    $$       Restaurants              Bars         American (New)         Not Applicable       Not Applicable      good flavor      good freshness       average healthy   average service      good environment good value
-                               Manayunk Tavern                     4247 Main St 40.024596 -75.221131    4.0                    dinner    $$       Restaurants    Not Applicable American (Traditional)         Not Applicable         Comfort Food      good flavor      good freshness       average healthy   average service      good environment good value
-                            McCrossen's Tavern                    529 N 20th St 39.963092 -75.170920    4.0                    brunch    $$       Restaurants              Bars American (Traditional)         Not Applicable       Not Applicable      good flavor      good freshness       average healthy   average service      good environment good value
-                            McMenamin's Tavern              7170 Germantown Ave 40.059745 -75.190854    4.0  latenight, lunch, dinner    $$       Restaurants              Bars         American (New)         Not Applicable       Not Applicable      good flavor      good freshness       average healthy   average service      good environment good value
-                              McNally's Tavern              8634 Germantown Ave 40.077102 -75.208873    4.5             lunch, dinner    $$       Restaurants              Bars American (Traditional)         Not Applicable         Cheesesteaks excellent flavor      good freshness below average healthy      good service   average environment good value
-                                   Miles Table                    1620 South St 39.944043 -75.169513    4.5  lunch, brunch, breakfast    $$       Restaurants             Cafes American (Traditional)         Not Applicable   Breakfast & Brunch      good flavor      good freshness          good healthy   average service      good environment good value
-                                   Mission BBQ             11000 Roosevelt Blvd 40.100552 -75.009254    4.0             lunch, dinner    $$       Restaurants    Not Applicable         American (New)               Barbeque       Not Applicable      good flavor      good freshness       average healthy      good service      good environment good value
-                            National Mechanics                      22 S 3rd St 39.949544 -75.145987    4.0                    dinner    $$       Restaurants              Bars         American (New) American (Traditional)       Not Applicable      good flavor      good freshness       average healthy   average service      good environment good value
-                                         Noord                   1046 Tasker St 39.929660 -75.163003    4.5                    dinner   $$$       Restaurants    Not Applicable         American (New)           Scandinavian       Not Applicable excellent flavor excellent freshness          good healthy excellent service      good environment good value
-                                   North Third                     801 N 3rd St 39.963506 -75.142782    4.0                    dinner    $$       Restaurants              Bars         American (New)         Not Applicable              Burgers      good flavor      good freshness       average healthy   average service      good environment good value
-                               On Point Bistro            1200 Point Breeze Ave 39.937250 -75.177110    4.5             lunch, brunch    $$       Restaurants    Not Applicable               American         Not Applicable              Burgers      good flavor      good freshness       average healthy      good service      good environment good value
-                                         Perla                   1535 S 11th St 39.929905 -75.162942    4.5                    dinner   $$$       Restaurants    Not Applicable               Filipino         American (New)       Not Applicable      good flavor excellent freshness          good healthy      good service      good environment good value
-                           Prohibition Taproom                    501 N 13th St 39.961302 -75.159312    4.0         latenight, dinner    $$       Restaurants              Bars American (Traditional)         Not Applicable           Gastropubs      good flavor      good freshness       average healthy      good service      good environment good value
-                              Rex at the Royal                        1524 S St 39.943781 -75.168173    4.5                    dinner   $$$       Restaurants    Not Applicable         American (New)               Southern              Seafood      good flavor      good freshness       average healthy      good service      good environment good value
-                               Royal Boucherie                      52 S 2nd St 39.948758 -75.144083    4.0            dinner, brunch   $$$       Restaurants              Bars American (Traditional)         Not Applicable       Not Applicable excellent flavor excellent freshness       average healthy      good service excellent environment good value
-                                Sabrina's Café               1804 Callowhill St 39.960415 -75.168604    4.0         brunch, breakfast    $$       Restaurants             Cafes         American (New)             Vegetarian               Brunch      good flavor      good freshness       average healthy      good service   average environment good value
-                      Silk City Diner & Lounge             435 Spring Garden St 39.961327 -75.146033    4.0                    brunch    $$       Restaurants              Bars         American (New)         Not Applicable               Brunch      good flavor      good freshness       average healthy   average service      good environment good value
-                             Soup Kitchen Cafe           2146 E Susquehanna Ave 39.979820 -75.129822    4.0  lunch, brunch, breakfast    $$       Restaurants             Cafes         American (New)         Not Applicable                 Soup      good flavor      good freshness       average healthy   average service      good environment good value
-                          Spasso Italian Grill                    34 S Front St 39.948706 -75.142687    4.0                    dinner    $$       Restaurants              Bars                Italian American (Traditional)       Not Applicable      good flavor      good freshness       average healthy   average service   average environment good value
-                                  Tattooed Mom                     530 South St 39.941680 -75.151916    4.0                 latenight    $$       Restaurants              Bars         American (New)                  Vegan              Burgers      good flavor      good freshness          good healthy   average service      good environment good value
-                                 Taylor's Cafe                   6144 Ridge Ave 40.034328 -75.216551    4.0  lunch, brunch, breakfast    $$       Restaurants             Cafes         American (New)         Not Applicable   Breakfast & Brunch      good flavor      good freshness       average healthy   average service      good environment good value
-                                    The Abbaye                     637 N 3rd St 39.962248 -75.143004    4.0            dinner, brunch    $$       Restaurants              Bars American (Traditional)         Not Applicable       Not Applicable      good flavor      good freshness          good healthy   average service      good environment good value
-                                  The Olde Bar                    125 Walnut St 39.946905 -75.144092    4.0                    dinner   $$$       Restaurants              Bars         American (New)         Not Applicable              Seafood      good flavor      good freshness       average healthy   average service      good environment good value
-                               The Trestle Inn                    339 N 11th St 39.958826 -75.156676    4.0                   Unknown    $$       Restaurants              Bars American (Traditional)         Not Applicable        Cocktail Bars      good flavor      good freshness below average healthy   average service      good environment good value
-                           Tria Cafe Wash West                   1137 Spruce St 39.946624 -75.160914    4.5                    dinner    $$       Restaurants              Bars        Modern European         American (New)         Cheese Shops      good flavor      good freshness       average healthy excellent service      good environment good value
-                      Urban Village Brewing Co                    1001 N 2nd St 39.966700 -75.139970    4.0     lunch, dinner, brunch    $$       Restaurants              Bars         American (New)         Not Applicable                Pizza      good flavor      good freshness       average healthy   average service      good environment good value
-                              Vegan Commissary                     1429 Wolf St 39.922198 -75.171446    4.5                    brunch    $$       Restaurants          Bakeries American (Traditional)                  Vegan             Desserts      good flavor excellent freshness          good healthy      good service   average environment good value
-                          Vernick Food & Drink                   2031 Walnut St 39.950759 -75.174846    4.5                    dinner  $$$$       Restaurants            Diners         American (New)         Not Applicable Beer, Wine & Spirits excellent flavor excellent freshness          good healthy      good service      good environment good value
-                         Yards Brewing Company             500 Spring Garden St 39.960971 -75.146908    4.0                   Unknown    $$       Restaurants              Bars American (Traditional)         American (New)            Breweries      good flavor      good freshness       average healthy      good service      good environment good value
-Thought 6: Now that I have gathered information on accommodations, attractions, and dining options, I will compile this data and prepare it for the Planner tool to create a detailed travel itinerary for the 2-day trip.
-Action 6: Planner[Please generate a detailed travel itinerary for a 2-day trip with an expensive budget. The plan should focus on nature-oriented attractions, include recommendations for Irish restaurants, and suggest accommodations that prioritize good safety. All relevant business information will be provided following. Ensure that all recommendations and their addresses are organized in chronological order for each day. Be concise and well-structured.]
-Observation 6: ### Travel Itinerary for a 2-Day Trip
-
-#### Day 1:
+Thought 4: I need to adjust my search to find high-quality Irish restaurants without restricting by value since there were no results. I will focus on expensive Irish restaurants to ensure a good dining experience during the trip.
+Action 4: RestaurantSearch[Expensive budget, Irish, []]
+Observation 4: Wrong preference Input. Accepted inputs are: good flavor / good freshness / good healthy/ good service / good environment / good value. Please try again.
+Thought 5: I need to refine my search for Irish restaurants by including some of the acceptable quality preferences, since value was not returning any results. I will focus on good flavor and good service to ensure an enjoyable dining experience.
+Action 5: RestaurantSearch[Expensive budget, Irish, [Good Flavor, Good Service]]
+Observation 5: Masked due to limited length. Make sure the data has been written in Notebook.
+Thought 6: I need to shift my strategy for finding high-quality Irish restaurants. Since my previous attempts did not yield results, I should prioritize the best-rated Irish restaurants without overly restrictive preferences. This approach should help locate a suitable dining option for the itinerary.
+Action 6: RestaurantSearch[Expensive budget, Irish, [Good Flavor, Good Environment]]
+Observation 6:                                Masked due to limited length. Make sure the data has been written in Notebook.
+Thought 7: I now have gathered information about accommodations, nature-oriented attractions, and Irish restaurants suitable for an expensive budget. To create a well-structured itinerary, I need to investigate business clustering to optimize the arrangement of attractions and accommodations in one day.
+Action 7: BusinessClusterSearch[]
+Observation 7: {'Cluster_0': [['Strawberry Green Driving Range'], ['Parks On Tap-Azalea Gardens'], ['Shofuso Japanese House & Garden'], ['Lemon Hill Mansion'], ['Philadelphia Museum of Art'], ['The Oval'], ['Fairmount Water Works'], ['Philadelphia Zoo']], 'Cluster_1': [['Glen Foerd on the Delaware']], 'Cluster_10': [['Walnut Lane Golf Club'], ['Hidden River Outfitters'], ['Courtyard by Marriott']], 'Cluster_11': [['Philadelphia Insectarium & Butterfly Pavilion']], 'Cluster_12': [['Sky River Helicopters']], 'Cluster_13': [['Chester Avenue Dog Park'], ['The Study at University City'], ['The Inn at Penn, a Hilton Hotel']], 'Cluster_2': [['Spruce Street Harbor Park'], ['Spirit of Philadelphia'], ['Blue Cross RiverRink Winterfest'], ['Morris House Hotel'], ['RiverLink Ferry System'], ['Kimpton Hotel Monaco Philadelphia'], ['Lokal Hotel'], ['The Franklin Residences'], ['Philadelphia Marriott Old City'], ['The Center For Art In Wood'], ['Panorama'], ['Powel House'], ['Patriot Harbor Lines'], ['Benjamin Franklin Bridge'], ['Cherry Street Pier'], ['Old City District'], ['Independence Beer Garden'], ["Penn's Landing"], ['Franklin Square']], 'Cluster_3': [['Woodmere Art Museum'], ['Morris Arboretum']], 'Cluster_4': [['Live Casino Hotel'], ['Courtyard by Marriott Philadelphia South at The Navy Yard'], ['Walt Whitman Bridge'], ['FDR Park'], ['The Navy Yard'], ['The American Swedish Historical Museum']], 'Cluster_5': [['Juniata Golf Club'], ['Birchtree Catering']], 'Cluster_6': [['Suraya'], ['Fishtown Rivercity Festival'], ['Greensgrow Farms'], ['Orianna Hill Dog Park'], ['The Conwell Inn']], 'Cluster_7': [['Philadelphia Airport Marriott'], ['Minute Suites']], 'Cluster_8': [['Awbury Arboretum']], 'Cluster_9': [['The Rittenhouse Hotel'], ['ROOST Apartment Hotel'], ['The Ritz-Carlton, Philadelphia'], ['The Bellevue Hotel'], ['The Dwight D'], ['Academy of Natural Sciences'], ['Holiday Inn Express Philadelphia-Midtown'], ['ArtBar'], ['Urban Jungle'], ['Sister Cities Park'], ['Rodin Museum'], ['Rittenhouse Square Park'], ['Rittenhouse Square District'], ['Philly Bike Tour'], ['Philadelphia Flower Show'], ['Flourishing Gifts'], ['Cira Green'], ['Home2 Suites by Hilton Philadelphia - Convention Center, PA'], ['W Philadelphia']]}
+Thought 8: I have successfully gathered the necessary information regarding accommodations, attractions, and restaurants. Now, I will formulate the travel itinerary for the 2-day trip, ensuring a logical and enjoyable flow while optimizing for proximity.
+Action 8: Planner[Generate a detailed travel itinerary for a 2-day trip with an expensive budget focusing on nature-oriented attractions, including recommendations for Irish restaurants, and suggesting accommodations that prioritize good safety.]
+Observation 8: ### Day 1:
 - **Accommodation:** 
-  - **Name:** The Rittenhouse Hotel  
-    **Address:** 210 W Rittenhouse Sq, Philadelphia, PA  
-    **Stars:** 4.0  
-    **Price:** $$$  
-    **Quality:** Good quality  
-    **Location:** Excellent location  
-    **Service:** Good service  
-    **Safety:** Good safety  
+  - **Name:** The Rittenhouse Hotel
+    - **Address:** 210 W Rittenhouse Sq, Philadelphia, PA
+    - **Stars:** 4.0
+    - **Price:** $$$
+    - **Quality:** Good quality
+    - **Location:** Excellent location
+    - **Service:** Good service
+    - **Safety:** Good safety
 
 - **Breakfast:** 
-  - **Name:** Café Lift  
-    **Address:** 428 N 13th St, Philadelphia, PA  
-    **Stars:** 4.0  
-    **Price:** $$  
-    **Cuisine:** American (New)  
+  - **Name:** The Plough & the Stars
+    - **Address:** 123 Chestnut St, Philadelphia, PA
+    - **Stars:** 3.5
+    - **Good for Meal:** Latenight, lunch, dinner
+    - **Price:** $$
+    - **Cuisine:** Irish
+    - **Service:** Average service
 
 - **Morning Attraction:** 
-  - **Name:** Awbury Arboretum  
-    **Address:** 1 Awbury Rd, Philadelphia, PA  
-    **Stars:** 4.5  
-    **Price:** $$  
-    **Attraction Type:** Parks  
+  - **Name:** Fairmount Water Works
+    - **Address:** 640 Waterworks Dr, Philadelphia, PA
+    - **Stars:** 4.5
+    - **Price:** $$
+    - **Attraction Type:** Parks
+    - **Perks:** Active Life
 
 - **Lunch:** 
-  - **Name:** Almaz Cafe  
-    **Address:** 140 S 20th St, Philadelphia, PA  
-    **Stars:** 4.0  
-    **Price:** $$  
-    **Cuisine:** Ethiopian  
+  - **Name:** Moriarty's Restaurant and Irish Pub
+    - **Address:** 1116 Walnut St, Philadelphia, PA
+    - **Stars:** 3.5
+    - **Good for Meal:** Latenight, lunch, dinner
+    - **Price:** $$
+    - **Cuisine:** Irish
+    - **Service:** Average service
 
 - **Afternoon Attraction:** 
-  - **Name:** Fairmount Water Works  
-    **Address:** 640 Waterworks Dr, Philadelphia, PA  
-    **Stars:** 4.5  
-    **Price:** $$  
-    **Attraction Type:** Parks  
+  - **Name:** Philadelphia Zoo
+    - **Address:** 3400 W Girard Ave, Philadelphia, PA
+    - **Stars:** 4.0
+    - **Price:** $$$
+    - **Attraction Type:** Zoos
+    - **Perks:** Active Life
 
 - **Dinner:** 
-  - **Name:** The Dandelion  
-    **Address:** 124 S 18th St, Philadelphia, PA  
-    **Stars:** 4.5  
-    **Price:** $$$  
-    **Cuisine:** Irish  
+  - **Name:** Fergie's Pub
+    - **Address:** 1214 Sansom St, Philadelphia, PA
+    - **Stars:** 3.5
+    - **Good for Meal:** Latenight, dinner
+    - **Price:** $$
+    - **Cuisine:** Irish
+    - **Service:** Average service
 
 - **Night Attraction:** 
-  - **Name:** Philadelphia Zoo  
-    **Address:** 3400 W Girard Ave, Philadelphia, PA  
-    **Stars:** 4.0  
-    **Price:** $$$  
-    **Attraction Type:** Zoos  
+  - **Name:** Spruce Street Harbor Park
+    - **Address:** 121 N Columbus Blvd, Philadelphia, PA
+    - **Stars:** 4.0
+    - **Price:** $$
+    - **Attraction Type:** Parks
+    - **Perks:** Local Flavor
 
 ---
 
-#### Day 2:
+### Day 2:
 - **Accommodation:** 
-  - **Name:** The Rittenhouse Hotel (continued stay)  
-    **Address:** 210 W Rittenhouse Sq, Philadelphia, PA  
+  - **Name:** The Rittenhouse Hotel (continued stay)
+    - **Address:** 210 W Rittenhouse Sq, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** The Dandelion (continued)  
-    **Address:** 124 S 18th St, Philadelphia, PA  
+  - **Name:** The Bellevue Hotel
+    - **Address:** 200 S Broad St, Philadelphia, PA
+    - **Stars:** 3.5
+    - **Good for Meal:** Breakfast
+    - **Price:** $$$
+    - **Cuisine:** American
+    - **Service:** Average service
 
 - **Morning Attraction:** 
-  - **Name:** Morris Arboretum  
-    **Address:** 100 E Northwestern Ave, Philadelphia, PA  
-    **Stars:** 4.5  
-    **Price:** $$$  
-    **Attraction Type:** Botanical Gardens  
+  - **Name:** Awbury Arboretum
+    - **Address:** 1 Awbury Rd, Philadelphia, PA
+    - **Stars:** 4.5
+    - **Price:** $$
+    - **Attraction Type:** Parks
+    - **Perks:** Active Life
 
 - **Lunch:** 
-  - **Name:** Irish Pub  
-    **Address:** 2001 Walnut St, Philadelphia, PA  
-    **Stars:** 4.0  
-    **Price:** $$  
-    **Cuisine:** Irish  
+  - **Name:** Hilltown Tavern
+    - **Address:** 326 Roxborough Ave, Philadelphia, PA
+    - **Stars:** 4.0
+    - **Good for Meal:** Latenight, dinner
+    - **Price:** $$
+    - **Cuisine:** Irish
+    - **Service:** Average service
 
 - **Afternoon Attraction:** 
-  - **Name:** Wissahickon Valley Trail  
-    **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA  
-    **Stars:** 4.5  
-    **Price:** $$  
-    **Attraction Type:** Parks  
+  - **Name:** Morris Arboretum
+    - **Address:** 100 E Northwestern Ave, Philadelphia, PA
+    - **Stars:** 4.5
+    - **Price:** $$$
+    - **Attraction Type:** Botanical Gardens
+    - **Perks:** Arts & Entertainment
 
 - **Dinner:** 
-  - **Name:** The Black Sheep  
-    **Address:** 247 S 17th St, Philadelphia, PA  
-    **Stars:** 4.0  
-    **Price:** $$$  
-    **Cuisine:** Irish  
+  - **Name:** Zorba's Taverna
+    - **Address:** 2230 Fairmount Ave, Philadelphia, PA
+    - **Stars:** 4.5
+    - **Good for Meal:** Dinner
+    - **Price:** $$
+    - **Cuisine:** Mediterranean
+    - **Service:** Average service
 
 - **Night Attraction:** 
-  - **Name:** Spruce Street Harbor Park  
-    **Address:** 301 S Christopher Columbus Blvd, Philadelphia, PA  
-    **Stars:** 4.5  
-    **Price:** Free  
-    **Attraction Type:** Parks  
+  - **Name:** Philadelphia Museum of Art
+    - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
+    - **Stars:** 4.5
+    - **Price:** $$$
+    - **Attraction Type:** Museums
+    - **Perks:** Jazz & Blues
 
 ---
 
-This itinerary focuses on nature-oriented attractions, includes Irish dining options, and ensures accommodations with good safety ratings, all while maintaining an expensive budget. Enjoy your trip!
+This itinerary provides a balanced mix of nature-oriented attractions, Irish dining experiences, and accommodations that prioritize safety and quality. Enjoy your trip!

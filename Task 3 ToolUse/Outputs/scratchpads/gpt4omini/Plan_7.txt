@@ -1,38 +1,42 @@
 
-Thought 1: I need to generate a detailed travel itinerary for a 2-day trip with a moderate budget. The focus should be on activity-oriented attractions, Greek restaurants, and accommodations that prioritize good safety. I'll start by searching for suitable accommodations.
+Thought 1: To create a detailed travel itinerary for a 2-day trip with a moderate budget focusing on activity-oriented attractions, Greek restaurants, and accommodations with good safety, various information needs to be gathered first.
 Action 1: AccommodationSearch[Moderate Budget,[Good Safety]]
 Observation 1:                                                        Masked due to limited length. Make sure the data has been written in Notebook.
-Thought 2: I have gathered information on accommodations focused on good safety for the moderate budget. Now, I need to search for activity-oriented attractions that fit this budget and theme.
-Action 2: AttractionSearch[Moderate Budget, [Activity Oriented]]
+Thought 2: Based on the gathered accommodation options that prioritize good safety, I now need to find attractions that are activity-oriented and fit within a moderate budget. This will help set up a balanced itinerary that focuses on engaging experiences during the trip.
+Action 2: AttractionSearch[Moderate Budget,[Activity Oriented]]
 Observation 2:                                                             Masked due to limited length. Make sure the data has been written in Notebook.
-Thought 3: Now that I've gathered information on activity-oriented attractions, I need to search for Greek restaurants that fit within the moderate budget range and have good value and flavor.
-Action 3: RestaurantSearch[Moderate Budget, Greek, [Good Flavor, Good Value]]
-Observation 3:                     name               address  latitude  longitude  stars            good_for_meal price restaurant_type_1 restaurant_type_2     cuisine_1              cuisine_2              perks      flavor         freshness         healthy           service         environment      value
-Little Pete's Restaurant 2401 Pennsylvania Ave 39.967082 -75.177485    4.0 lunch, brunch, breakfast    $$       Restaurants            Diners         Greek American (Traditional) Breakfast & Brunch good flavor average freshness average healthy      good service average environment good value
-           Smiley's Cafe          4251 Main St 40.024774 -75.221435    4.5            lunch, dinner     $       Restaurants             Cafes Mediterranean                  Greek         Sandwiches good flavor    good freshness    good healthy excellent service average environment good value
-               Yiro Yiro        6024 Ridge Ave 40.032342 -75.214254    4.5   dessert, lunch, dinner    $$       Restaurants    Not Applicable Mediterranean                  Greek            Falafel good flavor    good freshness    good healthy      good service    good environment good value
-         Zorba's Taverna    2230 Fairmount Ave 39.967164 -75.174897    4.5                   dinner    $$       Restaurants    Not Applicable Mediterranean                  Greek     Not Applicable good flavor    good freshness average healthy   average service    good environment good value
-Thought 4: I have gathered the information on accommodations and activities, as well as Greek restaurants that fit the requested criteria. Now I can compile the itinerary based on the gathered information.
-Action 4: Planner[Generate a detailed travel itinerary for a 2-day trip with a moderate budget focusing on activity-oriented attractions, Greek restaurants, and accommodations prioritizing good safety.]
-Observation 4: ### Day 1:
-- **Accommodation:** 
+Thought 3: I have gathered accommodations and attractions that fit the user's preferences. Now, I need to find Greek restaurants within a moderate budget to include in the itinerary. This is crucial for ensuring a complete dining experience throughout the trip.
+Action 3: RestaurantSearch[Moderate Budget, Greek, []]
+Observation 3: Wrong preference Input. Accepted inputs are: good flavor / good freshness / good healthy/ good service / good environment / good value. Please try again.
+Thought 4: I need to adjust my search for Greek restaurants to include preferences related to quality, such as taste and service, in order to find suitable dining options for the itinerary during the trip.
+Action 4: RestaurantSearch[Moderate Budget, Greek, [Good Flavor, Good Value, Good Service]]
+Observation 4:                     Masked due to limited length. Make sure the data has been written in Notebook.
+Thought 5: To create a structured itinerary, I now have a list of accommodations, activity-oriented attractions, and Greek restaurants with good service and flavor. The next step will be to determine the business clusters to optimize the daily routing of the attractions and dining options. This will help ensure that locations that are close to one another are scheduled together.
+Action 5: BusinessClusterSearch[]
+Observation 5: {'Cluster_0': [['Dickinson Square Park'], ['Mario Lanza Park'], ['Rizzo Ice Rink'], ['Weccacoe Playground'], ['South Street Headhouse District'], ['Spirit of Philadelphia']], 'Cluster_1': [['Glendinning Rock Garden'], ['Historic Strawberry Mansion'], ['Sedgely Woods Disc Golf Club'], ['Smith Memorial Playground & Playhouse'], ['Philadelphia Zoo'], ['Strawberry Green Driving Range']], 'Cluster_10': [['Punk Rock Flea Market'], ['Franklin Square'], ['Franklin Square Mini Golf'], ['National Constitution Center'], ['Yards Brewing Company'], ['Chef Joseph Poon']], 'Cluster_11': [['NEST Center City'], ['Midtown Village Fall Festival'], ['Philadelphia International Festival of the Arts PIFA Street Fair'], ['Dilworth Park'], ['Mask and Wig'], ['Palace Travel'], ['W Philadelphia'], ['Reading Terminal Market'], ['City of Philadelphia'], ['StrEATS of Philly Food Tours'], ['Wonderspaces Philadelphia'], ['Holiday Inn Express Philadelphia-Midtown'], ['Home2 Suites by Hilton Philadelphia - Convention Center, PA'], ['ROOST Apartment Hotel'], ['The Bellevue Hotel'], ['The Ritz-Carlton, Philadelphia'], ['Philadelphia Science Festival'], ['City Hall']], 'Cluster_12': [['Wissahickon Valley Trail'], ['Morris Arboretum']], 'Cluster_13': [['Pennypack Park']], 'Cluster_14': [['Jules Goldman Books and Antiques'], ['Old City District'], ['Philly Tour Hub'], ['Shane Confectionery'], ['Spruce Street Harbor Park'], ['Cherry Street Pier'], ['Philadelphia Urban Adventures'], ['Independence Seaport Museum'], ["Penn's Landing Dog Park"], ['Race Street Pier'], ['Lokal Hotel'], ['Blue Cross RiverRink Winterfest'], ['Big Red Pedal Tours'], ['Panorama'], ["Penn's Landing"], ['Benjamin Franklin Bridge'], ['Philadelphia Marriott Old City']], 'Cluster_15': [['Historic Rittenhouse Town'], ['Wissahickon Park'], ['Blue Bell Park'], ['Walnut Lane Golf Club']], 'Cluster_16': [['Juniata Golf Club']], 'Cluster_17': [['Chew Philly Food Tours'], ['Pretzel Park'], ['Roxborough Dog Park'], ["Scanlon's Saloon"], ['Manayunk Dog Park of Pretzel Park'], ['Manayunk Arts Festival'], ['Hidden River Outfitters']], 'Cluster_18': [['Parks On Tap-Azalea Gardens'], ['The Oval'], ['Lemon Hill Mansion'], ['Fairmount Water Works'], ['Kelly Drive'], ['Rocky Steps'], ['The Rocky Statue'], ['The Schuylkill River Loop'], ['Drexel Park'], ['Boathouse Row']], 'Cluster_19': [['Philadelphia Insectarium & Butterfly Pavilion']], 'Cluster_2': [['Pleasant Hill Park'], ['Glen Foerd on the Delaware']], 'Cluster_20': [['Mummers Parade'], ['Miracle On 13th Street'], ['Philly Official Guide'], ['Singing Fountain'], ['Bury The Hatchet'], ['Flavors Of The Avenue']], 'Cluster_21': [['Schuylkill Center For Environmental Education']], 'Cluster_22': [['David Thomas Trailways']], 'Cluster_23': [['Clark Park'], ['University Family Fun Center'], ['Clark Park Flea Market'], ['Clark Park Dog Bowl']], 'Cluster_24': [['Minute Suites'], ['Philadelphia Airport Marriott']], 'Cluster_25': [['Academy of Natural Sciences'], ['The Franklin Institute Science Museum'], ['Logan Circle'], ['Sister Cities Park'], ['Green Street Dog Park'], ['Philly Bike Tour'], ['Mural Arts Philadelphia'], ['Roberto Clemente Park & Playground'], ['Eastern State Penitentiary Historic Site']], 'Cluster_26': [['Courtyard by Marriott'], ['Fairmount Park']], 'Cluster_27': [['Chinatown'], ['The Conwell Inn']], 'Cluster_28': [['Free Tours By Foot'], ['The Musical History Tours'], ['Philadelphia Segway Tours By Wheel Fun Rentals'], ['Independence Visitor Center'], ['Independence Beer Garden'], ['Philadelphia Sightseeing Tours & Transportation'], ['Independence After Hours'], ['Historic Philadelphia, Inc'], ["Spirits of '76 Ghost Tours"], ['Grim Philly Twilight Tours'], ['Kimpton Hotel Monaco Philadelphia'], ['Morris House Hotel'], ['Benjamin Franklin Museum'], ['Indy Hall'], ['The Franklin Residences'], ['Museum of the American Revolution'], ['Founding Footsteps'], ['Ghost Tour of Philadelphia']], 'Cluster_29': [["Bartram's Garden"], ['Philadelphia Trolley Works']], 'Cluster_3': [['Gorgas Park'], ['The Towpath']], 'Cluster_30': [['Night Market'], ['The Dwight D'], ['Excel Physical Therapy'], ['Rittenhouse Row Spring Festival'], ['Rittenhouse Square District'], ['Photography Tours of Philadelphia'], ['Dîner en Blanc'], ['Marian Anderson Recreation Center'], ['Bloktoberfest'], ['ArtBar'], ['The Rittenhouse Hotel'], ['Rittenhouse Square Park']], 'Cluster_31': [['The Study at University City'], ['The Inn at Penn, a Hilton Hotel']], 'Cluster_32': [["Penn's Landing"], ['Liberty Lands'], ['The Piazza'], ['Standard Tap'], ['Orianna Hill Dog Park']], 'Cluster_33': [['Seger Dog Park'], ["Fante's Kitchen Shop"], ['Cianfrani Park'], ['Painting with a Twist'], ["Philadelphia's 9th Street Italian Market"], ['Tattooed Mom']], 'Cluster_34': [['Belmont Plateau'], ['Please Touch Museum']], 'Cluster_35': [['The Navy Yard'], ['Courtyard by Marriott Philadelphia South at The Navy Yard'], ['FDR Park']], 'Cluster_4': [['Cira Green'], ['Schuylkill Banks'], ['Fitler Square Park'], ['Schuylkill River Dog Run'], ['Schuylkill River Park'], ['The Porch At 30th Street Station'], ['Markward Playground'], ['South Street Bridge'], ['Wine School of Philadelphia']], 'Cluster_5': [['John Heinz National Wildlife Refuge at Tinicum']], 'Cluster_6': [['Greensgrow Farms'], ['Fishtown Rivercity Festival'], ['Pizza Brain'], ['Palmer Doggie Depot'], ['Penn Treaty Park']], 'Cluster_7': [['Chester Avenue Dog Park'], ['Malcolm X Park'], ['The A-Space'], ['Cedar Park']], 'Cluster_8': [['Sky River Helicopters']], 'Cluster_9': [['The Turf Club'], ['Live Casino Hotel']]}
+Thought 6: Now that I have compiled the necessary information regarding accommodations, attractions, Greek restaurants, and business clusters, I can begin to structure the travel itinerary for a 2-day trip. The focus will be on activity-oriented experiences with proper attention to dining and lodging preferences, ensuring optimal routing of attractions and restaurants.
+Action 6: Planner[Generate a detailed travel itinerary for a 2-day trip with a moderate budget, focusing on activity-oriented attractions, Greek restaurants, and accommodations that prioritize good safety. Organize all recommendations chronologically for each day and ensure optimal routing of attractions.]
+Observation 6: ### Travel Itinerary for a 2-Day Trip in Philadelphia
+
+#### Day 1:
+- **Accommodation:**
   - **Name:** The Dwight D
   - **Address:** 256 S 16th St, Philadelphia, PA
   - **Stars:** 4.5
-  - **Price:** $$
+  - **Price:** $$ 
   - **Quality:** Good quality
   - **Location:** Excellent location
   - **Service:** Good service
   - **Safety:** Excellent safety
 
-- **Breakfast:** 
+- **Breakfast:**
   - **Name:** Brown Street Coffee & Bánhery
   - **Address:** 2545 Brown St, Philadelphia, PA
   - **Stars:** 4.0
-  - **Good for Meal:** Lunch, Brunch, Breakfast
+  - **Good for Meal:** Lunch, brunch, breakfast
   - **Price:** $
 
-- **Morning Attraction:** 
+- **Morning Attraction:**
   - **Name:** Academy of Natural Sciences
   - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
   - **Stars:** 4.0
@@ -40,15 +44,15 @@ Observation 4: ### Day 1:
   - **Attraction Type:** Museums
   - **Perks:** Not Applicable
 
-- **Lunch:** 
-  - **Name:** Al-Sham Restaurant
-  - **Address:** 6738 Bustleton Ave, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Good for Meal:** Lunch, Dinner
-  - **Price:** $$
-  - **Cuisine:** Middle Eastern
+- **Lunch:**
+  - **Name:** Kabobeesh
+  - **Address:** 4201 Chestnut St, Philadelphia, PA
+  - **Stars:** 3.5
+  - **Good for Meal:** Lunch, dinner
+  - **Price:** $$ 
+  - **Cuisine:** Indian, Middle Eastern
 
-- **Afternoon Attraction:** 
+- **Afternoon Attraction:**
   - **Name:** Wissahickon Valley Trail
   - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
   - **Stars:** 4.5
@@ -56,15 +60,15 @@ Observation 4: ### Day 1:
   - **Attraction Type:** Parks
   - **Perks:** Hiking
 
-- **Dinner:** 
-  - **Name:** Zorba's Taverna
-  - **Address:** 2230 Fairmount Ave, Philadelphia, PA
+- **Dinner:**
+  - **Name:** Yiro Yiro
+  - **Address:** 6024 Ridge Ave, Philadelphia, PA
   - **Stars:** 4.5
-  - **Good for Meal:** Dinner
-  - **Price:** $$
-  - **Cuisine:** Mediterranean
+  - **Good for Meal:** Dessert, lunch, dinner
+  - **Price:** $$ 
+  - **Cuisine:** Mediterranean, Greek
 
-- **Night Attraction:** 
+- **Night Attraction:**
   - **Name:** Yards Brewing Company
   - **Address:** 500 Spring Garden St, Philadelphia, PA
   - **Stars:** 4.0
@@ -74,19 +78,19 @@ Observation 4: ### Day 1:
 
 ---
 
-### Day 2:
-- **Accommodation:** 
-  - **Name:** The Dwight D (continued)
+#### Day 2:
+- **Accommodation:**
+  - **Name:** The Dwight D (continued stay)
   - **Address:** 256 S 16th St, Philadelphia, PA
 
-- **Breakfast:** 
+- **Breakfast:**
   - **Name:** Cafe Diem
   - **Address:** 1031 S 8th St, Philadelphia, PA
   - **Stars:** 4.5
   - **Good for Meal:** Lunch
   - **Price:** $
 
-- **Morning Attraction:** 
+- **Morning Attraction:**
   - **Name:** Bartram's Garden
   - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA
   - **Stars:** 4.5
@@ -94,38 +98,39 @@ Observation 4: ### Day 1:
   - **Attraction Type:** Parks
   - **Perks:** Botanical Gardens
 
-- **Lunch:** 
-  - **Name:** Kabobeesh
-  - **Address:** 4201 Chestnut St, Philadelphia, PA
-  - **Stars:** 3.5
-  - **Good for Meal:** Lunch, Dinner
-  - **Price:** $$
-  - **Cuisine:** Indian
+- **Lunch:**
+  - **Name:** Little Pete's Restaurant
+  - **Address:** 2401 Pennsylvania Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Good for Meal:** Lunch, brunch, breakfast
+  - **Price:** $$ 
+  - **Cuisine:** Greek, American (Traditional)
 
-- **Afternoon Attraction:** 
-  - **Name:** Wissahickon Park
-  - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA
+- **Afternoon Attraction:**
+  - **Name:** Philadelphia Zoo
+  - **Address:** 3400 W Girard Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$$
+  - **Attraction Type:** Zoos
+  - **Perks:** Active Life
+
+- **Dinner:**
+  - **Name:** Pho 20
+  - **Address:** 234-236 N 10th St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Good for Meal:** Lunch, dinner
+  - **Price:** $$
+  - **Cuisine:** Vietnamese
+
+- **Night Attraction:**
+  - **Name:** Spruce Street Harbor Park
+  - **Address:** 121 N Columbus Blvd, Philadelphia, PA
   - **Stars:** 4.5
   - **Price:** $
   - **Attraction Type:** Parks
   - **Perks:** Active Life
 
-- **Dinner:** 
-  - **Name:** Little Pete's Restaurant
-  - **Address:** 2401 Pennsylvania Ave, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Good for Meal:** Lunch, Brunch, Breakfast
-  - **Price:** $$
-  - **Cuisine:** Greek
-
-- **Night Attraction:** 
-  - **Name:** Philadelphia Flower Show
-  - **Address:** 1101 Arch St, Philadelphia, PA
-  - **Stars:** 2.5
-  - **Price:** $$
-  - **Attraction Type:** Local Flavor
-  - **Perks:** Flowers & Gifts
-
 ---
 
-This itinerary provides a balanced mix of activity-oriented attractions, Greek dining experiences, and accommodations with a focus on safety, all while maintaining a moderate budget. Enjoy your trip!
+### Summary:
+This itinerary provides a balanced mix of activity-oriented attractions, Greek dining experiences, and accommodations with a focus on safety. Each day is structured to minimize travel time between locations, ensuring a smooth and enjoyable experience in Philadelphia.

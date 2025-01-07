@@ -1,0 +1,185 @@
+### Travel Plan for a 2-Day Trip in Philadelphia
+
+#### Day 1:
+- **Accommodation:** 
+  - **Name:** The Franklin Residences
+  - **Address:** 834 Chestnut St, Philadelphia, PA
+  - **Stars:** 5.0
+  - **Price:** $$$
+  - **Quality:** Good quality
+  - **Location:** Excellent location
+  - **Service:** Excellent service
+  - **Safety:** Good safety
+
+- **Breakfast:** 
+  - **Name:** Cafe Nhan
+  - **Address:** 1606 W Passyunk Ave, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Good for Meal:** Lunch, Dinner, Brunch
+  - **Price:** $$
+  - **Cuisine:** Vietnamese
+  - **Perks:** Not Applicable
+  - **Flavor:** Excellent flavor
+  - **Freshness:** Excellent freshness
+  - **Healthy:** Good healthy
+  - **Service:** Excellent service
+  - **Environment:** Good environment
+  - **Value:** Good value
+
+- **Morning Attraction:** 
+  - **Name:** Independence Hall
+  - **Address:** 520 Chestnut St, Philadelphia, PA
+  - **Stars:** 5.0
+  - **Price:** Free
+  - **Attraction Type:** Landmarks & Historical Buildings
+  - **Perks:** Not Applicable
+  - **Family Oriented:** High family oriented
+  - **History Oriented:** High history oriented
+  - **Activity Oriented:** Medium activity oriented
+
+- **Lunch:** 
+  - **Name:** Le Viet Restaurant
+  - **Address:** 1019 S 11th St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Good for Meal:** Lunch, Dinner
+  - **Price:** $$
+  - **Cuisine:** Vietnamese
+  - **Perks:** Not Applicable
+  - **Flavor:** Good flavor
+  - **Freshness:** Good freshness
+  - **Healthy:** Good healthy
+  - **Service:** Average service
+  - **Environment:** Excellent environment
+  - **Value:** Good value
+
+- **Afternoon Attraction:** 
+  - **Name:** The Liberty Bell Center
+  - **Address:** 526 Market St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** Free
+  - **Attraction Type:** Landmarks & Historical Buildings
+  - **Perks:** Not Applicable
+  - **Family Oriented:** High family oriented
+  - **History Oriented:** High history oriented
+  - **Activity Oriented:** Low activity oriented
+
+- **Dinner:** 
+  - **Name:** Pho 75
+  - **Address:** 823 Adams Ave, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Good for Meal:** Lunch, Dinner
+  - **Price:** $$
+  - **Cuisine:** Vietnamese
+  - **Perks:** Not Applicable
+  - **Flavor:** Excellent flavor
+  - **Freshness:** Good freshness
+  - **Healthy:** Good healthy
+  - **Service:** Good service
+  - **Environment:** Average environment
+  - **Value:** Excellent value
+
+- **Night Attraction:** 
+  - **Name:** Ghost Tour of Philadelphia
+  - **Address:** 301 Chestnut St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$
+  - **Attraction Type:** Tours
+  - **Perks:** Not Applicable
+  - **Family Oriented:** Medium family oriented
+  - **History Oriented:** High history oriented
+  - **Activity Oriented:** Medium activity oriented
+
+---
+
+#### Day 2:
+- **Accommodation:** 
+  - **Name:** The Dwight D
+  - **Address:** 256 S 16th St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $$
+  - **Quality:** Good quality
+  - **Location:** Excellent location
+  - **Service:** Good service
+  - **Safety:** Excellent safety
+
+- **Breakfast:** 
+  - **Name:** Pho Ha
+  - **Address:** 600 Washington Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Good for Meal:** Lunch, Dinner
+  - **Price:** $$
+  - **Cuisine:** Vietnamese
+  - **Perks:** Not Applicable
+  - **Flavor:** Good flavor
+  - **Freshness:** Good freshness
+  - **Healthy:** Average healthy
+  - **Service:** Average service
+  - **Environment:** Below average environment
+  - **Value:** Good value
+
+- **Morning Attraction:** 
+  - **Name:** The Museum of the American Revolution
+  - **Address:** 101 S 3rd St, Philadelphia, PA
+  - **Stars:** 4.5
+  - **Price:** $$
+  - **Attraction Type:** Museums
+  - **Perks:** Not Applicable
+  - **Family Oriented:** High family oriented
+  - **History Oriented:** High history oriented
+  - **Activity Oriented:** Medium activity oriented
+
+- **Lunch:** 
+  - **Name:** Kabobeesh
+  - **Address:** 4201 Chestnut St, Philadelphia, PA
+  - **Stars:** 3.5
+  - **Good for Meal:** Lunch, Dinner
+  - **Price:** $$
+  - **Cuisine:** Indian, Middle Eastern
+  - **Perks:** Halal
+  - **Flavor:** Good flavor
+  - **Freshness:** Good freshness
+  - **Healthy:** Average healthy
+  - **Service:** Below average service
+  - **Environment:** Average environment
+  - **Value:** Good value
+
+- **Afternoon Attraction:** 
+  - **Name:** Benjamin Franklin Museum
+  - **Address:** 317 Chestnut St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$
+  - **Attraction Type:** Museums
+  - **Perks:** Arts & Entertainment
+  - **Family Oriented:** High family oriented
+  - **History Oriented:** Medium history oriented
+  - **Activity Oriented:** Medium activity oriented
+
+- **Dinner:** 
+  - **Name:** Hummus Grill
+  - **Address:** 3931 Walnut St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Good for Meal:** Lunch, Dinner
+  - **Price:** $$
+  - **Cuisine:** Mediterranean
+  - **Perks:** Vegetarian
+  - **Flavor:** Good flavor
+  - **Freshness:** Good freshness
+  - **Healthy:** Good healthy
+  - **Service:** Average service
+  - **Environment:** Average environment
+  - **Value:** Good value
+
+- **Night Attraction:** 
+  - **Name:** Philadelphia International Festival of the Arts
+  - **Address:** Various locations
+  - **Stars:** 4.5
+  - **Price:** Varies
+  - **Attraction Type:** Festivals
+  - **Perks:** Local Flavor
+  - **Family Oriented:** Medium family oriented
+  - **History Oriented:** Low history oriented
+  - **Activity Oriented:** Medium activity oriented
+
+---
+
+This itinerary provides a balanced mix of historical attractions, Vietnamese dining experiences, and accommodations that prioritize safety, quality, and service, all while maintaining an expensive budget. Enjoy your trip!

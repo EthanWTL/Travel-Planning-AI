@@ -1,131 +1,117 @@
 
-Thought 1: I need to gather information on accommodation, attractions, and restaurants suitable for a cheap budget with a focus on activity-oriented attractions and Indian dining options emphasizing good flavor and good value. Organizing these based on proximity for each day's itinerary will be key to optimizing the travel experience.
+Thought 1: To generate a well-organized travel itinerary for a 3-day trip focusing on cheap, activity-oriented attractions, Indian restaurants with good flavor and value, and accommodations in a good location, I will first gather information on each category: accommodation, attractions, and restaurants. I will also need to look into spatial clustering to optimize the route.
 Action 1: AccommodationSearch[Cheap Budget,[Good Location]]
 Observation 1:                                                        Masked due to limited length. Make sure the data has been written in Notebook.
-Thought 2: I have obtained a list of accommodations that meet the criteria for a cheap budget and a good location. Next, I need to find activity-oriented attractions that are also suitable for a cheap budget to help organize the itinerary efficiently.
-Action 2: AttractionSearch[Cheap Budget,[Activity Oriented]]
-Observation 2:                                            Masked due to limited length. Make sure the data has been written in Notebook.
-Thought 3: I have gathered a list of accommodations that fit the budget and location criteria. I will now search for Indian restaurants that provide good flavor and good value, which will complement the itinerary.
-Action 3: RestaurantSearch[Cheap Budget, Indian, [Good Flavor, Good Value]]
-Observation 3:                                   name                          address  latitude  longitude  stars            good_for_meal price restaurant_type_1 restaurant_type_2      cuisine_1      cuisine_2          perks           flavor           freshness         healthy               service               environment           value
-           Amma's South Indian Cuisine                 1518 Chestnut St 39.950914 -75.166417    4.0            lunch, dinner    $$       Restaurants    Not Applicable         Indian Not Applicable Not Applicable excellent flavor      good freshness    good healthy       average service          good environment      good value
-                      Desi Chaat House                    501 S 42nd St 39.949642 -75.206939    4.0            lunch, dinner     $       Restaurants    Not Applicable         Indian Not Applicable Not Applicable      good flavor      good freshness    good healthy          good service       average environment      good value
-                   Ekta Indian Cuisine                   1142 Crease St 39.969205 -75.132573    4.0                   dinner    $$       Restaurants    Not Applicable         Indian      Pakistani Not Applicable excellent flavor      good freshness    good healthy          good service       average environment      good value
-                             Kabobeesh                 4201 Chestnut St 39.956480 -75.206529    3.5            lunch, dinner    $$       Restaurants    Not Applicable         Indian Middle Eastern          Halal      good flavor   average freshness average healthy below average service below average environment      good value
-                Karma Restaurant & Bar                  114 Chestnut St 39.948182 -75.143155    4.0            lunch, dinner    $$       Restaurants              Bars         Indian Not Applicable Not Applicable      good flavor      good freshness average healthy       average service       average environment      good value
-                       Little Sicily 2 1608 S Christopher Columbus Blvd 39.926519 -75.145690    4.5            lunch, dinner    $$       Restaurants    Not Applicable       American         Indian          Pizza excellent flavor excellent freshness average healthy          good service       average environment      good value
-Masala Kitchen Kati Rolls and Platters                   1115 Walnut St 39.949176 -75.159714    4.0 latenight, lunch, dinner     $       Restaurants    Not Applicable         Indian Not Applicable          Halal      good flavor      good freshness average healthy          good service       average environment      good value
-                             Mood Cafe               4618 Baltimore Ave 39.948664 -75.215832    4.5            lunch, dinner     $       Restaurants             Cafes      Pakistani         Indian          Halal excellent flavor excellent freshness    good healthy     excellent service       average environment excellent value
-           New Delhi Indian Restaurant                 4004 Chestnut St 39.955392 -75.202619    4.0            lunch, dinner    $$       Restaurants    Not Applicable         Indian      Pakistani          Vegan      good flavor      good freshness average healthy       average service          good environment      good value
-               Saad's Halal Restaurant                   4500 Walnut St 39.954963 -75.211851    4.5            lunch, dinner     $       Restaurants    Not Applicable Middle Eastern         Indian   Cheesesteaks excellent flavor excellent freshness average healthy          good service       average environment      good value
-                  Thanal Indian Tavern                     1939 Arch St 39.955872 -75.172528    4.5                   dinner    $$       Restaurants    Not Applicable   Asian Fusion         Indian Not Applicable excellent flavor excellent freshness    good healthy          good service          good environment      good value
-                            Wah-Gi-Wah                 4447 Chestnut St 39.957050 -75.211145    3.5            lunch, dinner    $$       Restaurants    Not Applicable         Indian      Pakistani          Halal      good flavor   average freshness average healthy below average service below average environment      good value
-                                 Zaika                   2481 Grant Ave 40.079848 -75.025080    4.0            lunch, dinner    $$       Restaurants    Not Applicable         Indian      Pakistani          Halal      good flavor      good freshness average healthy       average service below average environment      good value
-Thought 4: I have now gathered a list of Indian restaurants that provide good flavor and good value, adhering to the cheap budget. Next, I need to assess the business clusters among the accommodations, attractions, and restaurants to optimize the itinerary based on their proximity to each other.
-Action 4: BusinessClusterSearch[3]
-Observation 4: 
-Thought 5: I have collected the necessary information to create a well-structured travel itinerary. The next step is to compile the details of accommodations, attractions, and restaurants into a comprehensive plan for each day of the trip, ensuring optimal routes and proximity to enhance the travel experience.
-Action 5: Planner[Please generate a detailed travel itinerary for a 3-day trip with a cheap budget. The plan should focus on activity-oriented attractions, include recommendations for Indian restaurants that offer good flavor and good value, and suggest accommodations that are in a good location. All relevant business information will be provided following. Ensure that all recommendations and their addresses are organized in chronological order for each day. Be concise and well-structured. Please be aware of optimization of the routes of attractions for each day as well as the whole plan, for example, arrange attractions and hotels that close to each other in one day.]
+Thought 2: I have gathered a list of accommodations available within a cheap budget that are located in good areas. Next, I will look for Indian restaurants that meet the specified criteria of good flavor and good value.
+Action 2: RestaurantSearch[Cheap Budget, Indian, [Good Flavor, Good Value]]
+Observation 2:                                   Masked due to limited length. Make sure the data has been written in Notebook.
+Thought 3: I have collected a good list of Indian restaurants offering good flavor and good value within a cheap budget. Now, I will proceed to gather information on activity-oriented attractions that fit the budget requirements.
+Action 3: AttractionSearch[Cheap budget,[Activity Oriented]]
+Observation 3:                                            Masked due to limited length. Make sure the data has been written in Notebook.
+Thought 4: I have obtained a list of activity-oriented attractions that fit the cheap budget requirement. Now, I will need to analyze the spatial clustering of the accommodations, restaurants, and attractions to optimize the itinerary for each day.
+Action 4: BusinessClusterSearch[]
+Observation 4: {'Cluster_0': [['Pennypack Park']], 'Cluster_1': [['Element Philadelphia'], ['Club Quarters Philadelphia'], ['Bloktoberfest'], ['Sofitel Philadelphia'], ['The Westin Philadelphia'], ['Chez Colette'], ['Sheraton Philadelphia Downtown'], ['Night Market'], ['ArtBar'], ['Marian Anderson Recreation Center'], ['Motto By Hilton Philadelphia Rittenhouse Square'], ['The Dwight D'], ['Rittenhouse Square Park'], ['Sonesta Philadelphia Rittenhouse Square'], ['The Windsor Suites']], 'Cluster_10': [['Pizza Brain'], ['Penn Treaty Park'], ['Palmer Doggie Depot'], ['Fishtown Rivercity Festival'], ['Greensgrow Farms']], 'Cluster_11': [["Fante's Kitchen Shop"], ['Philly Official Guide'], ["Philadelphia's 9th Street Italian Market"], ['Philadelphia Hotel Bella Vista'], ['Cianfrani Park'], ['Seger Dog Park']], 'Cluster_12': [['Belmont Plateau']], 'Cluster_13': [['Juniata Golf Club']], 'Cluster_14': [['Sheraton Philadelphia University City Hotel'], ['Markward Playground'], ['Fitler Square Park'], ['Cira Green'], ['The Study at University City'], ['South Street Bridge'], ['Schuylkill Banks'], ['The Porch At 30th Street Station'], ['Schuylkill River Dog Run'], ['Schuylkill River Park'], ['Penn Tower Hotel']], 'Cluster_15': [['Sedgely Woods Disc Golf Club'], ['Fairmount Park'], ['Strawberry Green Driving Range'], ['Historic Strawberry Mansion'], ['Smith Memorial Playground & Playhouse']], 'Cluster_16': [['Orianna Hill Dog Park'], ['Standard Tap'], ['Liberty Lands'], ['Yards Brewing Company'], ["Penn's Landing"], ['Punk Rock Flea Market']], 'Cluster_17': [['Reading Terminal Market'], ['Home2 Suites by Hilton Philadelphia - Convention Center, PA'], ['Holiday Inn Express Philadelphia-Midtown'], ['Fairfield Inn & Suites Philadelphia Downtown/Center City'], ['Philadelphia Science Festival'], ['NEST Center City'], ['Philadelphia Marriott Downtown'], ['City Hall'], ['Dilworth Park'], ['DoubleTree by Hilton Hotel Philadelphia Center City'], ['Aloft Philadelphia Downtown'], ['Sleep Inn Center City'], ['Alexander Inn'], ['Rodeway Inn Center City'], ['Residence Inn by Marriott Philadelphia Center City'], ['Wonderspaces Philadelphia'], ['Four Points by Sheraton Philadelphia City Center'], ['Hilton Garden Inn Philadelphia Center City'], ['Midtown Village Fall Festival']], 'Cluster_18': [['Pleasant Hill Park']], 'Cluster_19': [['Schuylkill Center For Environmental Education']], 'Cluster_2': [['Wissahickon Valley Trail']], 'Cluster_20': [['The Oval'], ['Sister Cities Park'], ['Mural Arts Philadelphia'], ['Philly Bike Tour'], ['Roberto Clemente Park & Playground'], ['Logan Circle']], 'Cluster_21': [['Philadelphia Airport Marriott'], ['Fairfield Inn by Marriott Philadelphia Airport']], 'Cluster_22': [['Historic Rittenhouse Town'], ['Blue Bell Park'], ['Wissahickon Park']], 'Cluster_23': [['Dickinson Square Park'], ['Tattooed Mom'], ['Weccacoe Playground'], ['Mario Lanza Park'], ['Rizzo Ice Rink'], ['South Street Headhouse District']], 'Cluster_24': [['Courtyard by Marriott'], ['Homewood Suites by Hilton Philadelphia-City Avenue']], 'Cluster_25': [['The Conwell Inn'], ['Chinatown']], 'Cluster_26': [['Singing Fountain'], ['Miracle On 13th Street'], ['Mummers Parade']], 'Cluster_27': [['Wyndham Philadelphia Historic District'], ['Independence Park Hotel, Bw Premier Collection'], ['Philadelphia Sightseeing Tours & Transportation'], ['Renaissance Philadelphia Downtown Hotel'], ['Independence Visitor Center'], ['Independence Beer Garden'], ['Ghost Tour of Philadelphia'], ['Free Tours By Foot'], ['Society Hill Hotel'], ['Benjamin Franklin Museum']], 'Cluster_28': [['Malcolm X Park'], ['Cedar Park'], ['The A-Space']], 'Cluster_29': [['John Heinz National Wildlife Refuge at Tinicum'], ['Courtyard by Marriott Philadelphia Airport']], 'Cluster_3': [['Residence Inn Philadelphia Airport'], ['DoubleTree by Hilton Hotel Philadelphia Airport']], 'Cluster_4': [['Roxborough Dog Park'], ['Pretzel Park'], ['Gorgas Park'], ['The Towpath'], ['Manayunk Dog Park of Pretzel Park'], ["Scanlon's Saloon"]], 'Cluster_5': [['Jules Goldman Books and Antiques'], ["Penn's Landing Dog Park"], ["Penn's Landing"], ['Blue Cross RiverRink Winterfest'], ['Philly Tour Hub'], ["Penn's View Hotel"], ['Race Street Pier'], ['Philadelphia Urban Adventures'], ['Cherry Street Pier'], ['Shane Confectionery'], ['Holiday Inn Express Philadelphia - Penns Landing']], 'Cluster_6': [['Drexel Park'], ['Rocky Steps'], ['Boathouse Row'], ['The Rocky Statue'], ['Lemon Hill Mansion'], ['Kelly Drive'], ['The Schuylkill River Loop'], ['Glendinning Rock Garden']], 'Cluster_7': [['The Navy Yard'], ['The Turf Club'], ['FDR Park'], ['Live Casino Hotel']], 'Cluster_8': [['Clark Park Dog Bowl'], ['University Family Fun Center'], ['Clark Park'], ['Homewood Suites by Hilton University City Philadelphia, PA'], ['Clark Park Flea Market'], ["Bartram's Garden"]], 'Cluster_9': [["Leneghan's Crusader Inn"]]}
+Thought 5: To create an organized travel itinerary, I now have all the necessary information regarding accommodations, restaurants, and attractions that will allow me to optimize the routes for each day. I will proceed to formulate the detailed 3-day trip plan based on spatial clustering and the gathered insights.
+Action 5: Planner[Generate a detailed travel itinerary for a 3-day trip with a cheap budget focusing on activity-oriented attractions, Indian restaurants with good flavor and good value, and accommodations in a good location.]
 Observation 5: ### 3-Day Travel Itinerary for Philadelphia
 
 #### Day 1:
 - **Accommodation:** 
-  - **Name:** Alexander Inn  
-    **Address:** 301 S 12th St, Philadelphia, PA 19107  
+  - **Name:** Club Quarters Philadelphia
+    - **Address:** 1628 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Mood Cafe  
-    **Address:** 4618 Baltimore Ave, Philadelphia, PA 19143  
+  - **Name:** Mood Cafe
+    - **Address:** 4618 Baltimore Ave, Philadelphia, PA
 
 - **Morning Attraction:** 
-  - **Name:** Bartram's Garden  
-    **Address:** 5400 Lindbergh Blvd, Philadelphia, PA 19143  
+  - **Name:** Wissahickon Valley Trail
+    - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
 
 - **Lunch:** 
-  - **Name:** Amma's South Indian Cuisine  
-    **Address:** 1518 Chestnut St, Philadelphia, PA 19102  
+  - **Name:** Amma's South Indian Cuisine
+    - **Address:** 1518 Chestnut St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
-  - **Name:** Wissahickon Valley Trail  
-    **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA 19128  
-  - **Name:** Wissahickon Park  
-    **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA 19128  
+  - **Name:** Bartram's Garden
+    - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA
+  - **Name:** Belmont Plateau
+    - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA
 
 - **Dinner:** 
-  - **Name:** Kabobeesh  
-    **Address:** 4201 Chestnut St, Philadelphia, PA 19104  
+  - **Name:** Kabobeesh
+    - **Address:** 4201 Chestnut St, Philadelphia, PA
 
 - **Night Attraction:** 
-  - **Name:** Yards Brewing Company  
-    **Address:** 500 Spring Garden St, Philadelphia, PA 19123  
+  - **Name:** Blue Cross RiverRink Winterfest
+    - **Address:** 101 S Columbus Blvd, Philadelphia, PA
 
 ---
 
 #### Day 2:
 - **Accommodation:** 
-  - **Name:** Alexander Inn  
-    **Address:** 301 S 12th St, Philadelphia, PA 19107  
+  - **Name:** Club Quarters Philadelphia
+    - **Address:** 1628 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Little Sicily 2  
-    **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA 19148  
+  - **Name:** Little Sicily 2
+    - **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA
 
 - **Morning Attraction:** 
-  - **Name:** Belmont Plateau  
-    **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA 19131  
+  - **Name:** Fairmount Park
+    - **Address:** 1 Boathouse Row, Philadelphia, PA
 
 - **Lunch:** 
-  - **Name:** Thanal Indian Tavern  
-    **Address:** 1939 Arch St, Philadelphia, PA 19103  
+  - **Name:** Desi Chaat House
+    - **Address:** 501 S 42nd St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
-  - **Name:** Benjamin Franklin Museum  
-    **Address:** 317 Chestnut St, Philadelphia, PA 19106  
-  - **Name:** Wonderspaces Philadelphia  
-    **Address:** 27 N 11th St, Philadelphia, PA 19107  
+  - **Name:** Wissahickon Park
+    - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA
+  - **Name:** Yards Brewing Company
+    - **Address:** 500 Spring Garden St, Philadelphia, PA
 
 - **Dinner:** 
-  - **Name:** Wah-Gi-Wah  
-    **Address:** 4447 Chestnut St, Philadelphia, PA 19104  
+  - **Name:** Thanal Indian Tavern
+    - **Address:** 1939 Arch St, Philadelphia, PA
 
 - **Night Attraction:** 
-  - **Name:** Bloktoberfest  
-    **Address:** 17 Washington Ave, Philadelphia, PA 19147  
+  - **Name:** The Oval
+    - **Address:** 2451 Benjamin Franklin Pkwy, Philadelphia, PA
 
 ---
 
 #### Day 3:
 - **Accommodation:** 
-  - **Name:** Alexander Inn  
-    **Address:** 301 S 12th St, Philadelphia, PA 19107  
+  - **Name:** Club Quarters Philadelphia
+    - **Address:** 1628 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Ekta Indian Cuisine  
-    **Address:** 1142 Crease St, Philadelphia, PA 19111  
+  - **Name:** Karma Restaurant & Bar
+    - **Address:** 114 Chestnut St, Philadelphia, PA
 
 - **Morning Attraction:** 
-  - **Name:** Blue Bell Park  
-    **Address:** 842 Walnut Ln, Philadelphia, PA 19128  
+  - **Name:** The Schuylkill River Loop
+    - **Address:** Kelly Drive, Philadelphia, PA
 
 - **Lunch:** 
-  - **Name:** New Delhi Indian Restaurant  
-    **Address:** 4004 Chestnut St, Philadelphia, PA 19104  
+  - **Name:** Ekta Indian Cuisine
+    - **Address:** 1142 Crease St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
-  - **Name:** Weccacoe Playground  
-    **Address:** 400 Catharine St, Philadelphia, PA 19147  
-  - **Name:** Wissahickon Park  
-    **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA 19128  
+  - **Name:** Wonderspaces Philadelphia
+    - **Address:** 27 N 11th St, Philadelphia, PA
+  - **Name:** Reading Terminal Market
+    - **Address:** 1136 Arch St, Philadelphia, PA
 
 - **Dinner:** 
-  - **Name:** Zaika  
-    **Address:** 2481 Grant Ave, Philadelphia, PA 19114  
+  - **Name:** Wah-Gi-Wah
+    - **Address:** 4447 Chestnut St, Philadelphia, PA
 
 - **Night Attraction:** 
-  - **Name:** Blue Cross RiverRink Winterfest  
-    **Address:** 101 S Columbus Blvd, Philadelphia, PA 19106  
+  - **Name:** Rittenhouse Square Park
+    - **Address:** Rittenhouse Square, Philadelphia, PA
 
 ---
 
-### Summary:
-This itinerary focuses on activity-oriented attractions while ensuring that accommodations and restaurants are budget-friendly and conveniently located. Each day is structured to minimize travel time between locations, allowing for a more enjoyable experience in Philadelphia.
+This itinerary focuses on activity-oriented attractions, Indian restaurants with good flavor and value, and accommodations in a good location, all while keeping a budget-friendly approach. Enjoy your trip to Philadelphia!

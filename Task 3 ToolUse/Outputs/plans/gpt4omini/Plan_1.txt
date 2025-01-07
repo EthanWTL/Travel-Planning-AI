@@ -2,102 +2,101 @@
 
 #### Day 1:
 - **Accommodation:** 
-  - **Name:** Alexander Inn  
-    **Address:** 301 S 12th St, Philadelphia, PA 19107  
+  - **Name:** Club Quarters Philadelphia
+    - **Address:** 1628 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Mood Cafe  
-    **Address:** 4618 Baltimore Ave, Philadelphia, PA 19143  
+  - **Name:** Mood Cafe
+    - **Address:** 4618 Baltimore Ave, Philadelphia, PA
 
 - **Morning Attraction:** 
-  - **Name:** Bartram's Garden  
-    **Address:** 5400 Lindbergh Blvd, Philadelphia, PA 19143  
+  - **Name:** Wissahickon Valley Trail
+    - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
 
 - **Lunch:** 
-  - **Name:** Amma's South Indian Cuisine  
-    **Address:** 1518 Chestnut St, Philadelphia, PA 19102  
+  - **Name:** Amma's South Indian Cuisine
+    - **Address:** 1518 Chestnut St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
-  - **Name:** Wissahickon Valley Trail  
-    **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA 19128  
-  - **Name:** Wissahickon Park  
-    **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA 19128  
+  - **Name:** Bartram's Garden
+    - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA
+  - **Name:** Belmont Plateau
+    - **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA
 
 - **Dinner:** 
-  - **Name:** Kabobeesh  
-    **Address:** 4201 Chestnut St, Philadelphia, PA 19104  
+  - **Name:** Kabobeesh
+    - **Address:** 4201 Chestnut St, Philadelphia, PA
 
 - **Night Attraction:** 
-  - **Name:** Yards Brewing Company  
-    **Address:** 500 Spring Garden St, Philadelphia, PA 19123  
+  - **Name:** Blue Cross RiverRink Winterfest
+    - **Address:** 101 S Columbus Blvd, Philadelphia, PA
 
 ---
 
 #### Day 2:
 - **Accommodation:** 
-  - **Name:** Alexander Inn  
-    **Address:** 301 S 12th St, Philadelphia, PA 19107  
+  - **Name:** Club Quarters Philadelphia
+    - **Address:** 1628 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Little Sicily 2  
-    **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA 19148  
+  - **Name:** Little Sicily 2
+    - **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA
 
 - **Morning Attraction:** 
-  - **Name:** Belmont Plateau  
-    **Address:** 2000 Belmont Mansion Dr, Philadelphia, PA 19131  
+  - **Name:** Fairmount Park
+    - **Address:** 1 Boathouse Row, Philadelphia, PA
 
 - **Lunch:** 
-  - **Name:** Thanal Indian Tavern  
-    **Address:** 1939 Arch St, Philadelphia, PA 19103  
+  - **Name:** Desi Chaat House
+    - **Address:** 501 S 42nd St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
-  - **Name:** Benjamin Franklin Museum  
-    **Address:** 317 Chestnut St, Philadelphia, PA 19106  
-  - **Name:** Wonderspaces Philadelphia  
-    **Address:** 27 N 11th St, Philadelphia, PA 19107  
+  - **Name:** Wissahickon Park
+    - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA
+  - **Name:** Yards Brewing Company
+    - **Address:** 500 Spring Garden St, Philadelphia, PA
 
 - **Dinner:** 
-  - **Name:** Wah-Gi-Wah  
-    **Address:** 4447 Chestnut St, Philadelphia, PA 19104  
+  - **Name:** Thanal Indian Tavern
+    - **Address:** 1939 Arch St, Philadelphia, PA
 
 - **Night Attraction:** 
-  - **Name:** Bloktoberfest  
-    **Address:** 17 Washington Ave, Philadelphia, PA 19147  
+  - **Name:** The Oval
+    - **Address:** 2451 Benjamin Franklin Pkwy, Philadelphia, PA
 
 ---
 
 #### Day 3:
 - **Accommodation:** 
-  - **Name:** Alexander Inn  
-    **Address:** 301 S 12th St, Philadelphia, PA 19107  
+  - **Name:** Club Quarters Philadelphia
+    - **Address:** 1628 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Ekta Indian Cuisine  
-    **Address:** 1142 Crease St, Philadelphia, PA 19111  
+  - **Name:** Karma Restaurant & Bar
+    - **Address:** 114 Chestnut St, Philadelphia, PA
 
 - **Morning Attraction:** 
-  - **Name:** Blue Bell Park  
-    **Address:** 842 Walnut Ln, Philadelphia, PA 19128  
+  - **Name:** The Schuylkill River Loop
+    - **Address:** Kelly Drive, Philadelphia, PA
 
 - **Lunch:** 
-  - **Name:** New Delhi Indian Restaurant  
-    **Address:** 4004 Chestnut St, Philadelphia, PA 19104  
+  - **Name:** Ekta Indian Cuisine
+    - **Address:** 1142 Crease St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
-  - **Name:** Weccacoe Playground  
-    **Address:** 400 Catharine St, Philadelphia, PA 19147  
-  - **Name:** Wissahickon Park  
-    **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA 19128  
+  - **Name:** Wonderspaces Philadelphia
+    - **Address:** 27 N 11th St, Philadelphia, PA
+  - **Name:** Reading Terminal Market
+    - **Address:** 1136 Arch St, Philadelphia, PA
 
 - **Dinner:** 
-  - **Name:** Zaika  
-    **Address:** 2481 Grant Ave, Philadelphia, PA 19114  
+  - **Name:** Wah-Gi-Wah
+    - **Address:** 4447 Chestnut St, Philadelphia, PA
 
 - **Night Attraction:** 
-  - **Name:** Blue Cross RiverRink Winterfest  
-    **Address:** 101 S Columbus Blvd, Philadelphia, PA 19106  
+  - **Name:** Rittenhouse Square Park
+    - **Address:** Rittenhouse Square, Philadelphia, PA
 
 ---
 
-### Summary:
-This itinerary focuses on activity-oriented attractions while ensuring that accommodations and restaurants are budget-friendly and conveniently located. Each day is structured to minimize travel time between locations, allowing for a more enjoyable experience in Philadelphia.
+This itinerary focuses on activity-oriented attractions, Indian restaurants with good flavor and value, and accommodations in a good location, all while keeping a budget-friendly approach. Enjoy your trip to Philadelphia!

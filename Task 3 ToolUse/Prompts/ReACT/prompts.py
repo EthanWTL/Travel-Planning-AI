@@ -23,11 +23,9 @@ Cuisine: The cuisine mentioned in the query.
 Preference: A list of preferences mentioned in the query.
 Example: RestaurantSearch[Expensive budget, Vietnamese, [Good Flavor, Good Value]] would return the expensive restaurants that offer Vietnamese cuisine, with good or excellent flavor and good or excellent value.
 
-(4) BusinessClusterSearch[Number Of Clusters]:
+(4) BusinessClusterSearch[]:
 Description: A tool that finds the number of business clusters given the information that you've collected. The tool will choose what business to be considered and return their spatial clustering information.
-Parameters: 
-Number Of Clusters: Determine how many spatial clusters that you want to find. 
-Example: BusinessClusterSearch[3] would return you a list of 3 business clusters among some attractions and hotels that you've collected. The businesses in the same cluster indicates that they are closer to each other and prefered to be arranged for the same day of the travel.
+Example: BusinessClusterSearch[] would return you a list of business clusters among some attractions and hotels that you've collected. The businesses in the same cluster indicates that they are closer to each other and prefered to be arranged for the same day of the travel.
 
 (5) Planner[Query]
 Description: A smart planning tool that crafts detailed plans based on user input and the information stored in Notebook.

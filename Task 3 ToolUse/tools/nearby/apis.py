@@ -14,8 +14,8 @@ class Nearby:
         attraction_substrings = ['attraction']
         for cat in notebook:
             for sub in hotel_substrings:
-                print(sub)
-                print(cat['Description'])
+                #print(sub)
+                #print(cat['Description'])
                 if sub in cat['Description'].lower():
                     cols = ['name','latitude','longitude']
                     hotels = cat['Content'][cols].values.tolist()

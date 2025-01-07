@@ -28,13 +28,13 @@
             },
             "night_attractions": [
                 {
-                    "name": "Yards Brewing Company",
-                    "address": "500 Spring Garden St, Philadelphia, PA"
+                    "name": "Wissahickon Valley Trail",
+                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
                 }
             ],
             "accommodation": {
-                "name": "The Dwight D",
-                "address": "256 S 16th St, Philadelphia, PA"
+                "name": "Alexander Inn",
+                "address": "301 S 12th St, Philadelphia, PA"
             }
         },
         {
@@ -50,23 +50,23 @@
                 }
             ],
             "lunch": {
-                "name": "Hummus Grill",
-                "address": "3931 Walnut St, Philadelphia, PA"
+                "name": "Alyan's Restaurant",
+                "address": "603 S 4th St, Philadelphia, PA"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Wissahickon Valley Trail",
-                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA"
                 }
             ],
             "dinner": {
-                "name": "Saad's Halal Restaurant",
-                "address": "4500 Walnut St, Philadelphia, PA"
+                "name": "Hummus Grill",
+                "address": "3931 Walnut St, Philadelphia, PA"
             },
             "night_attractions": [
                 {
-                    "name": "Wonderspaces Philadelphia",
-                    "address": "27 N 11th St, Philadelphia, PA"
+                    "name": "Yards Brewing Company",
+                    "address": "500 Spring Garden St, Philadelphia, PA"
                 }
             ],
             "accommodation": {
@@ -87,35 +87,35 @@
                 }
             ],
             "lunch": {
-                "name": "Pho 20",
-                "address": "234-236 N 10th St, Philadelphia, PA"
+                "name": "Dizengoff",
+                "address": "1625 Sansom St, Philadelphia, PA"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Blue Bell Park",
-                    "address": "842 Walnut Ln, Philadelphia, PA"
+                    "name": "Franklin Square",
+                    "address": "200 N 6th St, Philadelphia, PA"
                 }
             ],
             "dinner": {
-                "name": "Pho Saigon",
-                "address": "1100 S Christopher Columbus Blvd, Unit 22, Philadelphia, PA"
+                "name": "Saad's Halal Restaurant",
+                "address": "4500 Walnut St, Philadelphia, PA"
             },
             "night_attractions": [
                 {
-                    "name": "Philadelphia Zoo",
-                    "address": "3400 W Girard Ave, Philadelphia, PA"
+                    "name": "Wonderspaces Philadelphia",
+                    "address": "27 N 11th St, Philadelphia, PA"
                 }
             ],
             "accommodation": {
-                "name": "The Dwight D",
-                "address": "256 S 16th St, Philadelphia, PA"
+                "name": "Home2 Suites by Hilton Philadelphia - Convention Center",
+                "address": "1200 Arch St, Philadelphia, PA"
             }
         },
         {
             "days": "Day 4",
             "breakfast": {
-                "name": "Little Pete's Restaurant",
-                "address": "2401 Pennsylvania Ave, Philadelphia, PA"
+                "name": "Pho 20",
+                "address": "234-236 N 10th St, Philadelphia, PA"
             },
             "morning_attractions": [
                 {
@@ -124,28 +124,28 @@
                 }
             ],
             "lunch": {
-                "name": "Dim Sum Garden",
-                "address": "1020 Race St, Philadelphia, PA"
+                "name": "Bitar's",
+                "address": "947 Federal St, Philadelphia, PA"
             },
             "afternoon_attractions": [
+                {
+                    "name": "Blue Cross RiverRink Winterfest",
+                    "address": "101 S Columbus Blvd, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Kabobeesh",
+                "address": "4201 Chestnut St, Philadelphia, PA"
+            },
+            "night_attractions": [
                 {
                     "name": "Wissahickon Park",
                     "address": "Lincoln Dr & Rittenhouse Ln, Philadelphia, PA"
                 }
             ],
-            "dinner": {
-                "name": "Zorba's Taverna",
-                "address": "2230 Fairmount Ave, Philadelphia, PA"
-            },
-            "night_attractions": [
-                {
-                    "name": "Rittenhouse Square Park",
-                    "address": "1800 Walnut St, Philadelphia, PA"
-                }
-            ],
             "accommodation": {
-                "name": "The Dwight D",
-                "address": "256 S 16th St, Philadelphia, PA"
+                "name": "Independence Park Hotel, Bw Premier Collection",
+                "address": "235 Chestnut St, Philadelphia, PA"
             }
         }
     ]

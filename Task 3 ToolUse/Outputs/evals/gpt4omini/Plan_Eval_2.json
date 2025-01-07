@@ -3,13 +3,13 @@
         {
             "days": "Day 1",
             "breakfast": {
-                "name": "Mood Cafe",
-                "address": "4618 Baltimore Ave, Philadelphia, PA"
+                "name": "Caf\u00e9 Ole",
+                "address": "120 S 17th St, Philadelphia, PA"
             },
             "morning_attractions": [
                 {
-                    "name": "Philadelphia Zoo",
-                    "address": "3400 W Girard Ave, Philadelphia, PA"
+                    "name": "Independence National Historical Park",
+                    "address": "143 S 3rd St, Philadelphia, PA"
                 }
             ],
             "lunch": {
@@ -18,8 +18,12 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Franklin Institute",
-                    "address": "222 N 20th St, Philadelphia, PA"
+                    "name": "Philadelphia Zoo",
+                    "address": "3400 W Girard Ave, Philadelphia, PA"
+                },
+                {
+                    "name": "Franklin Square",
+                    "address": "200 N 6th St, Philadelphia, PA"
                 }
             ],
             "dinner": {
@@ -29,7 +33,7 @@
             "night_attractions": [
                 {
                     "name": "Rittenhouse Square Park",
-                    "address": "1800 Walnut St, Philadelphia, PA"
+                    "address": "18th St & Walnut St, Philadelphia, PA"
                 }
             ],
             "accommodation": {
@@ -40,13 +44,13 @@
         {
             "days": "Day 2",
             "breakfast": {
-                "name": "Little Sicily 2",
-                "address": "1608 S Christopher Columbus Blvd, Philadelphia, PA"
+                "name": "Green Eggs Caf\u00e9",
+                "address": "130 E 18th St, Philadelphia, PA"
             },
             "morning_attractions": [
                 {
-                    "name": "Please Touch Museum",
-                    "address": "4231 Avenue of the Republic, Philadelphia, PA"
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA"
                 }
             ],
             "lunch": {
@@ -55,8 +59,12 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Adventure Aquarium",
-                    "address": "1 Riverside Dr, Camden, NJ"
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA"
+                },
+                {
+                    "name": "Please Touch Museum",
+                    "address": "4231 Avenue of the Republic, Philadelphia, PA"
                 }
             ],
             "dinner": {
@@ -65,25 +73,25 @@
             },
             "night_attractions": [
                 {
-                    "name": "Spruce Street Harbor Park",
-                    "address": "301 S Christopher Columbus Blvd, Philadelphia, PA"
+                    "name": "The Oval",
+                    "address": "2451 Benjamin Franklin Pkwy, Philadelphia, PA"
                 }
             ],
             "accommodation": {
-                "name": "Independence Park Hotel, Bw Premier Collection",
-                "address": "235 Chestnut St, Philadelphia, PA"
+                "name": "The Dwight D",
+                "address": "256 S 16th St, Philadelphia, PA"
             }
         },
         {
             "days": "Day 3",
             "breakfast": {
-                "name": "Andy's Chicken",
-                "address": "2001 Memphis St, Philadelphia, PA"
+                "name": "The Breakfast Boutique",
+                "address": "1001 S 2nd St, Philadelphia, PA"
             },
             "morning_attractions": [
                 {
-                    "name": "Franklin Square",
-                    "address": "200 N 6th St, Philadelphia, PA"
+                    "name": "Adventure Aquarium",
+                    "address": "1 Riverside Dr, Camden, NJ"
                 }
             ],
             "lunch": {
@@ -92,45 +100,12 @@
             },
             "afternoon_attractions": [
                 {
-                    "name": "Philadelphia Museum of Art",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA"
-                }
-            ],
-            "dinner": {
-                "name": "Doma",
-                "address": "1822 Callowhill St, Philadelphia, PA"
-            },
-            "night_attractions": [
+                    "name": "Spruce Street Harbor Park",
+                    "address": "301 S Christopher Columbus Blvd, Philadelphia, PA"
+                },
                 {
                     "name": "Blue Cross RiverRink Winterfest",
                     "address": "101 S Columbus Blvd, Philadelphia, PA"
-                }
-            ],
-            "accommodation": {
-                "name": "Independence Park Hotel, Bw Premier Collection",
-                "address": "235 Chestnut St, Philadelphia, PA"
-            }
-        },
-        {
-            "days": "Day 4",
-            "breakfast": {
-                "name": "Kabobeesh",
-                "address": "4201 Chestnut St, Philadelphia, PA"
-            },
-            "morning_attractions": [
-                {
-                    "name": "Bartram's Garden",
-                    "address": "5400 Lindbergh Blvd, Philadelphia, PA"
-                }
-            ],
-            "lunch": {
-                "name": "Wah-Gi-Wah",
-                "address": "4447 Chestnut St, Philadelphia, PA"
-            },
-            "afternoon_attractions": [
-                {
-                    "name": "Wissahickon Valley Park",
-                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
                 }
             ],
             "dinner": {
@@ -139,13 +114,54 @@
             },
             "night_attractions": [
                 {
+                    "name": "Yards Brewing Company",
+                    "address": "500 Spring Garden St, Philadelphia, PA"
+                }
+            ],
+            "accommodation": {
+                "name": "Sofitel Philadelphia",
+                "address": "120 S 17th St, Philadelphia, PA"
+            }
+        },
+        {
+            "days": "Day 4",
+            "breakfast": {
+                "name": "La Colombe Coffee Roasters",
+                "address": "1300 Frankford Ave, Philadelphia, PA"
+            },
+            "morning_attractions": [
+                {
+                    "name": "The Academy of Natural Sciences",
+                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA"
+                }
+            ],
+            "lunch": {
+                "name": "K-POT Korean BBQ & Hot Pot",
+                "address": "789 Franklin Mills Cir, Philadelphia, PA"
+            },
+            "afternoon_attractions": [
+                {
+                    "name": "Wissahickon Valley Trail",
+                    "address": "Valley Green Rd At Wissahickon, Philadelphia, PA"
+                },
+                {
+                    "name": "Fairmount Park",
+                    "address": "1 Boathouse Row, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Doma",
+                "address": "1822 Callowhill St, Philadelphia, PA"
+            },
+            "night_attractions": [
+                {
                     "name": "The M\u00fctter Museum",
                     "address": "19 S 22nd St, Philadelphia, PA"
                 }
             ],
             "accommodation": {
-                "name": "Independence Park Hotel, Bw Premier Collection",
-                "address": "235 Chestnut St, Philadelphia, PA"
+                "name": "Kimpton Hotel Palomar Philadelphia",
+                "address": "117 S 17th St, Philadelphia, PA"
             }
         }
     ]

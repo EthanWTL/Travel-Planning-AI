@@ -1,133 +1,135 @@
-### Day 1:
+### 4-Day Travel Itinerary
+
+#### Day 1:
 - **Accommodation:** 
-  - **Name:** The Franklin Residences
-    - **Address:** 834 Chestnut St, Philadelphia, PA
+  - **Name:** The Westin Philadelphia
+    - **Address:** 99 South 17th Street at Liberty Place, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** Mood Cafe
-    - **Address:** 4618 Baltimore Ave, Philadelphia, PA
+  - **Name:** ArtBar 
+    - **Address:** 1800 Market St, Philadelphia, PA
 
 - **Morning Attraction:** 
-  - **Name:** Rittenhouse Square Park
+  - **Name:** Rittenhouse Square Park 
     - **Address:** 1800 Walnut St, Philadelphia, PA
 
 - **Lunch:** 
-  - **Name:** Koreana
+  - **Name:** Koreana 
     - **Address:** 3801 Chestnut St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
-  - **Name:** The Shops at Liberty Place
-    - **Address:** 1625 Chestnut St, Philadelphia, PA
-  - **Name:** Walnut Street Shopping District
-    - **Address:** Walnut St, Philadelphia, PA
+  - **Name:** Reading Terminal Market 
+    - **Address:** 1136 Arch St, Philadelphia, PA
+  - **Name:** The Franklin Institute Science Museum 
+    - **Address:** 222 N 20th St, Philadelphia, PA
 
 - **Dinner:** 
-  - **Name:** Doma
-    - **Address:** 1822 Callowhill St, Philadelphia, PA
-
-- **Night Attraction:** 
-  - **Name:** Philadelphia Flower Show
-    - **Address:** 1101 Arch St, Philadelphia, PA
-
----
-
-### Day 2:
-- **Accommodation:** 
-  - **Name:** W Philadelphia
-    - **Address:** 1439 Chestnut St, Philadelphia, PA
-
-- **Breakfast:** 
-  - **Name:** Cafe Lift
-    - **Address:** 428 N 13th St, Philadelphia, PA
-
-- **Morning Attraction:** 
-  - **Name:** Reading Terminal Market
-    - **Address:** 1136 Arch St, Philadelphia, PA
-
-- **Lunch:** 
-  - **Name:** K-POT Korean BBQ & Hot Pot
+  - **Name:** K-POT Korean BBQ & Hot Pot 
     - **Address:** 789 Franklin Mills Cir, Philadelphia, PA
 
-- **Afternoon Attraction:** 
-  - **Name:** Philadelphia Premium Outlets
-    - **Address:** 18 W Lightcap Rd, Limerick, PA
-  - **Name:** King of Prussia Mall
-    - **Address:** 160 N Gulph Rd, King of Prussia, PA
-
-- **Dinner:** 
-  - **Name:** Jong Ka Jib
-    - **Address:** 6600 N 5th St, Philadelphia, PA
-
 - **Night Attraction:** 
-  - **Name:** The Philadelphia Orchestra
-    - **Address:** 300 S Broad St, Philadelphia, PA
+  - **Name:** Dilworth Park 
+    - **Address:** 1 S 15th St, Philadelphia, PA
 
 ---
 
-### Day 3:
+#### Day 2:
 - **Accommodation:** 
   - **Name:** Kimpton Hotel Palomar Philadelphia
     - **Address:** 117 S 17th St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** The Breakfast Boutique
-    - **Address:** 1001 S 2nd St, Philadelphia, PA
+  - **Name:** Mood Cafe 
+    - **Address:** 4618 Baltimore Ave, Philadelphia, PA
 
 - **Morning Attraction:** 
-  - **Name:** The Philadelphia Museum of Art
-    - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
+  - **Name:** Philadelphia Zoo 
+    - **Address:** 3400 W Girard Ave, Philadelphia, PA
 
 - **Lunch:** 
-  - **Name:** Andy's Chicken
-    - **Address:** 2001 Memphis St, Philadelphia, PA
+  - **Name:** Jong Ka Jib 
+    - **Address:** 6600 N 5th St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
-  - **Name:** The Gallery at Market East
-    - **Address:** 1000 Market St, Philadelphia, PA
-  - **Name:** South Street Headhouse District
-    - **Address:** 2nd St & South St, Philadelphia, PA
+  - **Name:** The Mütter Museum 
+    - **Address:** 19 S 22nd St, Philadelphia, PA
+  - **Name:** The Betsy Ross House 
+    - **Address:** 239 Arch St, Philadelphia, PA
 
 - **Dinner:** 
-  - **Name:** Thanal Indian Tavern
-    - **Address:** 1939 Arch St, Philadelphia, PA
+  - **Name:** Doma 
+    - **Address:** 1822 Callowhill St, Philadelphia, PA
 
 - **Night Attraction:** 
-  - **Name:** The Kimmel Center for the Performing Arts
-    - **Address:** 300 S Broad St, Philadelphia, PA
+  - **Name:** The Navy Yard 
+    - **Address:** 4747 S Broad St, Philadelphia, PA
 
 ---
 
-### Day 4:
+#### Day 3:
 - **Accommodation:** 
   - **Name:** Independence Park Hotel, Bw Premier Collection
     - **Address:** 235 Chestnut St, Philadelphia, PA
 
 - **Breakfast:** 
-  - **Name:** The Dandelion
-    - **Address:** 124 S 18th St, Philadelphia, PA
+  - **Name:** Chez Colette 
+    - **Address:** 120 S 17th St, Philadelphia, PA
 
 - **Morning Attraction:** 
-  - **Name:** The National Museum of American Jewish History
-    - **Address:** 101 S Independence Mall E, Philadelphia, PA
+  - **Name:** Philadelphia International Festival of the Arts 
+    - **Address:** Various locations in Philadelphia
 
 - **Lunch:** 
-  - **Name:** Masala Kitchen Kati Rolls and Platters
-    - **Address:** 1115 Walnut St, Philadelphia, PA
+  - **Name:** Andy's Chicken 
+    - **Address:** 2001 Memphis St, Philadelphia, PA
 
 - **Afternoon Attraction:** 
-  - **Name:** The Franklin Institute
-    - **Address:** 222 N 20th St, Philadelphia, PA
-  - **Name:** The Mütter Museum
-    - **Address:** 19 S 22nd St, Philadelphia, PA
+  - **Name:** The Philadelphia Flower Show 
+    - **Address:** 100 N 20th St, Philadelphia, PA
+  - **Name:** The Center For Art In Wood 
+    - **Address:** 141 N 3rd St, Philadelphia, PA
 
 - **Dinner:** 
-  - **Name:** Wah-Gi-Wah
-    - **Address:** 4447 Chestnut St, Philadelphia, PA
+  - **Name:** K-POT Korean BBQ & Hot Pot 
+    - **Address:** 789 Franklin Mills Cir, Philadelphia, PA
 
 - **Night Attraction:** 
-  - **Name:** The Magic Gardens
-    - **Address:** 1020 South St, Philadelphia, PA
+  - **Name:** The Pleasure Chest 
+    - **Address:** 1150 S 9th St, Philadelphia, PA
 
---- 
+---
 
-This itinerary provides a balanced mix of shopping, dining at Korean restaurants, and quality accommodations, ensuring a luxurious experience in Philadelphia.
+#### Day 4:
+- **Accommodation:** 
+  - **Name:** W Philadelphia
+    - **Address:** 1439 Chestnut St, Philadelphia, PA
+
+- **Breakfast:** 
+  - **Name:** Little Sicily 2 
+    - **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA
+
+- **Morning Attraction:** 
+  - **Name:** Fante's Kitchen Shop 
+    - **Address:** 1006 S 9th St, Philadelphia, PA
+
+- **Lunch:** 
+  - **Name:** Wah-Gi-Wah 
+    - **Address:** 4447 Chestnut St, Philadelphia, PA
+
+- **Afternoon Attraction:** 
+  - **Name:** The Oval 
+    - **Address:** 24th St & Benjamin Franklin Pkwy, Philadelphia, PA
+  - **Name:** The Philadelphia Museum of Art 
+    - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
+
+- **Dinner:** 
+  - **Name:** Kabobeesh 
+    - **Address:** 4201 Chestnut St, Philadelphia, PA
+
+- **Night Attraction:** 
+  - **Name:** Bloktoberfest 
+    - **Address:** 17 Washington Ave, Philadelphia, PA
+
+---
+
+This itinerary includes a mix of shopping-oriented attractions, Korean restaurants, and accommodations with good quality and location, ensuring a delightful experience in Philadelphia!

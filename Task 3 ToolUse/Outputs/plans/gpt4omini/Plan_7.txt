@@ -1,22 +1,24 @@
-### Day 1:
-- **Accommodation:** 
+### Travel Itinerary for a 2-Day Trip in Philadelphia
+
+#### Day 1:
+- **Accommodation:**
   - **Name:** The Dwight D
   - **Address:** 256 S 16th St, Philadelphia, PA
   - **Stars:** 4.5
-  - **Price:** $$
+  - **Price:** $$ 
   - **Quality:** Good quality
   - **Location:** Excellent location
   - **Service:** Good service
   - **Safety:** Excellent safety
 
-- **Breakfast:** 
+- **Breakfast:**
   - **Name:** Brown Street Coffee & Bánhery
   - **Address:** 2545 Brown St, Philadelphia, PA
   - **Stars:** 4.0
-  - **Good for Meal:** Lunch, Brunch, Breakfast
+  - **Good for Meal:** Lunch, brunch, breakfast
   - **Price:** $
 
-- **Morning Attraction:** 
+- **Morning Attraction:**
   - **Name:** Academy of Natural Sciences
   - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
   - **Stars:** 4.0
@@ -24,15 +26,15 @@
   - **Attraction Type:** Museums
   - **Perks:** Not Applicable
 
-- **Lunch:** 
-  - **Name:** Al-Sham Restaurant
-  - **Address:** 6738 Bustleton Ave, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Good for Meal:** Lunch, Dinner
-  - **Price:** $$
-  - **Cuisine:** Middle Eastern
+- **Lunch:**
+  - **Name:** Kabobeesh
+  - **Address:** 4201 Chestnut St, Philadelphia, PA
+  - **Stars:** 3.5
+  - **Good for Meal:** Lunch, dinner
+  - **Price:** $$ 
+  - **Cuisine:** Indian, Middle Eastern
 
-- **Afternoon Attraction:** 
+- **Afternoon Attraction:**
   - **Name:** Wissahickon Valley Trail
   - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
   - **Stars:** 4.5
@@ -40,15 +42,15 @@
   - **Attraction Type:** Parks
   - **Perks:** Hiking
 
-- **Dinner:** 
-  - **Name:** Zorba's Taverna
-  - **Address:** 2230 Fairmount Ave, Philadelphia, PA
+- **Dinner:**
+  - **Name:** Yiro Yiro
+  - **Address:** 6024 Ridge Ave, Philadelphia, PA
   - **Stars:** 4.5
-  - **Good for Meal:** Dinner
-  - **Price:** $$
-  - **Cuisine:** Mediterranean
+  - **Good for Meal:** Dessert, lunch, dinner
+  - **Price:** $$ 
+  - **Cuisine:** Mediterranean, Greek
 
-- **Night Attraction:** 
+- **Night Attraction:**
   - **Name:** Yards Brewing Company
   - **Address:** 500 Spring Garden St, Philadelphia, PA
   - **Stars:** 4.0
@@ -58,19 +60,19 @@
 
 ---
 
-### Day 2:
-- **Accommodation:** 
-  - **Name:** The Dwight D (continued)
+#### Day 2:
+- **Accommodation:**
+  - **Name:** The Dwight D (continued stay)
   - **Address:** 256 S 16th St, Philadelphia, PA
 
-- **Breakfast:** 
+- **Breakfast:**
   - **Name:** Cafe Diem
   - **Address:** 1031 S 8th St, Philadelphia, PA
   - **Stars:** 4.5
   - **Good for Meal:** Lunch
   - **Price:** $
 
-- **Morning Attraction:** 
+- **Morning Attraction:**
   - **Name:** Bartram's Garden
   - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA
   - **Stars:** 4.5
@@ -78,38 +80,39 @@
   - **Attraction Type:** Parks
   - **Perks:** Botanical Gardens
 
-- **Lunch:** 
-  - **Name:** Kabobeesh
-  - **Address:** 4201 Chestnut St, Philadelphia, PA
-  - **Stars:** 3.5
-  - **Good for Meal:** Lunch, Dinner
-  - **Price:** $$
-  - **Cuisine:** Indian
+- **Lunch:**
+  - **Name:** Little Pete's Restaurant
+  - **Address:** 2401 Pennsylvania Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Good for Meal:** Lunch, brunch, breakfast
+  - **Price:** $$ 
+  - **Cuisine:** Greek, American (Traditional)
 
-- **Afternoon Attraction:** 
-  - **Name:** Wissahickon Park
-  - **Address:** Lincoln Dr & Rittenhouse Ln, Philadelphia, PA
+- **Afternoon Attraction:**
+  - **Name:** Philadelphia Zoo
+  - **Address:** 3400 W Girard Ave, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Price:** $$$
+  - **Attraction Type:** Zoos
+  - **Perks:** Active Life
+
+- **Dinner:**
+  - **Name:** Pho 20
+  - **Address:** 234-236 N 10th St, Philadelphia, PA
+  - **Stars:** 4.0
+  - **Good for Meal:** Lunch, dinner
+  - **Price:** $$
+  - **Cuisine:** Vietnamese
+
+- **Night Attraction:**
+  - **Name:** Spruce Street Harbor Park
+  - **Address:** 121 N Columbus Blvd, Philadelphia, PA
   - **Stars:** 4.5
   - **Price:** $
   - **Attraction Type:** Parks
   - **Perks:** Active Life
 
-- **Dinner:** 
-  - **Name:** Little Pete's Restaurant
-  - **Address:** 2401 Pennsylvania Ave, Philadelphia, PA
-  - **Stars:** 4.0
-  - **Good for Meal:** Lunch, Brunch, Breakfast
-  - **Price:** $$
-  - **Cuisine:** Greek
-
-- **Night Attraction:** 
-  - **Name:** Philadelphia Flower Show
-  - **Address:** 1101 Arch St, Philadelphia, PA
-  - **Stars:** 2.5
-  - **Price:** $$
-  - **Attraction Type:** Local Flavor
-  - **Perks:** Flowers & Gifts
-
 ---
 
-This itinerary provides a balanced mix of activity-oriented attractions, Greek dining experiences, and accommodations with a focus on safety, all while maintaining a moderate budget. Enjoy your trip!
+### Summary:
+This itinerary provides a balanced mix of activity-oriented attractions, Greek dining experiences, and accommodations with a focus on safety. Each day is structured to minimize travel time between locations, ensuring a smooth and enjoyable experience in Philadelphia.

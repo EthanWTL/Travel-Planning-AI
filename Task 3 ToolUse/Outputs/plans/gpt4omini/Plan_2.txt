@@ -1,4 +1,4 @@
-### Travel Itinerary for a 4-Day Trip
+### Travel Plan for a 4-Day Trip to Philadelphia
 
 #### Day 1:
 - **Accommodation:**
@@ -6,20 +6,22 @@
   - **Address:** 235 Chestnut St, Philadelphia, PA
 
 - **Breakfast:**
-  - **Name:** Mood Cafe
-  - **Address:** 4618 Baltimore Ave, Philadelphia, PA
+  - **Name:** Café Ole
+  - **Address:** 120 S 17th St, Philadelphia, PA
 
 - **Morning Attraction:**
-  - **Name:** Philadelphia Zoo
-  - **Address:** 3400 W Girard Ave, Philadelphia, PA
+  - **Name:** Independence National Historical Park
+  - **Address:** 143 S 3rd St, Philadelphia, PA
 
 - **Lunch:**
   - **Name:** Effie's Restaurant
   - **Address:** 1127 Pine St, Philadelphia, PA
 
 - **Afternoon Attraction:**
-  - **Name:** Franklin Institute
-  - **Address:** 222 N 20th St, Philadelphia, PA
+  - **Name:** Philadelphia Zoo
+  - **Address:** 3400 W Girard Ave, Philadelphia, PA
+  - **Name:** Franklin Square
+  - **Address:** 200 N 6th St, Philadelphia, PA
 
 - **Dinner:**
   - **Name:** Estia
@@ -27,96 +29,102 @@
 
 - **Night Attraction:**
   - **Name:** Rittenhouse Square Park
-  - **Address:** 1800 Walnut St, Philadelphia, PA
+  - **Address:** 18th St & Walnut St, Philadelphia, PA
 
 ---
 
 #### Day 2:
 - **Accommodation:**
-  - **Name:** Independence Park Hotel, Bw Premier Collection
-  - **Address:** 235 Chestnut St, Philadelphia, PA
+  - **Name:** The Dwight D
+  - **Address:** 256 S 16th St, Philadelphia, PA
 
 - **Breakfast:**
-  - **Name:** Little Sicily 2
-  - **Address:** 1608 S Christopher Columbus Blvd, Philadelphia, PA
+  - **Name:** Green Eggs Café
+  - **Address:** 130 E 18th St, Philadelphia, PA
 
 - **Morning Attraction:**
-  - **Name:** Please Touch Museum
-  - **Address:** 4231 Avenue of the Republic, Philadelphia, PA
+  - **Name:** Philadelphia Museum of Art
+  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
 
 - **Lunch:**
   - **Name:** Zorba's Taverna
   - **Address:** 2230 Fairmount Ave, Philadelphia, PA
 
 - **Afternoon Attraction:**
-  - **Name:** Adventure Aquarium
-  - **Address:** 1 Riverside Dr, Camden, NJ
+  - **Name:** The Franklin Institute
+  - **Address:** 222 N 20th St, Philadelphia, PA
+  - **Name:** Please Touch Museum
+  - **Address:** 4231 Avenue of the Republic, Philadelphia, PA
 
 - **Dinner:**
   - **Name:** Moustaki Authentic Gyros
   - **Address:** 161 N 21st St, Philadelphia, PA
 
 - **Night Attraction:**
-  - **Name:** Spruce Street Harbor Park
-  - **Address:** 301 S Christopher Columbus Blvd, Philadelphia, PA
+  - **Name:** The Oval
+  - **Address:** 2451 Benjamin Franklin Pkwy, Philadelphia, PA
 
 ---
 
 #### Day 3:
 - **Accommodation:**
-  - **Name:** Independence Park Hotel, Bw Premier Collection
-  - **Address:** 235 Chestnut St, Philadelphia, PA
+  - **Name:** Sofitel Philadelphia
+  - **Address:** 120 S 17th St, Philadelphia, PA
 
 - **Breakfast:**
-  - **Name:** Andy's Chicken
-  - **Address:** 2001 Memphis St, Philadelphia, PA
+  - **Name:** The Breakfast Boutique
+  - **Address:** 1001 S 2nd St, Philadelphia, PA
 
 - **Morning Attraction:**
-  - **Name:** Franklin Square
-  - **Address:** 200 N 6th St, Philadelphia, PA
+  - **Name:** Adventure Aquarium
+  - **Address:** 1 Riverside Dr, Camden, NJ
 
 - **Lunch:**
   - **Name:** Johnny Brenda's
   - **Address:** 1201 Frankford Ave, Philadelphia, PA
 
 - **Afternoon Attraction:**
-  - **Name:** Philadelphia Museum of Art
-  - **Address:** 2600 Benjamin Franklin Pkwy, Philadelphia, PA
+  - **Name:** Spruce Street Harbor Park
+  - **Address:** 301 S Christopher Columbus Blvd, Philadelphia, PA
+  - **Name:** Blue Cross RiverRink Winterfest (seasonal)
+  - **Address:** 101 S Columbus Blvd, Philadelphia, PA
 
 - **Dinner:**
-  - **Name:** Doma
-  - **Address:** 1822 Callowhill St, Philadelphia, PA
+  - **Name:** Koreana
+  - **Address:** 3801 Chestnut St, Philadelphia, PA
 
 - **Night Attraction:**
-  - **Name:** Blue Cross RiverRink Winterfest
-  - **Address:** 101 S Columbus Blvd, Philadelphia, PA
+  - **Name:** Yards Brewing Company
+  - **Address:** 500 Spring Garden St, Philadelphia, PA
 
 ---
 
 #### Day 4:
 - **Accommodation:**
-  - **Name:** Independence Park Hotel, Bw Premier Collection
-  - **Address:** 235 Chestnut St, Philadelphia, PA
+  - **Name:** Kimpton Hotel Palomar Philadelphia
+  - **Address:** 117 S 17th St, Philadelphia, PA
 
 - **Breakfast:**
-  - **Name:** Kabobeesh
-  - **Address:** 4201 Chestnut St, Philadelphia, PA
+  - **Name:** La Colombe Coffee Roasters
+  - **Address:** 1300 Frankford Ave, Philadelphia, PA
 
 - **Morning Attraction:**
-  - **Name:** Bartram's Garden
-  - **Address:** 5400 Lindbergh Blvd, Philadelphia, PA
+  - **Name:** The Academy of Natural Sciences
+  - **Address:** 1900 Benjamin Franklin Pkwy, Philadelphia, PA
 
 - **Lunch:**
-  - **Name:** Wah-Gi-Wah
-  - **Address:** 4447 Chestnut St, Philadelphia, PA
+  - **Name:** K-POT Korean BBQ & Hot Pot
+  - **Address:** 789 Franklin Mills Cir, Philadelphia, PA
 
 - **Afternoon Attraction:**
-  - **Name:** Wissahickon Valley Park
+  - **Name:** Wissahickon Valley Trail
   - **Address:** Valley Green Rd At Wissahickon, Philadelphia, PA
+  - **Name:** Fairmount Park
+  - **Address:** 1 Boathouse Row, Philadelphia, PA
 
 - **Dinner:**
-  - **Name:** Koreana
-  - **Address:** 3801 Chestnut St, Philadelphia, PA
+  - **Name:** Doma
+  - **Address:** 1822 Callowhill St, Philadelphia, PA
 
 - **Night Attraction:**
   - **Name:** The Mütter Museum
@@ -124,4 +132,5 @@
 
 ---
 
-This itinerary focuses on family-oriented attractions, Greek cuisine with a good environment, and quality accommodations in a prime location, ensuring a memorable trip to Philadelphia!
+### Summary:
+This itinerary provides a balanced mix of family-oriented attractions, quality accommodations, and delicious Greek cuisine, all while optimizing routes for convenience. Enjoy your trip to Philadelphia!

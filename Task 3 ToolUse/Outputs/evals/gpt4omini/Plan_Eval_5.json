@@ -8,18 +8,22 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Benjamin Franklin Museum",
-                    "address": "317 Chestnut St, Philadelphia, PA"
+                    "name": "Independence Hall",
+                    "address": "520 Chestnut St, Philadelphia, PA"
                 }
             ],
             "lunch": {
-                "name": "Pho 20",
-                "address": "234-236 N 10th St, Philadelphia, PA"
+                "name": "Hummus Grill",
+                "address": "3931 Walnut St, Philadelphia, PA"
             },
             "afternoon_attractions": [
                 {
-                    "name": "Independence Hall",
-                    "address": "520 Chestnut St, Philadelphia, PA"
+                    "name": "Liberty Bell Center",
+                    "address": "526 Market St, Philadelphia, PA"
+                },
+                {
+                    "name": "National Constitution Center",
+                    "address": "525 Arch St, Philadelphia, PA"
                 }
             ],
             "dinner": {
@@ -28,8 +32,8 @@
             },
             "night_attractions": [
                 {
-                    "name": "Historic Philadelphia, Inc",
-                    "address": "51 N 12th St, Philadelphia, PA"
+                    "name": "Ghost Tour of Philadelphia",
+                    "address": "301 Chestnut St, Philadelphia, PA"
                 }
             ],
             "accommodation": {
@@ -45,28 +49,32 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Academy of Natural Sciences",
-                    "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA"
+                    "name": "Philadelphia Museum of Art",
+                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA"
                 }
             ],
             "lunch": {
-                "name": "Pho 75",
-                "address": "823 Adams Ave, Philadelphia, PA"
+                "name": "Pho 20",
+                "address": "234-236 N 10th St, Philadelphia, PA"
             },
             "afternoon_attractions": [
                 {
-                    "name": "National Museum of American Jewish History",
-                    "address": "101 S Independence Mall E, Philadelphia, PA"
+                    "name": "The Betsy Ross House",
+                    "address": "239 Arch St, Philadelphia, PA"
+                },
+                {
+                    "name": "Elfreth's Alley",
+                    "address": "124 Elfreth's Alley, Philadelphia, PA"
                 }
             ],
             "dinner": {
-                "name": "Hummus Grill",
-                "address": "3931 Walnut St, Philadelphia, PA"
+                "name": "Pho 75",
+                "address": "823 Adams Ave, Philadelphia, PA"
             },
             "night_attractions": [
                 {
-                    "name": "Yards Brewing Company",
-                    "address": "500 Spring Garden St, Philadelphia, PA"
+                    "name": "Historic Philadelphia, Inc",
+                    "address": "6th & Chestnut St, Philadelphia, PA"
                 }
             ],
             "accommodation": {
@@ -82,28 +90,32 @@
             },
             "morning_attractions": [
                 {
-                    "name": "Philadelphia Museum of Art",
-                    "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA"
+                    "name": "The Franklin Institute",
+                    "address": "222 N 20th St, Philadelphia, PA"
                 }
             ],
             "lunch": {
-                "name": "Pho Ha",
-                "address": "600 Washington Ave, Philadelphia, PA"
-            },
-            "afternoon_attractions": [
-                {
-                    "name": "The Liberty Bell Center",
-                    "address": "526 Market St, Philadelphia, PA"
-                }
-            ],
-            "dinner": {
                 "name": "Saad's Halal Restaurant",
                 "address": "4500 Walnut St, Philadelphia, PA"
             },
+            "afternoon_attractions": [
+                {
+                    "name": "Museum of the American Revolution",
+                    "address": "101 S 3rd St, Philadelphia, PA"
+                },
+                {
+                    "name": "National Museum of American Jewish History",
+                    "address": "101 S Independence Mall E, Philadelphia, PA"
+                }
+            ],
+            "dinner": {
+                "name": "Al-Sham Restaurant",
+                "address": "6738 Bustleton Ave, Philadelphia, PA"
+            },
             "night_attractions": [
                 {
-                    "name": "Rittenhouse Square Park",
-                    "address": "1800 Walnut St, Philadelphia, PA"
+                    "name": "Philadelphia Trolley Works",
+                    "address": "6th & Chestnut St, Philadelphia, PA"
                 }
             ],
             "accommodation": {
@@ -119,28 +131,32 @@
             },
             "morning_attractions": [
                 {
-                    "name": "The Betsy Ross House",
-                    "address": "239 Arch St, Philadelphia, PA"
+                    "name": "The African American Museum in Philadelphia",
+                    "address": "701 Arch St, Philadelphia, PA"
                 }
             ],
             "lunch": {
-                "name": "Le Viet Restaurant",
-                "address": "1019 S 11th St, Philadelphia, PA"
+                "name": "Pho Saigon",
+                "address": "1100 S Christopher Columbus Blvd, Unit 22, Philadelphia, PA"
             },
             "afternoon_attractions": [
+                {
+                    "name": "Independence Visitor Center",
+                    "address": "599 Market St, Philadelphia, PA"
+                },
                 {
                     "name": "The M\u00fctter Museum",
                     "address": "19 S 22nd St, Philadelphia, PA"
                 }
             ],
             "dinner": {
-                "name": "Al-Sham Restaurant",
-                "address": "6738 Bustleton Ave, Philadelphia, PA"
+                "name": "Dizengoff",
+                "address": "1625 Sansom St, Philadelphia, PA"
             },
             "night_attractions": [
                 {
-                    "name": "Philadelphia Zoo",
-                    "address": "3400 W Girard Ave, Philadelphia, PA"
+                    "name": "The Oval",
+                    "address": "2451 Benjamin Franklin Pkwy, Philadelphia, PA"
                 }
             ],
             "accommodation": {
