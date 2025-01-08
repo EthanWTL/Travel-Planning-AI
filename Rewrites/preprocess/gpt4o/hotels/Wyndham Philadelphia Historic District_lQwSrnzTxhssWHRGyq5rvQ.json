@@ -1,0 +1,18 @@
+{
+    "quality": {
+        "rating": 2,
+        "reason": "Frequent complaints about cleanliness, noise, and maintenance issues."
+    },
+    "location": {
+        "rating": 4,
+        "reason": "Central location with proximity to landmarks and amenities, though parking is expensive."
+    },
+    "service": {
+        "rating": 2,
+        "reason": "Inconsistent service quality with reports of unresponsive staff and operational issues."
+    },
+    "safety": {
+        "rating": 3,
+        "reason": "Generally safe area but concerns about the parking garage and some incidents."
+    }
+}

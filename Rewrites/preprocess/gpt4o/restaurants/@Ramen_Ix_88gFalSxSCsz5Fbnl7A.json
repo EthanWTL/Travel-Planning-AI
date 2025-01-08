@@ -1,0 +1,22 @@
+{
+    "flavor": {
+        "rating": 3,
+        "reason": "The broths received mixed reviews, with some diners enjoying the flavors while others found them bland or lacking depth. The pork and ramen eggs were inconsistent in quality."
+    },
+    "freshness": {
+        "rating": 3,
+        "reason": "While some appreciated the fresh vegetables and toppings, issues with the quality of the pork and temperature of dishes were noted."
+    },
+    "service": {
+        "rating": 4,
+        "reason": "Service was generally friendly and attentive, though there were occasional complaints about slow service during busy times."
+    },
+    "environment": {
+        "rating": 4,
+        "reason": "The ambiance was praised for being clean and cozy, but some found the seating uncomfortable and the space cramped during peak hours."
+    },
+    "value": {
+        "rating": 3,
+        "reason": "The pricing was considered high for the portion sizes and quality, with some diners feeling the ramen was overpriced."
+    }
+}
