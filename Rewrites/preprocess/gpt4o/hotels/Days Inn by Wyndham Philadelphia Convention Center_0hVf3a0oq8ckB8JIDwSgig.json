@@ -1,1 +1,18 @@
-{"quality": {"rating": 2, "reason": "The rooms are small, outdated, and poorly maintained, with cleanliness issues and lack of basic amenities."}, "location": {"rating": 3, "reason": "Conveniently located near central attractions but in a less desirable surrounding area with parking challenges."}, "service": {"rating": 2, "reason": "Service is inconsistent, with reports of unprofessional behavior and inadequate cleaning services."}, "safety": {"rating": 2, "reason": "Concerns about the surrounding area and lack of visible security, despite some feeling safe due to the location."}}
+{
+    "quality": {
+        "rating": 2,
+        "reason": "The rooms are small, outdated, and poorly maintained, with cleanliness issues and lack of basic amenities."
+    },
+    "location": {
+        "rating": 3,
+        "reason": "Conveniently located near central attractions but in a less desirable surrounding area with parking challenges."
+    },
+    "service": {
+        "rating": 2,
+        "reason": "Service is inconsistent, with reports of unprofessional behavior and inadequate cleaning services."
+    },
+    "safety": {
+        "rating": 2,
+        "reason": "Concerns about the surrounding area and lack of visible security, despite some feeling safe due to the location."
+    }
+}

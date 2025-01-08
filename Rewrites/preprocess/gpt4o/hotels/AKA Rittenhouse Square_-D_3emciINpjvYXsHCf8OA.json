@@ -1,1 +1,18 @@
-{"quality": {"rating": 4, "reason": "Rooms are spacious, clean, and well-equipped, but some issues like inconvenient outlet placement and inconsistent housekeeping were noted."}, "location": {"rating": 5, "reason": "The hotel is centrally located in Center City, near Rittenhouse Square, with easy access to restaurants, shops, and attractions."}, "service": {"rating": 3, "reason": "While staff were often friendly and accommodating, issues like check-in delays and inconsistent housekeeping were reported."}, "safety": {"rating": 3, "reason": "The area is generally safe, but concerns about noise, construction, and communication regarding safety were mentioned."}}
+{
+    "quality": {
+        "rating": 4,
+        "reason": "Rooms are spacious, clean, and well-equipped, but some issues like inconvenient outlet placement and inconsistent housekeeping were noted."
+    },
+    "location": {
+        "rating": 5,
+        "reason": "The hotel is centrally located in Center City, near Rittenhouse Square, with easy access to restaurants, shops, and attractions."
+    },
+    "service": {
+        "rating": 3,
+        "reason": "While staff were often friendly and accommodating, issues like check-in delays and inconsistent housekeeping were reported."
+    },
+    "safety": {
+        "rating": 3,
+        "reason": "The area is generally safe, but concerns about noise, construction, and communication regarding safety were mentioned."
+    }
+}
