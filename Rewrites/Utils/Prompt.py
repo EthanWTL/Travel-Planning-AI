@@ -22,3 +22,57 @@ human_query_generation_agent = PromptTemplate(
                         input_variables=["input"],
                         template=HUMAN_QUERY_GENERATION_PROMPT,
                         )
+
+
+
+PLANNER_NO_ROUTE_PROMPT = """
+
+You are a proficient travel planner. Based on the given information and query, you will generate a travel plan like the following example. Ensure that all recommendations and their addresses are organized in chronological order for each day. Be considerate, concise and well-structured.
+
+----- Example Starts -----
+
+Query: I am planning a 2-day trip with an expensive budget. I would like to visit some history-oriented attractions. Please recommend Japanese restaurants with a good environment. For accommodation, I am looking for a hotel with good location, good quality, and good service.
+
+Travel Plan: 
+Day X:
+- Accommodation: 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Breakfast: 
+  - Name: XXXX 
+    Address: XXXX, XXXX
+
+- Morning Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Lunch: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Afternoon Attraction: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+  - Name: XXXX
+    Address: XXXX, XXXX
+
+- Dinner: 
+  - Name: XXXX 
+    Address: XXXX, XXXX 
+
+- Night Attraction: 
+  - Name: XXXX
+
+----- Example Ends -----
+
+Given Information: {given_information}
+
+Query: {query}
+
+Travel Plan: """
+
+planner_no_route_agent = PromptTemplate(
+                        input_variables=["given_information", "query"],
+                        template=PLANNER_NO_ROUTE_PROMPT,
+                        )
