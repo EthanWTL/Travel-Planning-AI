@@ -11,7 +11,7 @@ class Accommodations:
     def run(self,
             budget: str,
             preference: List[str]
-            ) -> DataFrame: #Cheap budget,[Good Location]
+            ): #Cheap budget,[Good Location]
         #price
         price_map = {'cheap budget':['$','$$'],'moderate budget':['$','$$','$$$'],'expensive budget':['$$','$$$','$$$$']}
         price_limit = price_map[budget.lower()]
