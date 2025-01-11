@@ -9,6 +9,11 @@ from langchain.schema import ( # type: ignore
     HumanMessage,
     SystemMessage
 )
+from transformers import pipeline
+import torch
+
+
+
 class Planner:
     def __init__(self,
                 agent_prompt: PromptTemplate = planner_route_OP_agent,
@@ -16,6 +21,7 @@ class Planner:
                 ):
         OPENAI_API_KEY = os.getenv('OPEN_AI_API')
         MISTRAL_API_KEY = os.getenv('MISTRAL_API_KEY')
+        self.model_name = model_name
         if model_name == 'gpt-4o-2024-11-20':
             self.llm = ChatOpenAI(model_name=model_name, temperature=0, max_tokens=15000, openai_api_key=OPENAI_API_KEY)
         if model_name == 'mistral-large-2411':
@@ -25,6 +31,10 @@ class Planner:
                 max_tokens=15000,
                 mistral_api_key = MISTRAL_API_KEY
             )
+        if model_name == 'meta-llama/Llama-3.1-8B':
+            self.llm = pipeline(
+                    "text-generation", model="meta-llama/Llama-3.1-8B", model_kwargs={"torch_dtype": torch.bfloat16}, device_map="auto"
+                )
 
         self.agent_prompt = agent_prompt
 
@@ -40,7 +50,15 @@ class Planner:
 
         with open('test.txt', 'w') as f:
             f.write(str(results))
-        return self.llm.invoke([HumanMessage(content=self._build_agent_prompt(str(results), query))]).content
+
+        if self.model_name == 'meta-llama/Llama-3.1-8B':
+            print('we begin to make a plan')
+            print('the prompt is: ', self._build_agent_prompt(str(results), query))
+            request = self.llm(self._build_agent_prompt(str(results), query), max_new_tokens = 15000, return_full_text=False, do_sample=False)
+            print(request)
+        else:
+            request = self.llm.invoke([HumanMessage(content=self._build_agent_prompt(str(results), query))]).content
+        return request
     
     def _build_agent_prompt(self, text, query) -> str:
         return self.agent_prompt.format(
