@@ -1,4 +1,5 @@
 import os
+from pandas import DataFrame
 from langchain.prompts import PromptTemplate # type: ignore
 from Utils.Prompt import planner_route_OP_agent
 from langchain.chat_models import ChatOpenAI # type: ignore
@@ -29,8 +30,17 @@ class Planner:
 
         pass
 
-    def run(self, text, query):
-        return self.llm.invoke([HumanMessage(content=self._build_agent_prompt(text, query)) ]).content
+    def run(self, notebook, query):
+        results = []
+        for idx, unit in enumerate(notebook):
+            if type(unit['Content']) == DataFrame:
+                results.append({"index":idx, "Description":unit['Description'], "Content":unit['Content'].to_string(index=False)})
+            else:
+                results.append({"index":idx, "Description":unit['Description'], "Content":str(unit['Content'])})
+
+        with open('test.txt', 'w') as f:
+            f.write(str(results))
+        return self.llm.invoke([HumanMessage(content=self._build_agent_prompt(str(results), query))]).content
     
     def _build_agent_prompt(self, text, query) -> str:
         return self.agent_prompt.format(
