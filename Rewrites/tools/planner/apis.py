@@ -12,6 +12,8 @@ from langchain.schema import ( # type: ignore
 from transformers import pipeline
 import torch
 
+import ollama
+
 
 
 class Planner:
@@ -31,10 +33,10 @@ class Planner:
                 max_tokens=15000,
                 mistral_api_key = MISTRAL_API_KEY
             )
-        if model_name == 'meta-llama/Llama-3.1-8B':
-            self.llm = pipeline(
-                    "text-generation", model="meta-llama/Llama-3.1-8B", model_kwargs={"torch_dtype": torch.bfloat16}, device_map="auto"
-                )
+        #if model_name == 'meta-llama/Llama-3.1-8B':
+        #    self.llm = pipeline(
+        #            "text-generation", model="meta-llama/Llama-3.1-8B", model_kwargs={"torch_dtype": torch.bfloat16}, device_map="auto"
+        #        )
 
         self.agent_prompt = agent_prompt
 
@@ -52,10 +54,7 @@ class Planner:
             f.write(str(results))
 
         if self.model_name == 'meta-llama/Llama-3.1-8B':
-            print('we begin to make a plan')
-            print('the prompt is: ', self._build_agent_prompt(str(results), query))
-            request = self.llm(self._build_agent_prompt(str(results), query), max_new_tokens = 15000, return_full_text=False, do_sample=False)
-            print(request)
+            request = ollama.generate(model='llama3.1', prompt=self._build_agent_prompt(str(results), query), options={'num_ctx': 70000})['response']
         else:
             request = self.llm.invoke([HumanMessage(content=self._build_agent_prompt(str(results), query))]).content
         return request
