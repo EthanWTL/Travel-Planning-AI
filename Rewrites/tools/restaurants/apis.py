@@ -52,4 +52,6 @@ class Restaurants:
             return "There is no restaurants that matches the preferences."
         
         #result.to_csv('restaurant_csv.csv', index=False)
+
+        result = result[['name','address','latitude','longitude','good_for_meal']]
         return result

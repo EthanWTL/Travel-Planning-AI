@@ -34,4 +34,6 @@ class Attractions:
         if len(result) == 0:
             return "There is no attractions that matches the preferences."
         #result.to_csv('attractions_csv.csv', index=False)
+
+        result = result[['name','address','latitude','longitude']]
         return result

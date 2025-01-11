@@ -35,6 +35,8 @@ class Accommodations:
                 else:
                     pref_list = ['good ' + col, 'excellent ' + col]
                     result = result[result[col].isin(pref_list)]
+
+        result = result[['name','address','latitude','longitude']]
         
         if len(result) == 0:
             return "There is no Accommodation that matches the preferences."
