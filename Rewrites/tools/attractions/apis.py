@@ -25,6 +25,7 @@ class Attractions:
             col = get_close_matches(preference[0].lower(), self.data.columns, n=1, cutoff=0.6)
             if(col != []):
                 col = col[0]
+                #print(col)
                 pref_list = ['medium ' + col, 'high ' + col]
                 result = result[result[col].isin(pref_list)]
         else:
