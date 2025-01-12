@@ -33,10 +33,10 @@ class Planner:
                 max_tokens=15000,
                 mistral_api_key = MISTRAL_API_KEY
             )
-        #if model_name == 'meta-llama/Llama-3.1-8B':
-        #    self.llm = pipeline(
-        #            "text-generation", model="meta-llama/Llama-3.1-8B", model_kwargs={"torch_dtype": torch.bfloat16}, device_map="auto"
-        #        )
+        if model_name == 'meta-llama/Llama-3.1-8B':
+            self.llm = pipeline(
+                    "text-generation", model="meta-llama/Llama-3.1-8B-Instruct", model_kwargs={"torch_dtype": torch.bfloat16}, device_map="auto"
+               )
 
         self.agent_prompt = agent_prompt
 
@@ -54,7 +54,9 @@ class Planner:
             f.write(str(results))
 
         if self.model_name == 'meta-llama/Llama-3.1-8B':
-            request = ollama.generate(model='llama3.1', prompt=self._build_agent_prompt(str(results), query), options={'num_ctx': 70000})['response']
+            messages = [{"role": "user", "content": self._build_agent_prompt(str(results), query)}]
+            outputs = self.llm(messages,do_sample=False,max_new_tokens=5000)
+            request = outputs[0]["generated_text"][-1]['content']
         else:
             request = self.llm.invoke([HumanMessage(content=self._build_agent_prompt(str(results), query))]).content
         return request
