@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Dropdowns with Search and Export</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    .dropdown-section,
+    .search-section {
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: #f9f9f9;
+    }
+    label {
+      margin-right: 10px;
+      font-weight: bold;
+    }
+    input,
+    select {
+      padding: 5px;
+      margin-bottom: 10px;
+      margin-right: 10px;
+      width: 200px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    table, th, td {
+      border: 1px solid #ddd;
+    }
+    th, td {
+      text-align: left;
+      padding: 10px;
+    }
+    th {
+      background-color: #4CAF50;
+      color: white;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <h1>Dynamic Dropdowns with Search and Export</h1>
+
+  <div class="container">
+    <!-- Dropdown Section -->
+    <div class="dropdown-section">
+      <label for="recordDropdown">Select a Record:</label>
+      <select id="recordDropdown">
+        <option value="" disabled selected>Select an option</option>
+      </select>
+      <button id="saveButton">Save Selection</button>
+    </div>
+
+    <!-- Search Section -->
+    <div class="search-section">
+      <h2>Search Records</h2>
+      <label for="searchByName">Name:</label>
+      <input type="text" id="searchByName" placeholder="Search by name">
+      <label for="searchByDescription">Description:</label>
+      <input type="text" id="searchByDescription" placeholder="Search by description">
+      <button id="searchButton">Search</button>
+    </div>
+
+    <!-- Results Section -->
+    <div id="resultsSection">
+      <h2>Search Results</h2>
+      <table id="resultsTable">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="2">No results found. Use the search tool above.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Export Buttons -->
+    <button id="exportCSV">Export as CSV</button>
+    <button id="exportJSONL">Export as JSONL</button>
+  </div>
+
+  <script>
+    const recordDropdown = document.getElementById("recordDropdown");
+    const descriptionSection = document.getElementById("description");
+    const saveButton = document.getElementById("saveButton");
+    const searchButton = document.getElementById("searchButton");
+    const exportCSVButton = document.getElementById("exportCSV");
+    const exportJSONLButton = document.getElementById("exportJSONL");
+    const searchByName = document.getElementById("searchByName");
+    const searchByDescription = document.getElementById("searchByDescription");
+    const resultsTable = document.getElementById("resultsTable").querySelector("tbody");
+
+    let records = []; // To store the records from the input file
+    let savedSelections = []; // To store user selections
+
+    // Function to populate the dropdown
+    function populateDropdown(records) {
+      records.forEach((record, index) => {
+        const option = document.createElement("option");
+        option.value = index; // Use the index to reference the record
+        option.textContent = record.name; // Assumes the records have a 'name' field
+        recordDropdown.appendChild(option);
+      });
+    }
+
+    // Function to display the description
+    recordDropdown.addEventListener("change", (e) => {
+      const selectedIndex = e.target.value;
+      const selectedRecord = records[selectedIndex];
+      descriptionSection.innerHTML = `
+        <p><strong>Name:</strong> ${selectedRecord.name}</p>
+        <p><strong>Description:</strong> ${selectedRecord.description}</p>
+      `;
+    });
+
+    // Function to save the current selection
+    saveButton.addEventListener("click", () => {
+      const selectedIndex = recordDropdown.value;
+      if (selectedIndex) {
+        const selectedRecord = records[selectedIndex];
+        savedSelections.push(selectedRecord);
+        alert("Selection saved!");
+      } else {
+        alert("Please select a record first.");
+      }
+    });
+
+    // Function to perform a search
+    searchButton.addEventListener("click", () => {
+      const nameQuery = searchByName.value.toLowerCase();
+      const descriptionQuery = searchByDescription.value.toLowerCase();
+
+      const filteredRecords = records.filter((record) => {
+        const matchesName = nameQuery ? record.name.toLowerCase().includes(nameQuery) : true;
+        const matchesDescription = descriptionQuery ? record.description.toLowerCase().includes(descriptionQuery) : true;
+        return matchesName && matchesDescription;
+      });
+
+      updateResultsTable(filteredRecords);
+    });
+
+    // Function to update the results table
+    function updateResultsTable(filteredRecords) {
+      resultsTable.innerHTML = "";
+
+      if (filteredRecords.length === 0) {
+        resultsTable.innerHTML = `
+          <tr>
+            <td colspan="2">No results found. Try adjusting your search criteria.</td>
+          </tr>
+        `;
+        return;
+      }
+
+      filteredRecords.forEach((record) => {
+        const row = document.createElement("tr");
+        row.innerHTML = `
+          <td>${record.name}</td>
+          <td>${record.description}</td>
+        `;
+        resultsTable.appendChild(row);
+      });
+    }
+
+    // Function to export data as CSV
+    exportCSVButton.addEventListener("click", () => {
+      if (savedSelections.length === 0) {
+        alert("No data to export.");
+        return;
+      }
+
+      const csvContent = [
+        ["name", "description"], // CSV Header
+        ...savedSelections.map((record) => [record.name, record.description])
+      ]
+        .map((row) => row.join(","))
+        .join("\n");
+
+      const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "selections.csv";
+      link.click();
+    });
+
+    // Function to export data as JSONL
+    exportJSONLButton.addEventListener("click", () => {
+      if (savedSelections.length === 0) {
+        alert("No data to export.");
+        return;
+      }
+
+      const jsonlContent = savedSelections
+        .map((record) => JSON.stringify(record))
+        .join("\n");
+
+      const blob = new Blob([jsonlContent], { type: "application/jsonl;charset=utf-8;" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "selections.jsonl";
+      link.click();
+    });
+
+    // Simulate loading records from a CSV/JSONL
+    function loadRecords() {
+      // Example data. Replace this with CSV/JSONL parsing logic.
+      records = [
+        { name: "Record 1", description: "This is the description for record 1." },
+        { name: "Record 2", description: "This is the description for record 2." },
+        { name: "Record 3", description: "This is the description for record 3." }
+      ];
+
+      populateDropdown(records);
+    }
+
+    // Initial load
+    loadRecords();
+  </script>
+</body>
+</html>
