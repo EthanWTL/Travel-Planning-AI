@@ -37,6 +37,13 @@ class Planner:
             self.llm = pipeline(
                     "text-generation", model="meta-llama/Llama-3.1-8B-Instruct", model_kwargs={"torch_dtype": torch.bfloat16}, device_map="auto"
                )
+        if model_name == 'open-mixtral-8x7b':
+            self.llm = ChatMistralAI(
+                model="open-mixtral-8x7b",
+                temperature=0,
+                max_tokens=15000,
+                mistral_api_key = MISTRAL_API_KEY
+            )
 
         self.agent_prompt = agent_prompt
 
