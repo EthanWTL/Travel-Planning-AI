@@ -1,5 +1,5 @@
-name,address,latitude,longitude,stars,good_for_meal,price,cuisine_1,cuisine_2,flavor,freshness,service,environment,value
-Chabaa Thai Bistro,4343 Main St,40.025630123,-75.2234600857,4.0,dinner,$$,Thai,Noodles,good flavor,good freshness,average service,good environment,average value
-House of Thai Cuisine,3520 Cottman Ave,40.0372006,-75.0421226,4.5,dinner,$$,Thai,Not Applicable,good flavor,good freshness,good service,good environment,good value
-JJ Thai Cuisine,2028 Chestnut St,39.9521034288,-75.174737909,4.5,"lunch, dinner",$$,Asian Fusion,Thai,good flavor,good freshness,good service,good environment,good value
-Xiandu Thai,1119 Walnut St,39.9490512,-75.159888,4.0,"lunch, dinner",$$,Thai,Not Applicable,good flavor,good freshness,excellent service,excellent environment,good value
+name,address,latitude,longitude,good_for_meal
+Chabaa Thai Bistro,4343 Main St,40.025630123,-75.2234600857,dinner
+House of Thai Cuisine,3520 Cottman Ave,40.0372006,-75.0421226,dinner
+JJ Thai Cuisine,2028 Chestnut St,39.9521034288,-75.174737909,"lunch, dinner"
+Xiandu Thai,1119 Walnut St,39.9490512,-75.159888,"lunch, dinner"

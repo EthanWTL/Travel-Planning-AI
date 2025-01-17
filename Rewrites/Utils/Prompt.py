@@ -80,7 +80,7 @@ planner_no_route_agent = PromptTemplate(
 
 PLANNER_ROUTE_OP_PROMPT = """
 
-You are a proficient travel planner. Based on the given information and query, you will generate a travel plan like the following example. Ensure that all recommendations and their addresses are organized in chronological order for each day. Give exactly 4 attraction recommendations for each day. Be considerate, concise and well-structured. Please also optimize the routes for the trip. For each day, find attractions that are close to each other for the recommendations. 
+You are a proficient travel planner. Based on the given information and query, you will generate a travel plan like the following example. Ensure that all recommendations and their addresses are organized in chronological order for each day. Give exactly 4 attraction recommendations for each day. Be considerate, concise and well-structured. Please also optimize the routes for the trip. For each day, find attractions that are close to each other for the recommendations.
 
 ----- Example Starts -----
 
