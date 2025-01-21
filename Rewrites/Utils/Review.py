@@ -206,9 +206,9 @@ The rating is from 1 to 5, higher the better. 3 is average. 4 and 5 means good a
 
 1. Evaluate the flavor of the dishes on a scale of 1 to 5. 
 2. Evaluate the freshness of the food on a scale of 1 to 5.
-4. Evaluate the service of the restaurant in general with a scale of 1 to 5, considering waiting time, service, and any interaction between the guest and the staff.
-5. Evaluate the environment of the restaurant from 1 to 5. Including the cleanliness of the restaurant, the kitchen, the surroundings, as well as the decorations and vibes of the restaurant. The better the environment, the better the score. 
-6. Evaluate the value of the restaurant from 1 to 5. If it is overly priced then it will have a lower score. If it's closer to transportation and other attractions then it might have a higher score. 
+3. Evaluate the service of the restaurant in general with a scale of 1 to 5, considering waiting time, service, and any interaction between the guest and the staff.
+4. Evaluate the environment of the restaurant from 1 to 5. Including the cleanliness of the restaurant, the kitchen, the surroundings, as well as the decorations and vibes of the restaurant. The better the environment, the better the score. 
+5. Evaluate the value of the restaurant from 1 to 5. If it is overly priced then it will have a lower score. If it's closer to transportation and other attractions then it might have a higher score. 
 
 ------ Example 1 starts -----
 
