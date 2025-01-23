@@ -131,7 +131,7 @@ planner_route_OP_agent = PromptTemplate(
                         )
 
 
-ZEROSHOT_REACT_INSTRUCTION = """Collect information for a query plan using interleaving 'Thought', 'Action', and 'Observation' steps. Ensure you gather valid information related to transportation, dining, attractions, and accommodation. All information should be written in Notebook, which will then be input into the Planner tool. Note that the nested use of tools is prohibited. Don't include phrases like "Action: ", "Action 5", "Thought 1", or "Thought: " in your response. 'Thought' can reason about the current situation, and 'Action' can have 5 different types:
+ZEROSHOT_REACT_INSTRUCTION = """Collect information for a query plan using interleaving 'Thought', 'Action', and 'Observation' steps. Ensure you gather valid information related to transportation, dining, attractions, and accommodation. Note that the nested use of tools is prohibited. Don't include phrases like "Action: ", "Action 5", "Thought 1", or "Thought: " in your response. 'Thought' can reason about the current situation, and 'Action' can have 5 different types:
 
 (1) AccommodationSearch[Budget,Preference]:
 Description: Find the accommodation that matches the preference.

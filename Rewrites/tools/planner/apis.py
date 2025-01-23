@@ -4,6 +4,7 @@ from langchain.prompts import PromptTemplate # type: ignore
 from Utils.Prompt import planner_route_OP_agent
 from langchain.chat_models import ChatOpenAI # type: ignore
 from langchain_mistralai import ChatMistralAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.schema import ( # type: ignore
     AIMessage,
     HumanMessage,
@@ -23,6 +24,7 @@ class Planner:
                 ):
         OPENAI_API_KEY = os.getenv('OPEN_AI_API')
         MISTRAL_API_KEY = os.getenv('MISTRAL_API_KEY')
+        GOOGLE_API_KEY = os.getenv('GEMINI_API_KEY')
         self.model_name = model_name
         if model_name == 'gpt-4o-2024-11-20':
             self.llm = ChatOpenAI(model_name=model_name, temperature=0, max_tokens=15000, openai_api_key=OPENAI_API_KEY)
@@ -45,6 +47,15 @@ class Planner:
                 mistral_api_key = MISTRAL_API_KEY
             )
 
+        if model_name == 'gemini-1.5-pro':
+            self.llm = ChatGoogleGenerativeAI(
+                    model="gemini-1.5-pro",
+                    max_tokens=15000,
+                    temperature=0,
+                    google_api_key = GOOGLE_API_KEY,
+                    model_kwargs={"stop": ['\n']}
+                )
+
         self.agent_prompt = agent_prompt
 
         pass
@@ -64,6 +75,9 @@ class Planner:
             messages = [{"role": "user", "content": self._build_agent_prompt(str(results), query)}]
             outputs = self.llm(messages,do_sample=False,max_new_tokens=5000)
             request = outputs[0]["generated_text"][-1]['content']
+        elif self.model_name == 'gemini-1.5-pro':
+            request = self.llm.invoke(self._build_agent_prompt(str(results), query)).content
+
         else:
             request = self.llm.invoke([HumanMessage(content=self._build_agent_prompt(str(results), query))]).content
         return request
